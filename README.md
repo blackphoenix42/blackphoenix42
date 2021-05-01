@@ -68,14 +68,14 @@
 
 </details>
 
-<details>
+<!-- <details>
   <summary>⚡ Recent GitHub Activity</summary>
-  
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-</details>
+</details> -->
 
 [youtube]: https://youtube.com/channel/UCcINlOM-rC1_8yiRGH_iFBg
 [instagram]: https://www.instagram.com/binary.phoenix/
