@@ -71,9 +71,9 @@
 <!-- <details>
   <summary>⚡ Recent GitHub Activity</summary>
 
-<!--START_SECTION:activity-->
+START_SECTION:activity // comment it
 
-<!--END_SECTION:activity-->
+END_SECTION:activity // comment it
 
 </details> -->
 
