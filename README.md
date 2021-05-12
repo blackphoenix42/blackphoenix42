@@ -70,6 +70,7 @@
 <details>
   <summary>⚡ Blogs</summary>
 <!-- BLOG-POST-LIST:START -->
+- [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
