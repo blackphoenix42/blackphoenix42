@@ -1,4 +1,4 @@
-## Kon'nichiwa (Hello) !!, I'm Ayush Yadav 👋
+## Kon'nichiwa (Hello) !!, I'm Ayush Yadav <img src="https://media.giphy.com/media/8UJPL4osfh50F1axXJ/giphy.gif" width="25px">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/binaryphoenix?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblackphoenix42&screen_name=binaryphoenix)
 
@@ -46,17 +46,36 @@
 
 ---
 
+📕 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2)
+<!-- BLOG-POST-LIST:END -->
+
+<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEooBvMO2kBVg/company-logo_200_200/0/1519880697944?e=2159024400&v=beta&t=cVe1_xseidAuya3zcvZMDT9LkbCjNcsm_R0wYqoJ7xo" width="25px"> **Stack Overflow Activity**
+<!-- STACKOVERFLOW:START -->
+- [Answer by Binary Phoenix for Does if/else statements require continue?](https://stackoverflow.com/questions/64892184/does-if-else-statements-require-continue/64892444#64892444)
+- [Answer by Binary Phoenix for Print a string and then print the string next to the next sting in python list](https://stackoverflow.com/questions/64809536/print-a-string-and-then-print-the-string-next-to-the-next-sting-in-python-list/64809641#64809641)
+- [Answer by Binary Phoenix for Hi can someone help explain why my code isn't working?](https://stackoverflow.com/questions/61691684/hi-can-someone-help-explain-why-my-code-isnt-working/61692250#61692250)
+<!-- STACKOVERFLOW:END -->
+
+<!-- <img src="https://img.favpng.com/22/23/23/social-media-github-computer-icons-logo-png-favpng-ari7E0gHBmTSMg57C3wKYxCMb.jpg" width="25px"> **Recent Github Activity**
+START_SECTION:activity // comment it
+END_SECTION:activity // comment it
+-->
+
+---
+
 <details>
   <summary>⚡ Most Used Languages</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackphoenix42&theme=dracula)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackphoenix42&theme=dracula)
 
 </details>
 
 <details>
   <summary>⚡ Github Streak</summary>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackphoenix42&theme=dark)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackphoenix42&theme=dark)
 
 </details>
 
@@ -67,30 +86,6 @@
 
 </details>
 
-<details>
-  <summary>⚡ Blogs</summary>
-<!-- BLOG-POST-LIST:START -->
-- [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2)
-<!-- BLOG-POST-LIST:END -->
-</details>
-
-<details>
-  <summary>⚡ Stack Overflow Activity</summary>
-<!-- STACKOVERFLOW:START -->
-- [Answer by Binary Phoenix for Does if/else statements require continue?](https://stackoverflow.com/questions/64892184/does-if-else-statements-require-continue/64892444#64892444)
-- [Answer by Binary Phoenix for Print a string and then print the string next to the next sting in python list](https://stackoverflow.com/questions/64809536/print-a-string-and-then-print-the-string-next-to-the-next-sting-in-python-list/64809641#64809641)
-- [Answer by Binary Phoenix for Hi can someone help explain why my code isn't working?](https://stackoverflow.com/questions/61691684/hi-can-someone-help-explain-why-my-code-isnt-working/61692250#61692250)
-<!-- STACKOVERFLOW:END -->
-</details>
-
-<!-- <details>
-  <summary>⚡ Recent GitHub Activity</summary>
-
-START_SECTION:activity // comment it
-
-END_SECTION:activity // comment it
-
-</details> -->
 
 [youtube]: https://youtube.com/channel/UCcINlOM-rC1_8yiRGH_iFBg
 [instagram]: https://www.instagram.com/binary.phoenix/
