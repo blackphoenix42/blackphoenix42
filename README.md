@@ -67,6 +67,18 @@
 
 </details>
 
+<details>
+  <summary>⚡ Blogs</summary>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</details>
+
+<details>
+  <summary>⚡ Stack Overflow Activity</summary>
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+</details>
+
 <!-- <details>
   <summary>⚡ Recent GitHub Activity</summary>
 
