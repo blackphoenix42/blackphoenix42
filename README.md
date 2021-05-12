@@ -77,6 +77,9 @@
 <details>
   <summary>⚡ Stack Overflow Activity</summary>
 <!-- STACKOVERFLOW:START -->
+- [Answer by Binary Phoenix for Does if/else statements require continue?](https://stackoverflow.com/questions/64892184/does-if-else-statements-require-continue/64892444#64892444)
+- [Answer by Binary Phoenix for Print a string and then print the string next to the next sting in python list](https://stackoverflow.com/questions/64809536/print-a-string-and-then-print-the-string-next-to-the-next-sting-in-python-list/64809641#64809641)
+- [Answer by Binary Phoenix for Hi can someone help explain why my code isn't working?](https://stackoverflow.com/questions/61691684/hi-can-someone-help-explain-why-my-code-isnt-working/61692250#61692250)
 <!-- STACKOVERFLOW:END -->
 </details>
 
