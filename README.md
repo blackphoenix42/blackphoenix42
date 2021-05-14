@@ -49,22 +49,28 @@
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2)
 - [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2)
 <!-- BLOG-POST-LIST:END -->
 
+🎬 **Latest YouTube Videos**
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEooBvMO2kBVg/company-logo_200_200/0/1519880697944?e=2159024400&v=beta&t=cVe1_xseidAuya3zcvZMDT9LkbCjNcsm_R0wYqoJ7xo" width="25px"> **Stack Overflow Activity**
 
 <!-- STACKOVERFLOW:START -->
+
 - [Answer by Binary Phoenix for Does if/else statements require continue?](https://stackoverflow.com/questions/64892184/does-if-else-statements-require-continue/64892444#64892444)
 - [Answer by Binary Phoenix for Print a string and then print the string next to the next sting in python list](https://stackoverflow.com/questions/64809536/print-a-string-and-then-print-the-string-next-to-the-next-sting-in-python-list/64809641#64809641)
 - [Answer by Binary Phoenix for Hi can someone help explain why my code isn't working?](https://stackoverflow.com/questions/61691684/hi-can-someone-help-explain-why-my-code-isnt-working/61692250#61692250)
 <!-- STACKOVERFLOW:END -->
 
 <!-- <img src="https://img.favpng.com/22/23/23/social-media-github-computer-icons-logo-png-favpng-ari7E0gHBmTSMg57C3wKYxCMb.jpg" width="25px"> **Recent Github Activity**
-START_SECTION:activity // comment it
-END_SECTION:activity // comment it
--->
+<!-- START_SECTION:activity  -->
+<!-- END_SECTION:activity  -->
 
 ---
 
