@@ -66,7 +66,6 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEooBvMO2kBVg/company-logo_200_200/0/1519880697944?e=2159024400&v=beta&t=cVe1_xseidAuya3zcvZMDT9LkbCjNcsm_R0wYqoJ7xo" width="25px"> **Stack Overflow Activity**
 
 <!-- STACKOVERFLOW:START -->
-
 - [Answer by Binary Phoenix for Does if/else statements require continue?](https://stackoverflow.com/questions/64892184/does-if-else-statements-require-continue/64892444#64892444)
 - [Answer by Binary Phoenix for Print a string and then print the string next to the next sting in python list](https://stackoverflow.com/questions/64809536/print-a-string-and-then-print-the-string-next-to-the-next-sting-in-python-list/64809641#64809641)
 - [Answer by Binary Phoenix for Hi can someone help explain why my code isn't working?](https://stackoverflow.com/questions/61691684/hi-can-someone-help-explain-why-my-code-isnt-working/61692250#61692250)
