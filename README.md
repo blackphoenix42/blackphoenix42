@@ -1,4 +1,4 @@
-[<img align="right" alt="binaryphoenix | Logo" width="25%" src="https://i.imgur.com/BrsRXiU.png" style="z-index:999" />][linkedin]
+[<img align="right" alt="binaryphoenix | Logo" width="25%" src="https://i.imgur.com/BrsRXiU.png" />][linkedin]
 
 <h2>Kon'nichiwa (Hello) !!, I'm Ayush Yadav <img src="https://media.giphy.com/media/8UJPL4osfh50F1axXJ/giphy.gif" width="25px"></h2>
 
