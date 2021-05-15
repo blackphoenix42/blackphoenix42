@@ -1,10 +1,10 @@
 [<img align="right" alt="binaryphoenix | Logo" width="25%" src="https://i.imgur.com/BrsRXiU.png" style="z-index:999" />][linkedin]
 
-### <span style="text-decoration: underline;text-decoration-color: red;text-decoration-style: wavy">Kon'nichiwa (Hello) !!, I'm Ayush Yadav</span> <img src="https://media.giphy.com/media/8UJPL4osfh50F1axXJ/giphy.gif" width="25px">
+<h2>Kon'nichiwa (Hello) !!, I'm Ayush Yadav <img src="https://media.giphy.com/media/8UJPL4osfh50F1axXJ/giphy.gif" width="25px"></h2>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/binaryphoenix?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblackphoenix42&screen_name=binaryphoenix)
 
-### <span style="text-decoration:  underline;text-decoration-color: blgreenue;text-decoration-style: wavy;">I'm Developer, Writer, Content Creator, and Student!!</span>
+<h2>I'm Developer, Writer, Content Creator, and Student!!</h2>
 
 - 🔭 I’m currently working on some side projects!!
 - 🌱 I’m mastering NodeJS
@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate with other content creators !!
 - 🥅 2021 Goals: Contribute more to Open Source projects!!
 
-### <span style="text-decoration:underline;text-decoration-color: blue;text-decoration-style: wavy">Connect with me:</span>
+### Connect with me:
 
 [<img align="left" alt="binaryphoenix | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="binaryphoenix | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
@@ -23,7 +23,7 @@
 [<img align="left" alt="binaryphoenix | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 <br />
 
-### <span style="text-decoration: underline; text-decoration-color: #cccc00; text-decoration-style: wavy">Languages and Tools:</span>
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
