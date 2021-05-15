@@ -63,7 +63,6 @@
 🎬 **Latest YouTube Videos**
 
 <!-- YOUTUBE:START -->
-
 - [Sort all the punch cards (Final Puzzle)| Google I/O 2021 Punchcard Puzzle 10](https://www.youtube.com/watch?v=P9Q8uiX5I7E)
 - [Find the Quote | Google I/O 2021 Punchcard Puzzle 9](https://www.youtube.com/watch?v=2DidcRgfmg8)
 - [Sort the Punch Cards | Google I/O 2021 Punchcard Puzzle 8](https://www.youtube.com/watch?v=clb-jua-ilA)
