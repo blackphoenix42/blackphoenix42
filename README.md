@@ -2,6 +2,8 @@
 
 <h2>Kon'nichiwa (Hello) !!, I'm Ayush Yadav <img src="https://media.giphy.com/media/8UJPL4osfh50F1axXJ/giphy.gif" width="25px"></h2>
 
+<!-- [![Website](https://img.shields.io/website?label=binaryPhoenix.com&style=for-the-badge&url=https%3A%2F%2FbinaryPhoenix.com)](https://binaryPhoenix.com) -->
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/binaryphoenix?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblackphoenix42&screen_name=binaryphoenix)
 
 <h2>I'm Developer, Writer, Content Creator, and Student!!</h2>
@@ -13,6 +15,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects!!
 
 ### Connect with me:
+
+<!-- [<img align="left" alt="binaryphoenix | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
 [<img align="left" alt="binaryphoenix | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="binaryphoenix | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
@@ -71,6 +75,7 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEooBvMO2kBVg/company-logo_200_200/0/1519880697944?e=2159024400&v=beta&t=cVe1_xseidAuya3zcvZMDT9LkbCjNcsm_R0wYqoJ7xo" width="20px"> **Stack Overflow Activity**
 
 <!-- STACKOVERFLOW:START -->
+
 - [Answer by Binary Phoenix for Does if/else statements require continue?](https://stackoverflow.com/questions/64892184/does-if-else-statements-require-continue/64892444#64892444)
 - [Answer by Binary Phoenix for Print a string and then print the string next to the next sting in python list](https://stackoverflow.com/questions/64809536/print-a-string-and-then-print-the-string-next-to-the-next-sting-in-python-list/64809641#64809641)
 - [Answer by Binary Phoenix for Hi can someone help explain why my code isn't working?](https://stackoverflow.com/questions/61691684/hi-can-someone-help-explain-why-my-code-isnt-working/61692250#61692250)
@@ -102,6 +107,8 @@
   <img align="left" alt="binaryphoenix's GitHub Stats" src="https://readmemd-stats-blackphoenix42.vercel.app/api?username=blackphoenix42&show_icons=true&theme=dracula&count_private=true&hide=issues" />
 
 </details>
+
+<!-- [website]: http://google.com -->
 
 [youtube]: https://youtube.com/channel/UCcINlOM-rC1_8yiRGH_iFBg
 [instagram]: https://www.instagram.com/binary.phoenix/
