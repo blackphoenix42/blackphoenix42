@@ -1,8 +1,10 @@
-## Kon'nichiwa (Hello) !!, I'm Ayush Yadav <img src="https://media.giphy.com/media/8UJPL4osfh50F1axXJ/giphy.gif" width="25px">
+[<img align="right" alt="binaryphoenix | Logo" width="25%" src="https://i.imgur.com/BrsRXiU.png" style="z-index:999" />][linkedin]
+
+### <span style="text-decoration: underline;text-decoration-color: red;text-decoration-style: wavy">Kon'nichiwa (Hello) !!, I'm Ayush Yadav</span> <img src="https://media.giphy.com/media/8UJPL4osfh50F1axXJ/giphy.gif" width="25px">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/binaryphoenix?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblackphoenix42&screen_name=binaryphoenix)
 
-## I'm Developer, Writer, Content Creator, and Student!!
+### <span style="text-decoration:  underline;text-decoration-color: blgreenue;text-decoration-style: wavy;">I'm Developer, Writer, Content Creator, and Student!!</span>
 
 - 🔭 I’m currently working on some side projects!!
 - 🌱 I’m mastering NodeJS
@@ -10,17 +12,18 @@
 - 👯 I’m looking to collaborate with other content creators !!
 - 🥅 2021 Goals: Contribute more to Open Source projects!!
 
-### Connect with me:
+### <span style="text-decoration:underline;text-decoration-color: blue;text-decoration-style: wavy">Connect with me:</span>
 
-[<img align="left" alt="binaryphoenix | LinkedIn" width="22px" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="binaryphoenix | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
 [<img align="left" alt="binaryphoenix | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="binaryphoenix | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="binaryphoenix | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
+[<img align="left" alt="binaryphoenix | LinkedIn" width="22px" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="binaryphoenix | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="binaryphoenix | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="binaryphoenix | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="binaryphoenix | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 <br />
 
-### Languages and Tools:
+### <span style="text-decoration: underline; text-decoration-color: #cccc00; text-decoration-style: wavy">Languages and Tools:</span>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -49,6 +52,7 @@
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2)
 - [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2)
 <!-- BLOG-POST-LIST:END -->
@@ -56,6 +60,7 @@
 🎬 **Latest YouTube Videos**
 
 <!-- YOUTUBE:START -->
+
 - [Sort all the punch cards (Final Puzzle)| Google I/O 2021 Punchcard Puzzle 10](https://www.youtube.com/watch?v=P9Q8uiX5I7E)
 - [Find the Quote | Google I/O 2021 Punchcard Puzzle 9](https://www.youtube.com/watch?v=2DidcRgfmg8)
 - [Sort the Punch Cards | Google I/O 2021 Punchcard Puzzle 8](https://www.youtube.com/watch?v=clb-jua-ilA)
@@ -63,9 +68,10 @@
 - [Complete the Punch Card | Google I/O 2021 Punchcard Puzzle 6](https://www.youtube.com/watch?v=WWxeY7Dtn-0)
 <!-- YOUTUBE:END -->
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEooBvMO2kBVg/company-logo_200_200/0/1519880697944?e=2159024400&v=beta&t=cVe1_xseidAuya3zcvZMDT9LkbCjNcsm_R0wYqoJ7xo" width="25px"> **Stack Overflow Activity**
+<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEooBvMO2kBVg/company-logo_200_200/0/1519880697944?e=2159024400&v=beta&t=cVe1_xseidAuya3zcvZMDT9LkbCjNcsm_R0wYqoJ7xo" width="20px"> **Stack Overflow Activity**
 
 <!-- STACKOVERFLOW:START -->
+
 - [Answer by Binary Phoenix for Does if/else statements require continue?](https://stackoverflow.com/questions/64892184/does-if-else-statements-require-continue/64892444#64892444)
 - [Answer by Binary Phoenix for Print a string and then print the string next to the next sting in python list](https://stackoverflow.com/questions/64809536/print-a-string-and-then-print-the-string-next-to-the-next-sting-in-python-list/64809641#64809641)
 - [Answer by Binary Phoenix for Hi can someone help explain why my code isn't working?](https://stackoverflow.com/questions/61691684/hi-can-someone-help-explain-why-my-code-isnt-working/61692250#61692250)
@@ -104,3 +110,4 @@
 [discord]: https://discord.gg/mRUZEhD
 [twitter]: https://www.twitter.com/BinaryPhoenix/
 [linkedin]: https://www.linkedin.com/in/ayushyadav/
+[stackoverflow]: https://stackoverflow.com/users/13237616
