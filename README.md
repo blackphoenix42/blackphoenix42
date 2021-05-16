@@ -4,7 +4,7 @@
 
 <!-- [![Website](https://img.shields.io/website?label=binaryPhoenix.com&style=for-the-badge&url=https%3A%2F%2FbinaryPhoenix.com)](https://binaryPhoenix.com) -->
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/binaryphoenix?color=success&logoColor=success&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblackphoenix42&screen_name=binaryphoenix)
+[![Twitter Follow](https://img.shields.io/twitter/follow/binaryphoenix?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblackphoenix42&screen_name=binaryphoenix)
 
 <h2>I'm Developer, Writer, Content Creator, and Student!! </h2>
 
