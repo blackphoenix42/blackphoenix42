@@ -6,11 +6,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/binaryphoenix?color=success&logoColor=success&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblackphoenix42&screen_name=binaryphoenix)
 
-<h2>I'm Developer, Writer, Content Creator, and Student!! <img align="center" alt="binaryphoenix | Visitor Badge" width ="8.1%" src="https://visitor-badge.glitch.me/badge?page_id=blackphoenix42.blackphoenix42" /></h2>
+<h2>I'm Developer, Writer, Content Creator, and Student!! </h2>
 
 - 🔭 I’m currently working on some side projects!!
 - 🌱 I’m mastering NodeJS
-- 📱 I’m currently learning android development using react-native
+- 📱 I’m also learning android development using react-native
 - 👯 I’m looking to collaborate with other content creators !!
 - 🥅 2021 Goals: Contribute more to Open Source projects!!
 
@@ -109,6 +109,8 @@
   <img align="left" alt="binaryphoenix's GitHub Stats" src="https://readmemd-stats-blackphoenix42.vercel.app/api?username=blackphoenix42&show_icons=true&theme=dracula&count_private=true&hide=issues" />
 
 </details>
+
+<img align="right" alt="binaryphoenix | Visitor Badge" width ="9%" src="https://visitor-badge.glitch.me/badge?page_id=blackphoenix42.blackphoenix42" />
 
 <!-- [website]: http://google.com -->
 
