@@ -4,9 +4,9 @@
 
 <!-- [![Website](https://img.shields.io/website?label=binaryPhoenix.com&style=for-the-badge&url=https%3A%2F%2FbinaryPhoenix.com)](https://binaryPhoenix.com) -->
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/binaryphoenix?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblackphoenix42&screen_name=binaryphoenix)
+[![Twitter Follow](https://img.shields.io/twitter/follow/binaryphoenix?color=success&logoColor=success&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblackphoenix42&screen_name=binaryphoenix)
 
-<h2>I'm Developer, Writer, Content Creator, and Student!!</h2>
+<h2>I'm Developer, Writer, Content Creator, and Student!! <img align="center" alt="binaryphoenix | Visitor Badge" width ="8.1%" src="https://visitor-badge.glitch.me/badge?page_id=blackphoenix42.blackphoenix42" /></h2>
 
 - 🔭 I’m currently working on some side projects!!
 - 🌱 I’m mastering NodeJS
@@ -56,6 +56,7 @@
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2)
 - [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2)
 <!-- BLOG-POST-LIST:END -->
@@ -63,6 +64,7 @@
 🎬 **Latest YouTube Videos**
 
 <!-- YOUTUBE:START -->
+
 - [Sort all the punch cards (Final Puzzle)| Google I/O 2021 Punchcard Puzzle 10](https://www.youtube.com/watch?v=P9Q8uiX5I7E)
 - [Find the Quote | Google I/O 2021 Punchcard Puzzle 9](https://www.youtube.com/watch?v=2DidcRgfmg8)
 - [Sort the Punch Cards | Google I/O 2021 Punchcard Puzzle 8](https://www.youtube.com/watch?v=clb-jua-ilA)
@@ -73,6 +75,7 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEooBvMO2kBVg/company-logo_200_200/0/1519880697944?e=2159024400&v=beta&t=cVe1_xseidAuya3zcvZMDT9LkbCjNcsm_R0wYqoJ7xo" width="20px"> **Stack Overflow Activity**
 
 <!-- STACKOVERFLOW:START -->
+
 - [Answer by Binary Phoenix for NameError, function not defined. Python Beginner](https://stackoverflow.com/questions/67553727/nameerror-function-not-defined-python-beginner/67553859#67553859)
 - [Answer by Binary Phoenix for Unable to perform string operations on the list elements](https://stackoverflow.com/questions/67553276/unable-to-perform-string-operations-on-the-list-elements/67553353#67553353)
 - [Answer by Binary Phoenix for Does if/else statements require continue?](https://stackoverflow.com/questions/64892184/does-if-else-statements-require-continue/64892444#64892444)
