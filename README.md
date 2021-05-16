@@ -109,7 +109,7 @@
 
 <!-- [website]: http://google.com -->
 
-[youtube]: https://youtube.com/channel/UCcINlOM-rC1_8yiRGH_iFBg
+[youtube]: https://www.youtube.com/channel/UCcINlOM-rC1_8yiRGH_iFBg?sub_confirmation=1
 [instagram]: https://www.instagram.com/binary.phoenix/
 [medium]: https://medium.com/@binaryphoenix01
 [discord]: https://discord.gg/mRUZEhD
