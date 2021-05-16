@@ -73,6 +73,7 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEooBvMO2kBVg/company-logo_200_200/0/1519880697944?e=2159024400&v=beta&t=cVe1_xseidAuya3zcvZMDT9LkbCjNcsm_R0wYqoJ7xo" width="20px"> **Stack Overflow Activity**
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Binary Phoenix for NameError, function not defined. Python Beginner](https://stackoverflow.com/questions/67553727/nameerror-function-not-defined-python-beginner/67553859#67553859)
 - [Answer by Binary Phoenix for Unable to perform string operations on the list elements](https://stackoverflow.com/questions/67553276/unable-to-perform-string-operations-on-the-list-elements/67553353#67553353)
 - [Answer by Binary Phoenix for Does if/else statements require continue?](https://stackoverflow.com/questions/64892184/does-if-else-statements-require-continue/64892444#64892444)
 - [Answer by Binary Phoenix for Print a string and then print the string next to the next sting in python list](https://stackoverflow.com/questions/64809536/print-a-string-and-then-print-the-string-next-to-the-next-sting-in-python-list/64809641#64809641)
