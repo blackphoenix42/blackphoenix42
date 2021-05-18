@@ -101,13 +101,13 @@
 </details>
 
 <details>
-  <summary>⚡ GitHub Stats</summary>
+  <summary>⚡ GitHub Stats <img align="right" alt="binaryphoenix | Visitor Badge" src="https://visitor-badge.glitch.me/badge?page_id=blackphoenix42.blackphoenix42" /></summary>
 
   <img align="left" alt="binaryphoenix's GitHub Stats" src="https://readmemd-stats-blackphoenix42.vercel.app/api?username=blackphoenix42&show_icons=true&theme=dracula&count_private=true" />
 
 </details>
 
-<img align="right" alt="binaryphoenix | Visitor Badge" src="https://visitor-badge.glitch.me/badge?page_id=blackphoenix42.blackphoenix42" />
+
 
 <!-- [website]: http://google.com -->
 
