@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on some side projects!!
 - 🌱 I’m mastering NodeJS
-- 📱 I’m also learning android development using react-native
+- 📱 I’m also learning android development and machine learning using react-native
 - 👯 I’m looking to collaborate with other content creators !!
 - 🥅 2021 Goals: Contribute more to Open Source projects!!
 
