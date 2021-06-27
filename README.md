@@ -38,6 +38,7 @@
 <img align="left" alt="Java" width="26px" src="./assets/java.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Redux" width="26px" src="./assets/redux.svg" />
 <img align="left" alt="Nodejs" width="26px" src="./assets/nodejs.svg" />
 <img align="left" alt="Typescript" width="26px" src="./assets/typescript.svg" />
 <img align="left" alt="Android" width="26px" src="./assets/android.png" />
@@ -68,6 +69,7 @@
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2)
 - [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2)
 <!-- BLOG-POST-LIST:END -->
@@ -75,6 +77,7 @@
 🎬 **Latest YouTube Videos**
 
 <!-- YOUTUBE:START -->
+
 - [How to Move Element to the End of an Array | Coding Interview Question](https://www.youtube.com/watch?v=DK2Gi0KlwgU)
 - [Sort all the punch cards (Final Puzzle)| Google I/O 2021 Punchcard Puzzle 10](https://www.youtube.com/watch?v=P9Q8uiX5I7E)
 - [Find the Quote | Google I/O 2021 Punchcard Puzzle 9](https://www.youtube.com/watch?v=2DidcRgfmg8)
@@ -85,6 +88,7 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEooBvMO2kBVg/company-logo_200_200/0/1519880697944?e=2159024400&v=beta&t=cVe1_xseidAuya3zcvZMDT9LkbCjNcsm_R0wYqoJ7xo" width="20px"> **Stack Overflow Activity**
 
 <!-- STACKOVERFLOW:START -->
+
 - [Answer by Binary Phoenix for Request automatically updated before button can update the text](https://stackoverflow.com/questions/68021282/request-automatically-updated-before-button-can-update-the-text/68024794#68024794)
 - [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089)
 - [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111)
