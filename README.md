@@ -41,13 +41,13 @@
 <img align="left" alt="Redux" width="26px" src="./assets/redux.svg" />
 <img align="left" alt="Nodejs" width="26px" src="./assets/nodejs.svg" />
 <img align="left" alt="Typescript" width="26px" src="./assets/typescript.svg" />
-<img align="left" alt="Jest" width="26px" src="./assets/jest.svg" />
 <img align="left" alt="Android" width="26px" src="./assets/android.png" />
 <img align="left" alt="IOS" width="26px" src="./assets/ios.svg" />
 <img align="left" alt="docker" width="26px" src="./assets/docker.svg" />
 <img align="left" alt="Firebase" width="26px" src="./assets/firebase.svg" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/aws/aws.png" />
 <img align="left" alt="Google Cloud Platform" width="26px" src="./assets/gcp.svg" />
+<img align="left" alt="Jest" width="26px" src="./assets/jest.svg" />
 <img align="left" alt="SSH" width="26px" src="./assets/ssh.png" />
 <img align="left" alt="MongoDB" width="26px" src="./assets/mongodb.svg" />
 <img align="left" alt="MySQL" width="26px" src="./assets/mysql.svg" />
