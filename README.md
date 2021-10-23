@@ -9,8 +9,7 @@
 <h2>I'm Developer, Writer, Content Creator, and Student!! </h2>
 
 - 🔭 I’m currently working on some side projects!!
-- 🌱 I’m mastering ReactJS
-- 📱 I’m also learning machine learning and android development using react-native
+- 🌱 I’m mastering machine learning and app development
 - 👯 I’m looking to collaborate with other content creators !!
 - 🥅 2021 Goals: Contribute more to Open Source projects!!
 
