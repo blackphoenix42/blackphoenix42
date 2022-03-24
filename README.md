@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on some side projects!!
 - 🌱 I’m mastering machine learning and app development
 - 👯 I’m looking to collaborate with other content creators !!
-- 🥅 2021 Goals: Contribute more to Open Source projects!!
+- 🥅 2022 Goals: Contribute more to Open Source projects!!
 
 ### Connect with me:
 
