@@ -187,6 +187,10 @@
 
 <!-- [website]: http://google.com -->
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 [youtube]: https://www.youtube.com/channel/UCcINlOM-rC1_8yiRGH_iFBg?sub_confirmation=1
 [instagram]: https://www.instagram.com/binary.phoenix/
 [medium]: https://medium.com/@binaryphoenix01
