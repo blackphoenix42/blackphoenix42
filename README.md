@@ -1,32 +1,24 @@
 [<img align="right" alt="binaryphoenix | Logo" width="25%" src="https://i.imgur.com/BrsRXiU.png" />][linkedin]
 
-<h2>Kon'nichiwa (Hello) !!, I'm Ayush Yadav <img src="https://media.giphy.com/media/8UJPL4osfh50F1axXJ/giphy.gif" width="25px"></h2>
+# Kon'nichiwa (Hello) !!, I'm Ayush Yadav <img src="https://media.giphy.com/media/8UJPL4osfh50F1axXJ/giphy.gif" width="25px">
 
 <!-- [![Website](https://img.shields.io/website?label=binaryPhoenix.com&style=for-the-badge&url=https%3A%2F%2FbinaryPhoenix.com)](https://binaryPhoenix.com) -->
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/binaryphoenix?style=social&logo=x&color=1DA1F2)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblackphoenix42&screen_name=binaryphoenix)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/binaryphoenix?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblackphoenix42&screen_name=binaryphoenix)
 
-<h2>I'm Developer, Writer, Content Creator, and Student!! </h2>
+🎯 **Software Engineer | Performance Optimization | Full-Stack Developer**  
+💻 C++ | Python | Java | System Verilog | AWS | GCP | CI/CD | DevOps  
+📍 Based in India | 3+ years of experience at Cadence Design Systems
 
-- 🔭 I’m currently working on some side projects!!
-- 🌱 I’m mastering machine learning and app development
-- 👯 I’m looking to collaborate with other content creators !!
-- 🥅 2025 Goals: Contribute more to Open Source projects!!
+---
 
-### Connect with me:
+## 🔧 Technical Skills
 
-<!-- [<img align="left" alt="binaryphoenix | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-
-[<img align="left" alt="binaryphoenix | YouTube" width="22px" src="assets/youtube.svg" />][youtube]
-[<img align="left" alt="binaryphoenix | Twitter" width="22px" src="assets/twitter.svg" />][twitter]
-[<img align="left" alt="binaryphoenix | LinkedIn" width="22px" src="assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="binaryphoenix | Medium" width="22px" src="assets/medium.svg" />][medium]
-[<img align="left" alt="binaryphoenix | Instagram" width="22px" src="assets/instagram.svg" />][instagram]
-[<img align="left" alt="binaryphoenix | StackOverflow" width="22px" src="assets/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="binaryphoenix | Discord" width="22px" src="assets/discord.svg" />][discord]
-<br />
-
-### Languages and Tools:
+- **Languages:** C++, Python, Java, JavaScript, TypeScript, C  
+- **Frameworks/Libraries:** React, Node.js, Express, React Native, SASS, Jest  
+- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes (basic), GitHub Actions, Jenkins, Terraform  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Tools:** GDB, JIRA, Figma, Monitoring Tools, Perforce
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -63,6 +55,77 @@
 
 <br />
 <br />
+<br />
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 **Cadence Design Systems** – *Software Engineer*  
+📅 *July 2022 – Present*  
+- Boosted Xcelium Simulator performance by **8–9%** via low-level optimizations (C++, Verilog).  
+- Enabled **multi-million dollar deal** with Samsung through benchmark leadership.  
+- Led RTL transformations for parsing speedups (3–4%) impacting clients like **Apple, Google, NVIDIA**.  
+- Built and evangelized internal performance diagnostic tools, reducing RCA time by **40%**.  
+- Delivered technical presentations at **Cadence India Conference (CIC)**.
+
+---
+
+## 🌱 Internships & Open Source
+
+- **Script Winter of Code** – Built UniAuth (Google Sign-In clone) with TypeScript, Django, Go.  
+- **Delta Winter of Code** – Dockerized log analyzer with Redis, Celery; integrated CI/CD.  
+- **Tezos India Fellowship** – Built decentralized PvP [gaming app][gamegeeks] with NFT marketplace.  
+- **Programming Club SoC** – Led 5-member team to build low-latency WebRTC video app.  
+- **Trotbee (Backend Intern)** – Created OTP microservice on AWS; boosted video retrieval by 15%.  
+- **Miri Infotech (SDE Intern)** – Built full-stack chat app (React, PostgreSQL, encryption, UX/UI).
+
+---
+
+## 🚀 Projects
+
+- **Xcelium Xform Optimization Engine**  
+  > Refactored inefficient RTL for parsing optimization; delivered 3–4% simulation gains.
+
+- **Xcelium Performance Analysis Library**  
+  > Built root-cause analysis tool for simulation bottlenecks; adopted internally and externally.
+
+- **[Exercise Posture Correction System][proj_exercise_posture_detect]**  
+  > Real-time posture detection using OpenCV & Mediapipe; achieved 95%+ accuracy.
+
+---
+
+## 🏆 Achievements
+
+- 💰 Awarded **$10,000** for decentralized [gaming app][gamegeeks] on Tezos Blockchain  
+- 🧠 5⭐ [HackerRank][hackerrank] Problem Solving  
+- 🥇 Multiple podium finishes in college coding contests  
+- 🥈 Gold & Silver medalist for academic excellence
+
+---
+
+## 💬 Volunteering & Leadership
+
+- 👨‍🏫 Taught 100+ students via [YouTube][youtube] (Dev & CP)  
+- ✍️ Published tech blogs on [Medium][medium]  
+- 🚀 Co-founded **[Game Geeks][gamegeeks]** with $10,000 seed funding  
+- 🧠 Contributor: Google Crowdsource (Level 8), [Stack Overflow][stackOverflow] (75+ rep)  
+- 🎓 Led contests as Head of Programming – **Dynamix Club**
+
+---
+
+## 📫 Let's Connect
+
+<!-- [<img align="left" alt="binaryphoenix | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+
+[<img align="left" alt="binaryphoenix | YouTube" width="22px" src="assets/youtube.svg" />][youtube]
+[<img align="left" alt="binaryphoenix | Twitter" width="22px" src="assets/twitter.svg" />][twitter]
+[<img align="left" alt="binaryphoenix | LinkedIn" width="22px" src="assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="binaryphoenix | Medium" width="22px" src="assets/medium.svg" />][medium]
+[<img align="left" alt="binaryphoenix | Instagram" width="22px" src="assets/instagram.svg" />][instagram]
+[<img align="left" alt="binaryphoenix | StackOverflow" width="22px" src="assets/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="binaryphoenix | Discord" width="22px" src="assets/discord.svg" />][discord]
+<br />
 
 ---
 
@@ -93,6 +156,7 @@
 - [Answer by Binary Phoenix for How to combine function with a list in python?](https://stackoverflow.com/questions/67571145/how-to-combine-function-with-a-list-in-python/67572352#67572352)
 <!-- STACKOVERFLOW:END -->
 
+
 <!-- <img src="https://img.favpng.com/22/23/23/social-media-github-computer-icons-logo-png-favpng-ari7E0gHBmTSMg57C3wKYxCMb.jpg" width="25px"> **Recent Github Activity**
 <!-- START_SECTION:activity  -->
 <!-- END_SECTION:activity  -->
@@ -114,7 +178,8 @@
 </details>
 
 <details>
-  <summary>⚡ GitHub Stats <img align="right" alt="binaryphoenix | Visitor Badge" src="https://visitor-badge.glitch.me/badge?page_id=blackphoenix42.blackphoenix42" /></summary>
+  <summary>⚡ GitHub Stats</summary>
+  <!--<summary>⚡ GitHub Stats <img align="right" alt="binaryphoenix | Visitor Badge" src="https://visitor-badge.glitch.me/badge?page_id=blackphoenix42.blackphoenix42" /></summary -->
 
   <img align="left" alt="binaryphoenix's GitHub Stats" src="https://readmemd-stats-blackphoenix42.vercel.app/api?username=blackphoenix42&show_icons=true&theme=dracula&count_private=true" />
 
@@ -129,3 +194,6 @@
 [twitter]: https://www.twitter.com/BinaryPhoenix/
 [linkedin]: https://www.linkedin.com/in/ayushyadav/
 [stackoverflow]: https://stackoverflow.com/users/13237616
+[hackerrank]: https://www.hackerrank.com/profile/BinaryPhoenix
+[gamegeeks]: https://github.com/Game-Geeks-Org
+[proj_exercise_posture_detect]: https://github.com/blackphoenix42/exercise-posture-detection
