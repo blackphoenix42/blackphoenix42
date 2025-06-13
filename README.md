@@ -184,8 +184,8 @@
   <img align="left" alt="binaryphoenix's GitHub Stats" src="https://readmemd-stats-blackphoenix42.vercel.app/api?username=blackphoenix42&show_icons=true&theme=dracula&count_private=true" />
 
 </details>
-
 <!-- [website]: http://google.com -->
+
 <details>
   <summary>⚡ GitHub Activity</summary>
   
@@ -193,7 +193,9 @@
 1. 🎉 Merged PR [#1](https://github.com/blackphoenix42/Daily-Coding-Problem-Solutions/pull/1) in [blackphoenix42/Daily-Coding-Problem-Solutions](https://github.com/blackphoenix42/Daily-Coding-Problem-Solutions)
 2. 💪 Opened PR [#1](https://github.com/blackphoenix42/Daily-Coding-Problem-Solutions/pull/1) in [blackphoenix42/Daily-Coding-Problem-Solutions](https://github.com/blackphoenix42/Daily-Coding-Problem-Solutions)
 <!--END_SECTION:activity-->
+
 </details>
+
 <img align="right" src="https://komarev.com/ghpvc/?username=blackphoenix42" alt="blackphoenix42" />
 
 [youtube]: https://www.youtube.com/channel/UCcINlOM-rC1_8yiRGH_iFBg?sub_confirmation=1
