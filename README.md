@@ -63,11 +63,12 @@
 
 ### 🏢 **Cadence Design Systems** – *Software Engineer*  
 📅 *July 2022 – Present*  
-- Boosted Xcelium Simulator performance by **8–9%** via low-level optimizations (C++, Verilog).  
-- Enabled **multi-million dollar deal** with Samsung through benchmark leadership.  
-- Led RTL transformations for parsing speedups (3–4%) impacting clients like **Apple, Google, NVIDIA**.  
-- Built and evangelized internal performance diagnostic tools, reducing RCA time by **40%**.  
-- Delivered technical presentations at **Cadence India Conference (CIC)**.
+- Engineered low-level C++ optimizations and scalable architecture enhancements for Xcelium Logic Simulator, improving overall simulation throughput **18–19%** on large-scale distributed workloads.
+- Spearheaded benchmarking and distributed performance analysis that led to a **strategic performance win** against competitors, contributing to a **multi-million dollar deal with Samsung**.
+- Implemented RTL transformations in the Xform Engine, enabling **13–14%** cumulative parsing speedups and improved simulation performance for **Apple, Google, Samsung, Nvidia**, and other enterprise clients.
+- Presented technical findings at Cadence India Conference (CIC), driving adoption of diagnostic libraries that cut **RCA time by ~40%** overall through flag analysis and log parsing.
+- Received **multiple awards** for technical leadership and innovation, including **Corporate VP r**ecognition & spotlighted in **All-Hands** meeting for driving performance wins in the Samsung deal.
+- C/C++, System Verilog, GNU/Undo debugger, Perforce, Jira, Valgrind, Sun Studio, ASAN, Bash, Linux
 
 ---
 
@@ -85,7 +86,7 @@
 ## 🚀 Projects
 
 - **Xcelium Xform Optimization Engine**  
-  > Refactored inefficient RTL for parsing optimization; delivered 3–4% simulation gains.
+  > Refactored inefficient RTL for parsing optimization.
 
 - **Xcelium Performance Analysis Library**  
   > Built root-cause analysis tool for simulation bottlenecks; adopted internally and externally.
@@ -98,8 +99,8 @@
 ## 🏆 Achievements
 
 - 💰 Awarded **$10,000** for decentralized [gaming app][gamegeeks] on Tezos Blockchain  
-- 🧠 5⭐ [HackerRank][hackerrank] Problem Solving  
-- 🥇 Multiple podium finishes in college coding contests  
+- 🧠 6⭐ [HackerRank][hackerrank] Problem Solving  & 4⭐ rating on [CodeChef][codechef]
+- 🥇 Multiple podium finishes in competitive programming coding contests  
 - 🥈 Gold & Silver medalist for academic excellence
 
 ---
@@ -206,5 +207,6 @@
 [linkedin]: https://www.linkedin.com/in/ayushyadav/
 [stackoverflow]: https://stackoverflow.com/users/13237616
 [hackerrank]: https://www.hackerrank.com/profile/BinaryPhoenix
+[codechef]: https://www.codechef.com/users/blackphoenix42
 [gamegeeks]: https://github.com/Game-Geeks-Org
 [proj_exercise_posture_detect]: https://github.com/blackphoenix42/exercise-posture-detection
