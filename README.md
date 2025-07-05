@@ -86,10 +86,10 @@
 ## 🚀 Projects
 
 - **Compile-Time RTL Transformation & Optimization**  
-  > Refactored inefficient RTL for parsing optimization.
+  > Engineered compile-time RTL optimizations to accelerate simulation by refactoring inefficient code.
 
 - **Simulation Performance Diagnosis & Analysis Library**  
-  > Built root-cause analysis tool for simulation bottlenecks; adopted internally and externally.
+  > Designed a performance diagnosis library to identify design inefficiencies via log parsing and configuration analysis for fast RCA.
 
 - **[Exercise Posture Correction System][proj_exercise_posture_detect]**  
   > Real-time posture detection using OpenCV & Mediapipe; achieved 95%+ accuracy.
