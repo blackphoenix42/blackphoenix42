@@ -85,10 +85,10 @@
 
 ## 🚀 Projects
 
-- **Xcelium Xform Optimization Engine**  
+- **Compile-Time RTL Transformation & Optimization**  
   > Refactored inefficient RTL for parsing optimization.
 
-- **Xcelium Performance Analysis Library**  
+- **Simulation Performance Diagnosis & Analysis Library**  
   > Built root-cause analysis tool for simulation bottlenecks; adopted internally and externally.
 
 - **[Exercise Posture Correction System][proj_exercise_posture_detect]**  
