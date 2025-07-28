@@ -99,7 +99,7 @@
 ## 🏆 Achievements
 
 - 💰 Awarded **$10,000** for decentralized [gaming app][gamegeeks] on Tezos Blockchain  
-- 🧠 6⭐ [HackerRank][hackerrank] Problem Solving  & 4⭐ rating on [CodeChef][codechef]
+- 🧠 6⭐ rating on [CodeChef][codechef], 6⭐ [HackerRank][hackerrank] Problem Solving & Expert on [CodeForces][codeforces]
 - 🥇 Multiple podium finishes in competitive programming coding contests  
 - 🥈 Gold & Silver medalist for academic excellence
 
@@ -208,5 +208,6 @@
 [stackoverflow]: https://stackoverflow.com/users/13237616
 [hackerrank]: https://www.hackerrank.com/profile/BinaryPhoenix
 [codechef]: https://www.codechef.com/users/blackphoenix42
+[codeforces]: https://codeforces.com/profile/BinaryPhoenix10
 [gamegeeks]: https://github.com/Game-Geeks-Org
 [proj_exercise_posture_detect]: https://github.com/blackphoenix42/exercise-posture-detection
