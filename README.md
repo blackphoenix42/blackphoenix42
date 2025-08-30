@@ -191,8 +191,8 @@
   <summary>⚡ GitHub Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/blackphoenix42/AlgoLens/pull/9) in [blackphoenix42/AlgoLens](https://github.com/blackphoenix42/AlgoLens)
-2. 💪 Opened PR [#1](https://github.com/blackphoenix42/Daily-Coding-Problem-Solutions/pull/1) in [blackphoenix42/Daily-Coding-Problem-Solutions](https://github.com/blackphoenix42/Daily-Coding-Problem-Solutions)
+1. 🎉 Merged PR [#10](https://github.com/blackphoenix42/AlgoLens/pull/10) in [blackphoenix42/AlgoLens](https://github.com/blackphoenix42/AlgoLens)
+2. 🎉 Merged PR [#9](https://github.com/blackphoenix42/AlgoLens/pull/9) in [blackphoenix42/AlgoLens](https://github.com/blackphoenix42/AlgoLens)
 <!--END_SECTION:activity-->
 
 </details>
