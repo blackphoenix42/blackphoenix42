@@ -191,8 +191,8 @@
   <summary>⚡ GitHub Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](undefined) in [blackphoenix42/AlgoLens](https://github.com/blackphoenix42/AlgoLens)
-2. ❌ Labeled PR [#13](undefined) in [blackphoenix42/AlgoLens](https://github.com/blackphoenix42/AlgoLens)
+1. ❌ Closed PR [#12](https://github.com/blackphoenix42/AlgoLens/pull/12) in [blackphoenix42/AlgoLens](https://github.com/blackphoenix42/AlgoLens)
+2. 🎉 Merged PR [#13](https://github.com/blackphoenix42/AlgoLens/pull/13) in [blackphoenix42/AlgoLens](https://github.com/blackphoenix42/AlgoLens)
 <!--END_SECTION:activity-->
 
 </details>
