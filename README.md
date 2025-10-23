@@ -279,11 +279,12 @@
   <br/>
 
   <!-- BLOG-POST-LIST:START -->
- 1. $emojiKey(✍️, 📝, 📖, 🔖, 💡) [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2) 
 
- 2. $emojiKey(✍️, 📝, 📖, 🔖, 💡) [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2) 
-<!-- BLOG-POST-LIST:END -->
-  </details>
+1.  $emojiKey(✍️, 📝, 📖, 🔖, 💡) [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2)
+
+2.  $emojiKey(✍️, 📝, 📖, 🔖, 💡) [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2)
+    <!-- BLOG-POST-LIST:END -->
+      </details>
 
 <br/>
 
@@ -319,13 +320,15 @@
   <br/>
 
   <!-- STACKOVERFLOW:START -->
- 1. 🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089) 
 
- 2. ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111) 
+1.  🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089)
 
- 3. 🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656) 
+2.  ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111)
+
+3.  🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656)
 <!-- STACKOVERFLOW:END -->
-      </details>
+
+</details>
 
 <br/>
 
@@ -428,7 +431,7 @@ JSON               3 hrs 51 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20to%20learn%20a%20new%20programming%20language%20is%20by%20writing%20programs%20in%20it.&author=Dennis%20Ritchie&t=1761250249" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Move%20fast%20and%20break%20things.%20Unless%20you%20are%20breaking%20stuff%2C%20you%20are%20not%20moving%20fast%20enough.&author=Mark%20Zuckerberg&t=1761259370" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
