@@ -26,4 +26,4 @@ jobs:
           SHOW_TOTAL: true                  # show total coding time
           SHOW_MASKED_TIME: true           # set true if you want “including unclassified”
           TIME_RANGE: all_time           # "all_time " view
-          LANG_COUNT: 5                  # number of languages to show
+          LANG_COUNT: 10                  # number of languages to show

@@ -268,14 +268,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackphoenix42&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph"/>
 </div>
 
-<!-- ===================== MEDIUM: Latest on Medium ===================== -->
+<br>
+
+## 📡 Live Activity Feeds
+
 <details>
   <summary>
     <img src="https://cdn.simpleicons.org/medium/ffffff" width="20" height="20" alt="Medium" />
     <span style="font-weight:600; margin:0 8px;">Latest Blog Posts</span>
   </summary>
-
-  <br/>
 
   <!-- BLOG-POST-LIST:START -->
 
@@ -286,16 +287,11 @@
 
 </details>
 
-<br/>
-
-<!-- ===================== YOUTUBE: New on YouTube ===================== -->
 <details>
   <summary>
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="20" height="20" alt="YouTube" />
     <span style="font-weight:600; margin:0 8px;">Latest YouTube Videos</span>
   </summary>
-
-  <br/>
 
   <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DK2Gi0KlwgU"><img width="140px" src="http://img.youtube.com/vi/DK2Gi0KlwgU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DK2Gi0KlwgU">How to Move Element to the End of an Array | Coding Interview Question</a><br/>May 28, 2021</td></tr></table>
@@ -307,16 +303,11 @@
   
 </details>
 
-<br/>
-
-<!-- ===================== STACK OVERFLOW: Recent Answers ===================== -->
 <details>
   <summary>
     <img src="https://cdn.simpleicons.org/stackoverflow/F48024" width="20" height="20" alt="Stack Overflow" />
     <span style="font-weight:600; margin:0 8px;">Recent Stack Overflow Answers</span>
   </summary>
-
-  <br/>
 
   <!-- STACKOVERFLOW:START -->
 
@@ -329,16 +320,11 @@
 
 </details>
 
-<br/>
-
-<!-- ===================== GITHUB: Recent Activity ===================== -->
 <details>
   <summary>
     <img src="https://cdn.simpleicons.org/github/ffffff" width="20" height="20" alt="GitHub" />
     <span style="font-weight:600; margin:0 8px;">Recent GitHub Activity</span>
   </summary>
-
-  <br/>
 
   <!--START_SECTION:activity-->
 
