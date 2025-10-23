@@ -279,10 +279,10 @@
   <br/>
 
   <!-- BLOG-POST-LIST:START -->
+ 1. $emojiKey(✍️, 📝, 📖, 🔖, 💡) [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2) 
 
-- [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2)
-- [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2)
-    <!-- BLOG-POST-LIST:END -->
+ 2. $emojiKey(✍️, 📝, 📖, 🔖, 💡) [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2) 
+<!-- BLOG-POST-LIST:END -->
   </details>
 
 <br/>
@@ -303,10 +303,6 @@
 <td><a href="https://www.youtube.com/watch?v=P9Q8uiX5I7E">Sort all the punch cards &lpar;Final Puzzle&rpar;| Google I/O 2021 Punchcard Puzzle 10</a><br/>May 13, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2DidcRgfmg8"><img width="140px" src="http://img.youtube.com/vi/2DidcRgfmg8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2DidcRgfmg8">Find the Quote | Google I/O 2021 Punchcard Puzzle 9</a><br/>May 13, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=clb-jua-ilA"><img width="140px" src="http://img.youtube.com/vi/clb-jua-ilA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=clb-jua-ilA">Sort the Punch Cards | Google I/O 2021 Punchcard Puzzle 8</a><br/>May 13, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_MZkf4njacc"><img width="140px" src="http://img.youtube.com/vi/_MZkf4njacc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_MZkf4njacc">Find the Quote | Google I/O 2021 Punchcard Puzzle 7</a><br/>May 13, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
   </details>
 
@@ -323,13 +319,12 @@
   <br/>
 
   <!-- STACKOVERFLOW:START -->
+ 1. 🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089) 
 
-1.  🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089)
+ 2. ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111) 
 
-2.  ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111)
-
-3.  🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656)
-    <!-- STACKOVERFLOW:END -->
+ 3. 🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656) 
+<!-- STACKOVERFLOW:END -->
       </details>
 
 <br/>
