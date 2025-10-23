@@ -1,4 +1,4 @@
-name: 📊 Latest Stack Overflow Activity
+name: Latest Stack Overflow Activity
 on:
   schedule:
     # Runs every 5 minutes
@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   update-readme-with-stack-overflow:
-    name: 🔄 Update this repo's README with latest activity from StackOverflow
+    name: Update this repo's README with latest activity from StackOverflow
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
