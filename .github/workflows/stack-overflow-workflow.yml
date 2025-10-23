@@ -13,7 +13,7 @@ jobs:
     name: Update this repo's README with latest activity from StackOverflow
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "STACKOVERFLOW"
