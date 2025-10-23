@@ -278,11 +278,13 @@
   <br/>
 
   <!-- BLOG-POST-LIST:START -->
- 1. ✍️ [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2) 
 
- 2. 📝 [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2) 
-<!-- BLOG-POST-LIST:END -->
-      </details>
+1.  ✍️ [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2)
+
+2.  📝 [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2)
+    <!-- BLOG-POST-LIST:END -->
+
+</details>
 
 <br/>
 
@@ -302,7 +304,8 @@
 <table><tr><td><a href="https://www.youtube.com/watch?v=2DidcRgfmg8"><img width="140px" src="http://img.youtube.com/vi/2DidcRgfmg8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2DidcRgfmg8">Find the Quote | Google I/O 2021 Punchcard Puzzle 9</a><br/>May 13, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
-  </details>
+  
+</details>
 
 <br/>
 
@@ -341,8 +344,9 @@
 
 1. 🎉 Merged PR [#19](https://github.com/blackphoenix42/algolens-private/pull/19) in [blackphoenix42/algolens-private](https://github.com/blackphoenix42/algolens-private)
 2. 🎉 Merged PR [#18](https://github.com/blackphoenix42/algolens-private/pull/18) in [blackphoenix42/algolens-private](https://github.com/blackphoenix42/algolens-private)
-     <!--END_SECTION:activity-->
-   </details>
+<!--END_SECTION:activity-->
+
+</details>
 
   <br/>
 
