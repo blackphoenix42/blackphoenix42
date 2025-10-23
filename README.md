@@ -431,7 +431,7 @@ JSON               3 hrs 51 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Move%20fast%20and%20break%20things.%20Unless%20you%20are%20breaking%20stuff%2C%20you%20are%20not%20moving%20fast%20enough.&author=Mark%20Zuckerberg&t=1761259370" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life%20may%20be%20full%20of%20pain%20but%20that%27s%20not%20an%20excuse%20to%20give%20up.&author=Arnold%20Schwarzenegger&t=1761259503" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
