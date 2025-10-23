@@ -38,7 +38,7 @@ jobs:
           
       - name: Create issue for missing files
         if: steps.files.outputs.has_missing == 'true'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           script: |
             const missingFiles = '${{ steps.files.outputs.missing_files }}'.split(' ');
