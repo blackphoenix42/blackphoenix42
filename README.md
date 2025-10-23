@@ -334,7 +334,7 @@
 
   <br/>
 
-## ⏱️ Weekly Coding Time
+## ⏱️ Cumulative Coding Time
 
 <!--START_SECTION:waka-->
 
