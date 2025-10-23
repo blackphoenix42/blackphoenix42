@@ -1,203 +1,430 @@
-[<img align="right" alt="binaryphoenix | Logo" width="25%" src="https://i.imgur.com/BrsRXiU.png" />][linkedin]
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Competitive%20Programmer%20|%20Systems%20Designer&descAlignY=55&descAlign=50" alt="Header"/>
+</div>
 
-# Kon'nichiwa (Hello) !!, I'm Ayush Yadav <img src="https://media.giphy.com/media/8UJPL4osfh50F1axXJ/giphy.gif" width="25px">
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=SDE%E2%80%912+%E2%80%A2+Systems+%26+Performance+%E2%80%94+design+%E2%86%92+build+%E2%86%92+scale;Scalable+services%2C+clean+APIs+%E2%80%A2+low+latency%2C+high+throughput;Codeforces+Master+%E2%80%A2+CodeChef+6%E2%AD%90+%E2%80%A2+LeetCode+Knight+%E2%80%A2+HackerRank+6%E2%AD%90" alt="Typing Animation" />
 
-<!-- [![Website](https://img.shields.io/website?label=binaryPhoenix.com&style=for-the-badge&url=https%3A%2F%2FbinaryPhoenix.com)](https://binaryPhoenix.com) -->
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/binaryphoenix?style=social&logo=x&color=1DA1F2)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblackphoenix42&screen_name=binaryphoenix)
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=blackphoenix42&label=Profile%20Views&color=58A6FF&style=flat-square&exclude_me=true&reset=true" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/blackphoenix42?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineer-58A6FF?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-58A6FF?style=flat-square&logo=googlemaps" alt="Location"/>
+</div>
 
-🎯 **Software Engineer | Performance Optimization | Full-Stack Developer**  
-💻 C++ | Python | Java | System Verilog | AWS | GCP | CI/CD | DevOps  
-📍 Based in India | 3+ years of experience at Cadence Design Systems
+<br>
 
----
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img align="left" alt="binaryphoenix's GitHub Stats" src="https://readmemd-stats-blackphoenix42.vercel.app/api?username=blackphoenix42&show_icons=true&theme=dracula&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=300" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackphoenix42&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 🔧 Technical Skills
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackphoenix42&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1&v=2" alt="Top Languages"/>
+</div>
 
-- **Languages:** C++, Python, Java, JavaScript, TypeScript, C  
-- **Frameworks/Libraries:** React, Node.js, Express, React Native, SASS, Jest  
-- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes (basic), GitHub Actions, Jenkins, Terraform  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Tools:** GDB, JIRA, Figma, Monitoring Tools, Perforce
+<br>
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Java" width="26px" src="./assets/java.svg" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="26px" src="./assets/redux.svg" />
-<img align="left" alt="Nodejs" width="26px" src="./assets/nodejs.svg" />
-<img align="left" alt="Typescript" width="26px" src="./assets/typescript.svg" />
-<img align="left" alt="Android" width="26px" src="./assets/android.png" />
-<img align="left" alt="IOS" width="26px" src="./assets/ios.svg" />
-<img align="left" alt="docker" width="26px" src="./assets/docker.svg" />
-<img align="left" alt="Firebase" width="26px" src="./assets/firebase.svg" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/aws/aws.png" />
-<img align="left" alt="Google Cloud Platform" width="26px" src="./assets/gcp.svg" />
-<img align="left" alt="Jest" width="26px" src="./assets/jest.svg" />
-<img align="left" alt="SSH" width="26px" src="./assets/ssh.png" />
-<img align="left" alt="MongoDB" width="26px" src="./assets/mongodb.svg" />
-<img align="left" alt="MySQL" width="26px" src="./assets/mysql.svg" />
-<img align="left" alt="PostgreSQL" width="26px" src="./assets/postgresql.svg" />
-<img align="left" alt="RESTful API" width="26px" src="./assets/restapi.png" />
-<img align="left" alt="Heroku" width="26px" src="./assets/heroku.svg" />
-<img align="left" alt="Figma" width="26px" src="./assets/figma.svg" />
-<img align="left" alt="Adobe" width="26px" src="./assets/adobe.svg" />
-<img align="left" alt="Postman API" width="26px" src="./assets/postmanapi.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="./assets/git.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Linux" width="26px" src="./assets/linux.png" />
+## 🧠 Software Engineering Arsenal
 
-<br />
-<br />
-<br />
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/>
+        <br><strong>C++</strong>
+        <br><sub>Primary Language</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+        <br><strong>Python</strong>
+        <br><sub>Scripting & Tooling</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript"/>
+        <br><strong>TypeScript</strong>
+        <br><sub>Type-safe Services</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
+        <br><strong>Java</strong>
+        <br><sub>JVM & Concurrency</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go"/>
+        <br><strong>Go</strong>
+        <br><sub>Systems & Services</sub>
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
+        <br><strong>Node.js</strong>
+        <br><sub>Backend Runtime</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
+        <br><strong>Express</strong>
+        <br><sub>REST APIs</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL"/>
+        <br><strong>GraphQL</strong>
+        <br><sub>Contracts & Schemas</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx"/>
+        <br><strong>Nginx</strong>
+        <br><sub>Gateway & Routing</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
+        <br><strong>Postman</strong>
+        <br><sub>API Testing</sub>
+      </td>
+    </tr>
+       <tr>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+        <br><strong>PostgreSQL</strong>
+        <br><sub>Relational & Indexing</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/>
+        <br><strong>Redis</strong>
+        <br><sub>Caching & Rate Limits</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
+        <br><strong>MongoDB</strong>
+        <br><sub>Document Store</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka"/>
+        <br><strong>Kafka</strong>
+        <br><sub>Streaming & Backpressure</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ"/>
+        <br><strong>RabbitMQ</strong>
+        <br><sub>Queues & Delivery</sub>
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/>
+        <br><strong>AWS</strong>
+        <br><sub>Infra & Services</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP"/>
+        <br><strong>GCP</strong>
+        <br><sub>Cloud Tooling</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
+        <br><strong>Docker</strong>
+        <br><sub>Containers & Images</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/>
+        <br><strong>Kubernetes</strong>
+        <br><sub>Orchestration</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform"/>
+        <br><strong>Terraform</strong>
+        <br><sub>IaC & Environments</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus"/>
+        <br><strong>Prometheus</strong>
+        <br><sub>Metrics & Alerts</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana"/>
+        <br><strong>Grafana</strong>
+        <br><sub>Dashboards</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/>
+        <br><strong>GitHub Actions</strong>
+        <br><sub>CI/CD Pipelines</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins"/>
+        <br><strong>Jenkins</strong>
+        <br><sub>Build & Release</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest"/>
+        <br><strong>Jest</strong>
+        <br><sub>Unit & Integration</sub>
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
+        <br><strong>Linux</strong>
+        <br><sub>Runtime & Toolchains</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/>
+        <br><strong>Bash</strong>
+        <br><sub>Automation & Scripts</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=cmake" width="48" height="48" alt="CMake"/>
+        <br><strong>CMake</strong>
+        <br><sub>Build Systems</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+        <br><strong>Git</strong>
+        <br><sub>Version Control</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
+        <br><strong>VS Code</strong>
+        <br><sub>DX & Debugging</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+<br>
 
-## 💼 Professional Experience
+## 🚀 Featured Projects
 
-### 🏢 **Cadence Design Systems** – *Software Engineer*  
-📅 *July 2022 – Present*  
-- Engineered low-level C++ optimizations and scalable architecture enhancements for Xcelium Logic Simulator, improving overall simulation throughput **18–19%** on large-scale distributed workloads.
-- Spearheaded benchmarking and distributed performance analysis that led to a **strategic performance win** against competitors, contributing to a **multi-million dollar deal with Samsung**.
-- Implemented RTL transformations in the Xform Engine, enabling **13–14%** cumulative parsing speedups and improved simulation performance for **Apple, Google, Samsung, Nvidia**, and other enterprise clients.
-- Presented technical findings at Cadence India Conference (CIC), driving adoption of diagnostic libraries that cut **RCA time by ~40%** overall through flag analysis and log parsing.
-- Received **multiple awards** for technical leadership and innovation, including **Corporate VP r**ecognition & spotlighted in **All-Hands** meeting for driving performance wins in the Samsung deal.
-- C/C++, System Verilog, GNU/Undo debugger, Perforce, Jira, Valgrind, Sun Studio, ASAN, Bash, Linux
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🔎-AlgoLens-58A6FF?style=for-the-badge&logo=react&logoColor=white" alt="AlgoLens"/>
+        <br><br>
+        <strong>Interactive algorithm visualizer with deterministic replay</strong>
+        <br><br>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+        <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry"/>
+        <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Status-Active-FF6B35?style=flat-square" alt="Active"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🔥-Performance%20Toolkit-58A6FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Xcelium Perf Toolkit"/>
+        <br><br>
+        <strong>Performance diagnosis library for large RTL simulations</strong>
+        <br><br>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white" alt="Perforce"/>
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
+        <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🏋️-Posture%20Detection%20%28AI%2FML%29-58A6FF?style=for-the-badge&logo=opencv&logoColor=white" alt="AI/ML Posture Detection"/>
+        <br><br>
+        <strong>Real-time posture correction using pose estimation (≈95%+ accuracy)</strong>
+        <br><br>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+        <img src="https://img.shields.io/badge/MediaPipe-00A6FF?style=flat-square" alt="MediaPipe"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
+      </td>
+    </tr>
 
----
+  </table>
+</div>
 
-## 🌱 Internships & Open Source
+<br>
 
-- **Script Winter of Code** – Built UniAuth (Google Sign-In clone) with TypeScript, Django, Go.  
-- **Delta Winter of Code** – Dockerized log analyzer with Redis, Celery; integrated CI/CD.  
-- **Tezos India Fellowship** – Built decentralized PvP [gaming app][gamegeeks] with NFT marketplace.  
-- **Programming Club SoC** – Led 5-member team to build low-latency WebRTC video app.  
-- **Trotbee (Backend Intern)** – Created OTP microservice on AWS; boosted video retrieval by 15%.  
-- **Miri Infotech (SDE Intern)** – Built full-stack chat app (React, PostgreSQL, encryption, UX/UI).
+## 📊 Development Activity
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackphoenix42&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph"/>
+</div>
 
-## 🚀 Projects
+<!-- ===================== MEDIUM: Latest on Medium ===================== -->
+<details>
+  <summary>
+    <img src="https://cdn.simpleicons.org/medium/ffffff" width="20" height="20" alt="Medium" />
+    <span style="font-weight:600; margin:0 8px;">Latest Blog Posts</span>
+    <img src="https://img.shields.io/badge/auto%E2%80%91updated-58A6FF?style=flat-square&labelColor=0d1117" alt="auto-updated" />
+  </summary>
 
-- **Compile-Time RTL Transformation & Optimization**  
-  > Engineered compile-time RTL optimizations to accelerate simulation by refactoring inefficient code.
+  <br/>
 
-- **Simulation Performance Diagnosis & Analysis Library**  
-  > Designed a performance diagnosis library to identify design inefficiencies via log parsing and configuration analysis for fast RCA.
+  <!-- BLOG-POST-LIST:START -->
 
-- **[Exercise Posture Correction System][proj_exercise_posture_detect]**  
-  > Real-time posture detection using OpenCV & Mediapipe; achieved 95%+ accuracy.
-
----
-
-## 🏆 Achievements
-
-- 💰 Awarded **$10,000** for decentralized [gaming app][gamegeeks] on Tezos Blockchain  
-- 🧠 6⭐ rating on [CodeChef][codechef], 6⭐ [HackerRank][hackerrank] Problem Solving & Expert on [CodeForces][codeforces]
-- 🥇 Multiple podium finishes in competitive programming coding contests  
-- 🥈 Gold & Silver medalist for academic excellence
-
----
-
-## 💬 Volunteering & Leadership
-
-- 👨‍🏫 Taught 100+ students via [YouTube][youtube] (Dev & CP)  
-- ✍️ Published tech blogs on [Medium][medium]  
-- 🚀 Co-founded **[Game Geeks][gamegeeks]** with $10,000 seed funding  
-- 🧠 Contributor: Google Crowdsource (Level 8), [Stack Overflow][stackOverflow] (75+ rep)  
-- 🎓 Led contests as Head of Programming – **Dynamix Club**
-
----
-
-## 📫 Let's Connect
-
-<!-- [<img align="left" alt="binaryphoenix | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-
-[<img align="left" alt="binaryphoenix | YouTube" width="22px" src="assets/youtube.svg" />][youtube]
-[<img align="left" alt="binaryphoenix | Twitter" width="22px" src="assets/twitter.svg" />][twitter]
-[<img align="left" alt="binaryphoenix | LinkedIn" width="22px" src="assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="binaryphoenix | Medium" width="22px" src="assets/medium.svg" />][medium]
-[<img align="left" alt="binaryphoenix | Instagram" width="22px" src="assets/instagram.svg" />][instagram]
-[<img align="left" alt="binaryphoenix | StackOverflow" width="22px" src="assets/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="binaryphoenix | Discord" width="22px" src="assets/discord.svg" />][discord]
-<br />
-
----
-
-📕 **Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
 - [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2)
 - [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2)
-<!-- BLOG-POST-LIST:END -->
+    <!-- BLOG-POST-LIST:END -->
+  </details>
 
-🎬 **Latest YouTube Videos**
+<br/>
 
-<!-- YOUTUBE:START -->
+<!-- ===================== YOUTUBE: New on YouTube ===================== -->
+<details>
+  <summary>
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="20" height="20" alt="YouTube" />
+    <span style="font-weight:600; margin:0 8px;">Latest YouTube Videos</span>
+    <img src="https://img.shields.io/badge/playlist-58A6FF?style=flat-square&labelColor=0d1117" alt="playlist" />
+  </summary>
+
+  <br/>
+
+  <!-- YOUTUBE:START -->
+
 - [How to Move Element to the End of an Array | Coding Interview Question](https://www.youtube.com/watch?v=DK2Gi0KlwgU)
-- [Sort all the punch cards &lpar;Final Puzzle&rpar;| Google I/O 2021 Punchcard Puzzle 10](https://www.youtube.com/watch?v=P9Q8uiX5I7E)
+- [Sort all the punch cards (Final Puzzle) | Google I/O 2021 Punchcard Puzzle 10](https://www.youtube.com/watch?v=P9Q8uiX5I7E)
 - [Find the Quote | Google I/O 2021 Punchcard Puzzle 9](https://www.youtube.com/watch?v=2DidcRgfmg8)
 - [Sort the Punch Cards | Google I/O 2021 Punchcard Puzzle 8](https://www.youtube.com/watch?v=clb-jua-ilA)
 - [Find the Quote | Google I/O 2021 Punchcard Puzzle 7](https://www.youtube.com/watch?v=_MZkf4njacc)
-<!-- YOUTUBE:END -->
+    <!-- YOUTUBE:END -->
+  </details>
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEooBvMO2kBVg/company-logo_200_200/0/1519880697944?e=2159024400&v=beta&t=cVe1_xseidAuya3zcvZMDT9LkbCjNcsm_R0wYqoJ7xo" width="20px"> **Stack Overflow Activity**
+<br/>
 
-<!-- STACKOVERFLOW:START -->
+<!-- ===================== STACK OVERFLOW: Recent Answers ===================== -->
+<details>
+  <summary>
+    <img src="https://cdn.simpleicons.org/stackoverflow/F48024" width="20" height="20" alt="Stack Overflow" />
+    <span style="font-weight:600; margin:0 8px;">Recent Stack Overflow Answers</span>
+    <img src="https://img.shields.io/badge/recent-58A6FF?style=flat-square&labelColor=0d1117" alt="recent answers" />
+  </summary>
+
+  <br/>
+
+  <!-- STACKOVERFLOW:START -->
+
 - [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089)
 - [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111)
 - [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656)
 - [Answer by Binary Phoenix for Python execute While loop even if condition is not met?](https://stackoverflow.com/questions/67581156/python-execute-while-loop-even-if-condition-is-not-met/67581328#67581328)
 - [Answer by Binary Phoenix for How to combine function with a list in python?](https://stackoverflow.com/questions/67571145/how-to-combine-function-with-a-list-in-python/67572352#67572352)
-<!-- STACKOVERFLOW:END -->
+    <!-- STACKOVERFLOW:END -->
+  </details>
 
+<br/>
 
-<!-- <img src="https://img.favpng.com/22/23/23/social-media-github-computer-icons-logo-png-favpng-ari7E0gHBmTSMg57C3wKYxCMb.jpg" width="25px"> **Recent Github Activity**
-<!-- START_SECTION:activity  -->
-<!-- END_SECTION:activity  -->
-
----
-
+<!-- ===================== GITHUB: Recent Activity ===================== -->
 <details>
-  <summary>⚡ Most Used Languages</summary>
+  <summary>
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="20" height="20" alt="GitHub" />
+    <span style="font-weight:600; margin:0 8px;">Recent GitHub Activity</span>
+    <img src="https://img.shields.io/badge/events-58A6FF?style=flat-square&labelColor=0d1117" alt="events" />
+  </summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackphoenix42&theme=dracula)
+  <br/>
 
-</details>
+  <!--START_SECTION:activity-->
 
-<details>
-  <summary>⚡ Github Streak</summary>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackphoenix42&theme=dark)
-
-</details>
-
-<details>
-  <summary>⚡ GitHub Stats</summary>
-  <!--<summary>⚡ GitHub Stats <img align="right" alt="binaryphoenix | Visitor Badge" src="https://visitor-badge.glitch.me/badge?page_id=blackphoenix42.blackphoenix42" /></summary -->
-
-  <img align="left" alt="binaryphoenix's GitHub Stats" src="https://readmemd-stats-blackphoenix42.vercel.app/api?username=blackphoenix42&show_icons=true&theme=dracula&count_private=true" />
-
-</details>
-<!-- [website]: http://google.com -->
-
-<details>
-  <summary>⚡ GitHub Recent Activity</summary>
-  
-<!--START_SECTION:activity-->
 1. 🎉 Merged PR [#19](https://github.com/blackphoenix42/algolens-private/pull/19) in [blackphoenix42/algolens-private](https://github.com/blackphoenix42/algolens-private)
 2. 🎉 Merged PR [#18](https://github.com/blackphoenix42/algolens-private/pull/18) in [blackphoenix42/algolens-private](https://github.com/blackphoenix42/algolens-private)
-<!--END_SECTION:activity-->
+     <!--END_SECTION:activity-->
+   </details>
 
-</details>
+  <br/>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=blackphoenix42" alt="blackphoenix42" />
+## ⏱️ Weekly Coding Time
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/blackphoenix42/blackphoenix42/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<br>
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <a href="https://www.youtube.com/channel/UCcINlOM-rC1_8yiRGH_iFBg?sub_confirmation=1">
+          <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://www.twitter.com/BinaryPhoenix/">
+          <img src="https://img.shields.io/badge/𝕏%20(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://www.linkedin.com/in/ayushyadav/">
+          <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://medium.com/@binaryphoenix01">
+          <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="20%">
+        <a href="https://www.instagram.com/binary.phoenix/">
+          <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://stackoverflow.com/users/13237616">
+          <img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://discord.gg/mRUZEhD">
+          <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="mailto:riseofgoldenbird@gmail.com">
+          <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        </a> 
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- QUOTE:START -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20to%20learn%20a%20new%20programming%20language%20is%20by%20writing%20programs%20in%20it.&author=Dennis%20Ritchie&t=1761250249" alt="Quote"/>
+</div>
+<!-- QUOTE:END -->
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Ship%20small%2C%20ship%20often%20%E2%80%94%20see%20you%20in%20the%20next%20commit!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+</div>
 
 [youtube]: https://www.youtube.com/channel/UCcINlOM-rC1_8yiRGH_iFBg?sub_confirmation=1
 [instagram]: https://www.instagram.com/binary.phoenix/
@@ -208,6 +435,5 @@
 [stackoverflow]: https://stackoverflow.com/users/13237616
 [hackerrank]: https://www.hackerrank.com/profile/BinaryPhoenix
 [codechef]: https://www.codechef.com/users/blackphoenix42
-[codeforces]: https://codeforces.com/profile/BinaryPhoenix10
 [gamegeeks]: https://github.com/Game-Geeks-Org
 [proj_exercise_posture_detect]: https://github.com/blackphoenix42/exercise-posture-detection
