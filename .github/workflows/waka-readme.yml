@@ -22,9 +22,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿          # smooth unicode bars
-          SHOW_TITLE: true               
           CODE_LANG: rust                    # renders as ```rust
           SHOW_TOTAL: true                  # show total coding time
           SHOW_MASKED_TIME: true           # set true if you want “including unclassified”
-          STOP_AT_OTHER: true               # truncates when “Other” appears
           TIME_RANGE: all_time           # "all_time " view
