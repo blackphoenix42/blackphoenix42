@@ -33,6 +33,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackphoenix42&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1&v=2" alt="Top Languages"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=blackphoenix42&row=1&theme=discord" alt="Trophies"/>
+</div>
+
 <br>
 
 ## 🧠 Software Engineering Arsenal
@@ -319,13 +323,14 @@
   <br/>
 
   <!-- STACKOVERFLOW:START -->
- 1. 🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089) 
 
- 2. ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111) 
+1.  🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089)
 
- 3. 🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656) 
-<!-- STACKOVERFLOW:END -->
-  </details>
+2.  ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111)
+
+3.  🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656)
+    <!-- STACKOVERFLOW:END -->
+      </details>
 
 <br/>
 
