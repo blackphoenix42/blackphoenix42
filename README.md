@@ -279,9 +279,10 @@
   </summary>
 
   <!-- BLOG-POST-LIST:START -->
- 1. ✍️ [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2) 
 
- 2. 📝 [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2) 
+1.  ✍️ [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2)
+
+2.  📝 [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
@@ -309,11 +310,12 @@
   </summary>
 
   <!-- STACKOVERFLOW:START -->
- 1. 🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089) 
 
- 2. ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111) 
+1.  🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089)
 
- 3. 🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656) 
+2.  ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111)
+
+3.  🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656)
 <!-- STACKOVERFLOW:END -->
 
 </details>
@@ -422,21 +424,6 @@ CSS                31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life%20may%20be%20full%20of%20pain%20but%20that%27s%20not%20an%20excuse%20to%20give%20up.&author=Arnold%20Schwarzenegger&t=1761259503" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
-
-<br>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Ship%20small%2C%20ship%20often%20%E2%80%94%20see%20you%20in%20the%20next%20commit!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
-
-[youtube]: https://www.youtube.com/channel/UCcINlOM-rC1_8yiRGH_iFBg?sub_confirmation=1
-[instagram]: https://www.instagram.com/binary.phoenix/
-[medium]: https://medium.com/@binaryphoenix01
-[discord]: https://discord.gg/mRUZEhD
-[twitter]: https://www.twitter.com/BinaryPhoenix/
-[linkedin]: https://www.linkedin.com/in/ayushyadav/
-[stackoverflow]: https://stackoverflow.com/users/13237616
-[hackerrank]: https://www.hackerrank.com/profile/BinaryPhoenix
-[codechef]: https://www.codechef.com/users/blackphoenix42
-[gamegeeks]: https://github.com/Game-Geeks-Org
-[proj_exercise_posture_detect]: https://github.com/blackphoenix42/exercise-posture-detection
