@@ -315,14 +315,7 @@
 
   <br/>
 
-  <!-- STACKOVERFLOW:START -->
-
-- [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089)
-- [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111)
-- [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656)
-- [Answer by Binary Phoenix for Python execute While loop even if condition is not met?](https://stackoverflow.com/questions/67581156/python-execute-while-loop-even-if-condition-is-not-met/67581328#67581328)
-- [Answer by Binary Phoenix for How to combine function with a list in python?](https://stackoverflow.com/questions/67571145/how-to-combine-function-with-a-list-in-python/67572352#67572352)
-    <!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START -->1. 🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089)2. ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111)3. 🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656)<!-- STACKOVERFLOW:END -->
   </details>
 
 <br/>
