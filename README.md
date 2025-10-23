@@ -351,11 +351,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-Other        10 hrs 20 mins  ████████████████████▓░░░░   82.28 %
-Markdown     1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-YAML         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-C++          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-TypeScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+From: 10 September 2025 - To: 23 October 2025
+
+Total Time: 115 hrs 18 mins
+
+Other              76 hrs 19 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀   66.18 %
 ```
 
 <!--END_SECTION:waka-->
