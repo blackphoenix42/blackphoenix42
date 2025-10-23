@@ -1,59 +1,74 @@
 # Configuration for automatic labeling of PRs based on file changes
 # Documentation: https://github.com/actions/labeler
+# This configuration uses the v6 format
 
 # Documentation changes
 documentation:
-  - "**/*.md"
-  - "docs/**/*"
+  - changed-files:
+      - any-glob-to-any-file:
+          - "**/*.md"
+          - "docs/**/*"
 
 # Workflow changes
 github-actions:
-  - ".github/workflows/**"
-  - ".github/actions/**"
+  - changed-files:
+      - any-glob-to-any-file:
+          - ".github/workflows/**"
+          - ".github/actions/**"
 
 # Configuration files
 config:
-  - "**/*.json"
-  - "**/*.yml"
-  - "**/*.yaml"
-  - "**/*.toml"
-  - "**/*.ini"
-  - "**/*.cfg"
-  - ".github/**"
+  - changed-files:
+      - any-glob-to-any-file:
+          - "**/*.json"
+          - "**/*.yml"
+          - "**/*.yaml"
+          - "**/*.toml"
+          - "**/*.ini"
+          - "**/*.cfg"
+          - ".github/**"
 
 # Web technologies
 frontend:
-  - "**/*.html"
-  - "**/*.css"
-  - "**/*.scss"
-  - "**/*.sass"
-  - "**/*.js"
-  - "**/*.jsx"
-  - "**/*.ts"
-  - "**/*.tsx"
-  - "**/*.vue"
+  - changed-files:
+      - any-glob-to-any-file:
+          - "**/*.html"
+          - "**/*.css"
+          - "**/*.scss"
+          - "**/*.sass"
+          - "**/*.js"
+          - "**/*.jsx"
+          - "**/*.ts"
+          - "**/*.tsx"
+          - "**/*.vue"
 
 # Assets
 assets:
-  - "assets/**/*"
-  - "**/*.png"
-  - "**/*.jpg"
-  - "**/*.jpeg"
-  - "**/*.gif"
-  - "**/*.svg"
-  - "**/*.ico"
+  - changed-files:
+      - any-glob-to-any-file:
+          - "assets/**/*"
+          - "**/*.png"
+          - "**/*.jpg"
+          - "**/*.jpeg"
+          - "**/*.gif"
+          - "**/*.svg"
+          - "**/*.ico"
 
 # Security
 security:
-  - ".github/SECURITY.md"
-  - "**/SECURITY.md"
+  - changed-files:
+      - any-glob-to-any-file:
+          - ".github/SECURITY.md"
+          - "**/SECURITY.md"
 
 # Dependencies
 dependencies:
-  - "package*.json"
-  - "yarn.lock"
-  - "requirements*.txt"
-  - "Pipfile*"
-  - "Gemfile*"
-  - "go.mod"
-  - "go.sum"
+  - changed-files:
+      - any-glob-to-any-file:
+          - "package*.json"
+          - "yarn.lock"
+          - "requirements*.txt"
+          - "Pipfile*"
+          - "Gemfile*"
+          - "go.mod"
+          - "go.sum"
