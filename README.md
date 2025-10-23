@@ -303,10 +303,6 @@
 <td><a href="https://www.youtube.com/watch?v=P9Q8uiX5I7E">Sort all the punch cards &lpar;Final Puzzle&rpar;| Google I/O 2021 Punchcard Puzzle 10</a><br/>May 13, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2DidcRgfmg8"><img width="140px" src="http://img.youtube.com/vi/2DidcRgfmg8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2DidcRgfmg8">Find the Quote | Google I/O 2021 Punchcard Puzzle 9</a><br/>May 13, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=clb-jua-ilA"><img width="140px" src="http://img.youtube.com/vi/clb-jua-ilA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=clb-jua-ilA">Sort the Punch Cards | Google I/O 2021 Punchcard Puzzle 8</a><br/>May 13, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_MZkf4njacc"><img width="140px" src="http://img.youtube.com/vi/_MZkf4njacc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_MZkf4njacc">Find the Quote | Google I/O 2021 Punchcard Puzzle 7</a><br/>May 13, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
   </details>
 
