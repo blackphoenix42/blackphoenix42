@@ -16,7 +16,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@binaryphoenix01"
-          template: "$newline $counter. $emojiKey(✍️, 📝, 📖, 🔖, 💡) [$title]($url) $newline"
+          template: "$newline $counter. $emojiKey(✍️,📝,📖,🔖,💡) [$title]($url) $newline"
           remove_duplicates: true
           title_max_length: "90"
           max_post_count: 3

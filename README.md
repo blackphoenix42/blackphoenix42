@@ -273,7 +273,6 @@
   <summary>
     <img src="https://cdn.simpleicons.org/medium/ffffff" width="20" height="20" alt="Medium" />
     <span style="font-weight:600; margin:0 8px;">Latest Blog Posts</span>
-    <img src="https://img.shields.io/badge/auto%E2%80%91updated-58A6FF?style=flat-square&labelColor=0d1117" alt="auto-updated" />
   </summary>
 
   <br/>
@@ -293,7 +292,6 @@
   <summary>
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="20" height="20" alt="YouTube" />
     <span style="font-weight:600; margin:0 8px;">Latest YouTube Videos</span>
-    <img src="https://img.shields.io/badge/playlist-58A6FF?style=flat-square&labelColor=0d1117" alt="playlist" />
   </summary>
 
   <br/>
@@ -314,7 +312,6 @@
   <summary>
     <img src="https://cdn.simpleicons.org/stackoverflow/F48024" width="20" height="20" alt="Stack Overflow" />
     <span style="font-weight:600; margin:0 8px;">Recent Stack Overflow Answers</span>
-    <img src="https://img.shields.io/badge/recent-58A6FF?style=flat-square&labelColor=0d1117" alt="recent answers" />
   </summary>
 
   <br/>
@@ -337,7 +334,6 @@
   <summary>
     <img src="https://cdn.simpleicons.org/github/ffffff" width="20" height="20" alt="GitHub" />
     <span style="font-weight:600; margin:0 8px;">Recent GitHub Activity</span>
-    <img src="https://img.shields.io/badge/events-58A6FF?style=flat-square&labelColor=0d1117" alt="events" />
   </summary>
 
   <br/>
