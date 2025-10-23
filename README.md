@@ -244,19 +244,19 @@
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/🏋️-PostureIQ%20%28AI%2FML%29-58A6FF?style=for-the-badge&logo=opencv&logoColor=white" alt="AI/ML Posture Detection"/>
         <br><br>
-        <strong>Real-time posture correction using pose estimation (≈95%+ accuracy)</strong>
+        <strong>Real-time posture correction using pose estimation</strong>
         <br><br>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-        <img src="https://img.shields.io/badge/MediaPipe-00A6FF?style=flat-square" alt="MediaPipe"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/MPipe-00A6FF?style=flat-square" alt="MediaPipe"/>
+        <img src="https://img.shields.io/badge/Torch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <br/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Dckr-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
         <br><br>
         <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
       </td>
     </tr>
-
   </table>
 </div>
 
