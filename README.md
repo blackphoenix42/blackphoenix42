@@ -229,7 +229,7 @@
         <img src="https://img.shields.io/badge/Status-Active-FF6B35?style=flat-square" alt="Active"/>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🔥-Performance%20Toolkit-58A6FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Xcelium Perf Toolkit"/>
+        <img src="https://img.shields.io/badge/🔥-Perf%20Toolkit-58A6FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Xcelium Perf Toolkit"/>
         <br><br>
         <strong>Performance diagnosis library for large RTL simulations</strong>
         <br><br>
@@ -242,7 +242,7 @@
         <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🏋️-Posture%20Detection%20%28AI%2FML%29-58A6FF?style=for-the-badge&logo=opencv&logoColor=white" alt="AI/ML Posture Detection"/>
+        <img src="https://img.shields.io/badge/🏋️-PostureIQ%20%28AI%2FML%29-58A6FF?style=for-the-badge&logo=opencv&logoColor=white" alt="AI/ML Posture Detection"/>
         <br><br>
         <strong>Real-time posture correction using pose estimation (≈95%+ accuracy)</strong>
         <br><br>
@@ -320,11 +320,12 @@
   <br/>
 
   <!-- STACKOVERFLOW:START -->
- 1. 🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089) 
 
- 2. ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111) 
+1.  🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089)
 
- 3. 🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656) 
+2.  ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111)
+
+3.  🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656)
 <!-- STACKOVERFLOW:END -->
 
 </details>
