@@ -1,0 +1,120 @@
+name: Repository Health Check
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Weekly on Sunday
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Check for required files
+        id: files
+        run: |
+          echo "Checking repository health..."
+          
+          # Check for required files
+          files_to_check=("README.md" "LICENSE" ".github/SECURITY.md" ".github/CODE_OF_CONDUCT.md" ".github/CONTRIBUTING.md")
+          missing_files=()
+          
+          for file in "${files_to_check[@]}"; do
+            if [ ! -f "$file" ]; then
+              missing_files+=("$file")
+            fi
+          done
+          
+          if [ ${#missing_files[@]} -gt 0 ]; then
+            echo "missing_files=${missing_files[*]}" >> $GITHUB_OUTPUT
+            echo "has_missing=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_missing=false" >> $GITHUB_OUTPUT
+          fi
+          
+      - name: Create issue for missing files
+        if: steps.files.outputs.has_missing == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const missingFiles = '${{ steps.files.outputs.missing_files }}'.split(' ');
+            
+            const issueTitle = '🏥 Repository Health Check: Missing Files Detected';
+            const issueBody = `
+            ## 🔍 Health Check Results
+            
+            The automated health check has detected missing important repository files:
+            
+            ### Missing Files:
+            ${missingFiles.map(file => `- \`${file}\``).join('\n')}
+            
+            ### Recommended Actions:
+            - Add missing files to improve repository health
+            - Follow GitHub community standards
+            - Ensure proper documentation and policies are in place
+            
+            ### Resources:
+            - [GitHub Community Standards](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-community-profiles-for-public-repositories)
+            - [Repository Health Check](https://github.com/blackphoenix42/blackphoenix42/community)
+            
+            ---
+            _This issue was automatically created by the Repository Health Check workflow._
+            `;
+            
+            // Check if similar issue already exists
+            const existingIssues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: ['health-check', 'automation']
+            });
+            
+            const existingIssue = existingIssues.data.find(issue => 
+              issue.title.includes('Repository Health Check')
+            );
+            
+            if (!existingIssue) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: issueTitle,
+                body: issueBody,
+                labels: ['health-check', 'automation', 'good first issue']
+              });
+            }
+            
+      - name: Generate health report
+        run: |
+          echo "## 🏥 Repository Health Report" >> health-report.md
+          echo "" >> health-report.md
+          echo "**Date:** $(date)" >> health-report.md
+          echo "" >> health-report.md
+          
+          # Check various health indicators
+          echo "### ✅ Present Files:" >> health-report.md
+          [ -f "README.md" ] && echo "- README.md" >> health-report.md
+          [ -f "LICENSE" ] && echo "- LICENSE" >> health-report.md
+          [ -f ".github/SECURITY.md" ] && echo "- Security Policy" >> health-report.md
+          [ -f ".github/CODE_OF_CONDUCT.md" ] && echo "- Code of Conduct" >> health-report.md
+          [ -f ".github/CONTRIBUTING.md" ] && echo "- Contributing Guidelines" >> health-report.md
+          [ -f ".github/FUNDING.yml" ] && echo "- Funding Configuration" >> health-report.md
+          [ -f ".github/dependabot.yml" ] && echo "- Dependabot Configuration" >> health-report.md
+          
+          echo "" >> health-report.md
+          echo "### 📊 Statistics:" >> health-report.md
+          echo "- Total files: $(find . -type f | wc -l)" >> health-report.md
+          echo "- Workflow files: $(find .github/workflows -name "*.yml" 2>/dev/null | wc -l)" >> health-report.md
+          echo "- Issue templates: $(find .github/ISSUE_TEMPLATE -name "*.md" 2>/dev/null | wc -l)" >> health-report.md
+          
+          cat health-report.md
+          
+      - name: Upload health report
+        uses: actions/upload-artifact@v4
+        with:
+          name: repository-health-report
+          path: health-report.md
+          retention-days: 30

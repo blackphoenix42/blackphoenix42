@@ -1,0 +1,20 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 GitHub Discussions
+    url: https://github.com/blackphoenix42/blackphoenix42/discussions
+    about: Ask questions and discuss ideas with the community
+  - name: 🐛 Bug Report
+    url: https://github.com/blackphoenix42/blackphoenix42/issues/new?template=bug_report.md
+    about: Report a bug or issue with the profile
+  - name: ✨ Feature Request
+    url: https://github.com/blackphoenix42/blackphoenix42/issues/new?template=feature_request.md
+    about: Suggest an enhancement or new feature
+  - name: ❓ General Question
+    url: https://github.com/blackphoenix42/blackphoenix42/issues/new?template=question.md
+    about: Ask a question about the profile or projects
+  - name: 📧 Email Support
+    url: https://github.com/blackphoenix42/blackphoenix42/discussions
+    about: For private inquiries, use discussions or contact via social media
+  - name: 🐦 Twitter
+    url: https://twitter.com/binaryphoenix
+    about: Follow for updates and quick questions

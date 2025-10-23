@@ -1,0 +1,59 @@
+# Configuration for automatic labeling of PRs based on file changes
+# Documentation: https://github.com/actions/labeler
+
+# Documentation changes
+documentation:
+  - "**/*.md"
+  - "docs/**/*"
+
+# Workflow changes
+github-actions:
+  - ".github/workflows/**"
+  - ".github/actions/**"
+
+# Configuration files
+config:
+  - "**/*.json"
+  - "**/*.yml"
+  - "**/*.yaml"
+  - "**/*.toml"
+  - "**/*.ini"
+  - "**/*.cfg"
+  - ".github/**"
+
+# Web technologies
+frontend:
+  - "**/*.html"
+  - "**/*.css"
+  - "**/*.scss"
+  - "**/*.sass"
+  - "**/*.js"
+  - "**/*.jsx"
+  - "**/*.ts"
+  - "**/*.tsx"
+  - "**/*.vue"
+
+# Assets
+assets:
+  - "assets/**/*"
+  - "**/*.png"
+  - "**/*.jpg"
+  - "**/*.jpeg"
+  - "**/*.gif"
+  - "**/*.svg"
+  - "**/*.ico"
+
+# Security
+security:
+  - ".github/SECURITY.md"
+  - "**/SECURITY.md"
+
+# Dependencies
+dependencies:
+  - "package*.json"
+  - "yarn.lock"
+  - "requirements*.txt"
+  - "Pipfile*"
+  - "Gemfile*"
+  - "go.mod"
+  - "go.sum"
