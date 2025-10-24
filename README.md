@@ -279,10 +279,9 @@
   </summary>
 
   <!-- BLOG-POST-LIST:START -->
+ 1. ✍️ [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2) 
 
-1.  ✍️ [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2)
-
-2.  📝 [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2)
+ 2. 📝 [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </details>
@@ -310,12 +309,11 @@
   </summary>
 
   <!-- STACKOVERFLOW:START -->
+ 1. 🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089) 
 
-1.  🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089)
+ 2. ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111) 
 
-2.  ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111)
-
-3.  🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656)
+ 3. 🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656) 
 <!-- STACKOVERFLOW:END -->
 
 </details>
@@ -328,7 +326,7 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#19](https://github.com/blackphoenix42/algolens-private/pull/19) in [blackphoenix42/algolens-private](https://github.com/blackphoenix42/algolens-private)
+1. 💪 Opened PR [#1601](undefined) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 2. 🎉 Merged PR [#18](https://github.com/blackphoenix42/algolens-private/pull/18) in [blackphoenix42/algolens-private](https://github.com/blackphoenix42/algolens-private)
 <!--END_SECTION:activity-->
 
@@ -421,7 +419,7 @@ CSS                31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life%20may%20be%20full%20of%20pain%20but%20that%27s%20not%20an%20excuse%20to%20give%20up.&author=Arnold%20Schwarzenegger&t=1761259503" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20never%20lies%2C%20comments%20sometimes%20do.&author=Ron%20Jeffries&t=1761286906" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
