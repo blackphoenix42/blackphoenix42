@@ -1,0 +1,41 @@
+name: Update README Joke Footer
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"  # every 30 minutes
+  push:
+    branches: [ main, master ]
+
+jobs:
+  update-footer:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run updater
+        run: |
+          if [ ! -f scripts/update-footer.mjs ]; then
+            echo "Missing scripts/update-footer.mjs"
+            exit 1
+          fi
+          node scripts/update-footer.mjs
+
+      - name: Commit & push changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore(readme): update footer with latest joke Q&A"
+            git push
+          fi
