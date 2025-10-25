@@ -15,7 +15,7 @@ Every 30 minutes:
 """
 
 import os, re, json
-from datetime import datetime
+from datetime import datetime, UTC
 import requests, yaml
 
 README   = "README.md"
@@ -170,7 +170,7 @@ def refresh_image_backup(origin_url: str, manifest: dict):
         with open(path, "wb") as f:
             f.write(r.content)
         meta["last_status"] = "ok"
-        meta["last_checked"] = datetime.utcnow().isoformat()+"Z"
+        meta["last_checked"] = datetime.now(UTC).isoformat()+"Z"
         manifest[origin_url] = meta
     except Exception:
         pass
@@ -192,7 +192,7 @@ def refresh_link_backup(primary: str, link_map: dict):
                 if m:
                     title = re.sub(r"\s+", " ", m.group(1).strip())[:140]
                 with open(backup, "w", encoding="utf-8") as f:
-                    f.write(f"# Snapshot\n\n**Title**: {title}\n\n**Original**: <{primary}>\n\n_Last refreshed: {datetime.utcnow().isoformat()}Z_\n")
+                    f.write(f"# Snapshot\n\n**Title**: {title}\n\n**Original**: <{primary}>\n\n_Last refreshed: {datetime.now(UTC).isoformat()}Z_\n")
             except Exception:
                 pass
             return
@@ -270,7 +270,7 @@ def main():
         json.dump(manifest, f, indent=2, ensure_ascii=False)
 
     # 5) Health report
-    now = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
+    now = datetime.now(UTC).strftime("%Y-%m-%d %H:%M:%S UTC")
     lines = [
         f"# README Health Report\n\n**Generated**: {now}\n",
         "## Summary",
