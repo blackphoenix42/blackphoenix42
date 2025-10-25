@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blackphoenix42&row=1&theme=discord" alt="Trophies"/>
+  <img src="assets/auto/github-profile-trophy-vercel-app-1d48909a.svg" alt="Trophies"/>
 </div>
 
 <br>
@@ -274,7 +274,7 @@
 
 <details>
   <summary>
-    <img src="https://cdn.simpleicons.org/medium/ffffff" width="20" height="20" alt="Medium" />
+    <img src="assets/auto/cdn-simpleicons-org-197227f8.svg" width="20" height="20" alt="Medium" />
     <span style="font-weight:600; margin:0 8px;">Latest Blog Posts</span>
   </summary>
 
@@ -288,7 +288,7 @@
 
 <details>
   <summary>
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="20" height="20" alt="YouTube" />
+    <img src="assets/auto/cdn-simpleicons-org-638fca83.svg" width="20" height="20" alt="YouTube" />
     <span style="font-weight:600; margin:0 8px;">Latest YouTube Videos</span>
   </summary>
 
@@ -304,7 +304,7 @@
 
 <details>
   <summary>
-    <img src="https://cdn.simpleicons.org/stackoverflow/F48024" width="20" height="20" alt="Stack Overflow" />
+    <img src="assets/auto/cdn-simpleicons-org-7386c18e.svg" width="20" height="20" alt="Stack Overflow" />
     <span style="font-weight:600; margin:0 8px;">Recent Stack Overflow Answers</span>
   </summary>
 
@@ -320,7 +320,7 @@
 
 <details>
   <summary>
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="20" height="20" alt="GitHub" />
+    <img src="assets/auto/cdn-simpleicons-org-61c41f75.svg" width="20" height="20" alt="GitHub" />
     <span style="font-weight:600; margin:0 8px;">Recent GitHub Activity</span>
   </summary>
 
@@ -380,7 +380,7 @@ CSS                31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
         </a>
       </td>
       <td align="center" width="20%">
-        <a href="https://www.linkedin.com/in/ayushyadav/">
+        <a href="assets/backups/www-linkedin-com-90fd9c20.md">
           <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
       </td>
