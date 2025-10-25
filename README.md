@@ -425,7 +425,7 @@ CSS                31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=What%20PostgreSQL%20library%20should%20Python%20developers%20use%20for%20adult-oriented%20code%3F%20%E2%80%94%20psycoPG13&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20are%20keyboards%20always%20working%20so%20hard%3F%20%E2%80%94%20Cause%20they%20have%20two%20shifts!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
