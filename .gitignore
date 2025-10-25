@@ -7,6 +7,9 @@
 ehthumbs.db
 Thumbs.db
 
+# README Health System
+readme_health_report.md
+
 # IDE files
 .vscode/
 .idea/
@@ -39,6 +42,7 @@ yarn.lock
 # Python
 __pycache__/
 *.py[cod]
+*.pyc
 *$py.class
 *.so
 .Python

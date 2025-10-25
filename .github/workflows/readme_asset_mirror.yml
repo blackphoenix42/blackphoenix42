@@ -1,0 +1,41 @@
+name: README Asset Mirror
+
+on:
+  schedule:
+    - cron: "7 3 * * *" # daily at 03:07 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Mirror external assets (images) & snapshot links
+        run: python scripts/mirror_assets.py
+
+      - name: Commit changes (if any)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet; then
+            git add -A
+            git commit -m "chore(readme): mirror images & snapshot links [skip ci]"
+            git push
+          else
+            echo "No changes."
+          fi
