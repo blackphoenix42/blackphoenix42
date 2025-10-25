@@ -1,5 +1,7 @@
-# Snapshot (Unavailable)
+# Snapshot
+
+**Title**: Three Ways to Solve the Two Number Sum Problem | by Ayush Yadav | Medium
 
 **Original**: <https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2>
 
-_No content. Source unreachable at 2025-10-25T10:17:36.272246Z._
+_Last refreshed: 2025-10-25T11:11:35.750862Z_
