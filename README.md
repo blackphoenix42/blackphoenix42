@@ -381,7 +381,7 @@ CSS                31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
         </a>
       </td>
       <td align="center" width="20%">
-        <a href="https://www.linkedin.com/in/ayushyadav/">
+        <a href="assets/backups/www-linkedin-com-90fd9c20.md">
           <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
       </td>
@@ -393,7 +393,7 @@ CSS                31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     </tr>
     <tr>
       <td align="center" width="20%">
-        <a href="https://www.instagram.com/binary.phoenix/">
+        <a href="assets/backups/www-instagram-com-e45e3c03.md">
           <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
         </a>
       </td>
