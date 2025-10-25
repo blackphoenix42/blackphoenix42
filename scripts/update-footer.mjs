@@ -46,14 +46,14 @@ async function main() {
         console.log("Extracting Q&A from SVG...");
         const qa = extractQAFromSvg(svg);
 
+        let newImg;
         if (!qa) {
-            console.error("Could not extract Q&A from joke SVG. Leaving README unchanged.");
-            process.exit(0);
+            console.log("Could not extract Q&A from joke SVG. Using fallback footer.");
+            newImg = `<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Ship%20small%2C%20ship%20often%20%E2%80%94%20see%20you%20in%20the%20next%20commit!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>`;
+        } else {
+            console.log(`Found Q&A: "${qa.q}" — "${qa.a}"`);
+            newImg = `<img src="${buildCapsuleUrl(qa.q, qa.a)}" alt="Footer"/>`;
         }
-
-        console.log(`Found Q&A: "${qa.q}" — "${qa.a}"`);
-
-        const newImg = `<img src="${buildCapsuleUrl(qa.q, qa.a)}" alt="Footer"/>`;
         const readmePath = "./README.md";
         let readme = await fs.readFile(readmePath, "utf8");
 
