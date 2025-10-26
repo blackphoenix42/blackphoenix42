@@ -28,6 +28,11 @@ jobs:
       - name: Mirror external assets (images) & snapshot links
         run: python scripts/mirror_assets.py
 
+      - name: Pull latest changes
+        run: |
+          git fetch origin
+          git rebase origin/master
+
       - name: Commit changes (if any)
         run: |
           git config user.name  "github-actions[bot]"

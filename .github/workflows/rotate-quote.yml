@@ -26,6 +26,11 @@ jobs:
       - name: Update README quote
         run: python scripts/update_quote.py
 
+      - name: Pull latest changes
+        run: |
+          git fetch origin
+          git rebase origin/master
+
       - name: Commit & push (if changed)
         run: |
           if [ -n "$(git status --porcelain)" ]; then

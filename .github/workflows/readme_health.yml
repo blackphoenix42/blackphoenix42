@@ -28,6 +28,11 @@ jobs:
       - name: Monitor + rewrite README (fallbacks, block gating)
         run: python scripts/monitor_and_rewrite.py
 
+      - name: Pull latest changes
+        run: |
+          git fetch origin
+          git rebase origin/master
+
       - name: Commit changes (if any)
         run: |
           git config user.name  "github-actions[bot]"
