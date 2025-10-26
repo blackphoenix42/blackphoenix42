@@ -10,7 +10,7 @@ This does not rewrite the README — the monitor job does surgical swaps as need
 """
 
 import os, re, json, hashlib
-from datetime import datetime
+from datetime import datetime, timezone
 from urllib.parse import urlparse
 import requests, yaml
 from bs4 import BeautifulSoup
@@ -141,7 +141,7 @@ def main():
                 "sha256": sha256_bytes(r.content),
                 "bytes": len(r.content),
                 "last_status": "ok",
-                "last_checked": datetime.now(datetime.UTC).isoformat()+"Z"
+                "last_checked": datetime.now(timezone.utc).isoformat()+"Z"
             })
         else:
             # if no previous cache, create a placeholder SVG
@@ -156,7 +156,7 @@ def main():
                 "path": local.replace("\\","/"),
                 "sha256": None,
                 "last_status": "placeholder",
-                "last_checked": datetime.now(datetime.UTC).isoformat()+"Z"
+                "last_checked": datetime.now(timezone.utc).isoformat()+"Z"
             })
         manifest[url] = entry
 
@@ -169,22 +169,22 @@ def main():
         if r:
             title = page_title(r.text) or url
             with open(backup_md, "w", encoding="utf-8") as f:
-                f.write(f"# Snapshot\n\n**Title**: {title}\n\n**Original**: <{url}>\n\n_Last refreshed: {datetime.now(datetime.UTC).isoformat()}Z_\n")
+                f.write(f"# Snapshot\n\n**Title**: {title}\n\n**Original**: <{url}>\n\n_Last refreshed: {datetime.now(timezone.utc).isoformat()}Z_\n")
             entry.update({
                 "type":"link",
                 "backup_path": backup_md.replace("\\","/"),
                 "last_status": "ok",
-                "last_checked": datetime.now(datetime.UTC).isoformat()+"Z"
+                "last_checked": datetime.now(timezone.utc).isoformat()+"Z"
             })
         else:
             if not os.path.exists(backup_md):
                 with open(backup_md, "w", encoding="utf-8") as f:
-                    f.write(f"# Snapshot (Unavailable)\n\n**Original**: <{url}>\n\n_No content. Source unreachable at {datetime.now(datetime.UTC).isoformat()}Z._\n")
+                    f.write(f"# Snapshot (Unavailable)\n\n**Original**: <{url}>\n\n_No content. Source unreachable at {datetime.now(timezone.utc).isoformat()}Z._\n")
             entry.update({
                 "type":"link",
                 "backup_path": backup_md.replace("\\","/"),
                 "last_status": "down",
-                "last_checked": datetime.now(datetime.UTC).isoformat()+"Z"
+                "last_checked": datetime.now(timezone.utc).isoformat()+"Z"
             })
         manifest[url] = entry
         link_map[slug] = {"primary": url, "backup": entry["backup_path"]}
