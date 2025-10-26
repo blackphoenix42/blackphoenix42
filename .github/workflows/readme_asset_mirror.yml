@@ -31,7 +31,18 @@ jobs:
       - name: Pull latest changes
         run: |
           git fetch origin
+          # Stash any unstaged changes before rebase
+          if ! git diff --quiet || ! git diff --cached --quiet; then
+            git stash push -m "temporary stash before rebase"
+            STASHED=true
+          else
+            STASHED=false
+          fi
           git rebase origin/master
+          # Restore stashed changes if any
+          if [ "$STASHED" = "true" ]; then
+            git stash pop
+          fi
 
       - name: Commit changes (if any)
         run: |
