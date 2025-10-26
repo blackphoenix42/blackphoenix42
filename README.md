@@ -419,7 +419,7 @@ CSS                31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20language%20that%20doesn%27t%20affect%20the%20way%20you%20think%20about%20programming%20is%20not%20worth%20knowing.&author=Alan%20Perlis&t=1761520872" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Love%20is%20merely%20the%20name%20for%20the%20desire%20and%20pursuit%20of%20the%20whole.&author=Aristophanes&t=1761522009" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
