@@ -419,7 +419,7 @@ CSS                31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20trouble%20with%20programmers%20is%20that%20you%20can%20never%20tell%20what%20a%20programmer%20is%20doing%20until%20it%27s%20too%20late.&author=Seymour%20Cray&t=1761596678" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20are%20not%20embarrassed%20by%20the%20first%20version%20of%20your%20product%2C%20you%27ve%20launched%20too%20late.&author=Reid%20Hoffman&t=1761597721" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
