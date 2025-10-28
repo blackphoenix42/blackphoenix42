@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/auto/github-profile-trophy-vercel-app-1d48909a.svg" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=blackphoenix42&row=1&theme=discord" alt="Trophies"/>
 </div>
 
 <br>
@@ -392,12 +392,12 @@ CSS                31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     </tr>
     <tr>
       <td align="center" width="20%">
-        <a href="https://www.instagram.com/binary.phoenix/">
+        <a href="assets/backups/www-instagram-com-e45e3c03.md">
           <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
         </a>
       </td>
       <td align="center" width="20%">
-        <a href="assets/backups/stackoverflow-com-2729a72a.md">
+        <a href="https://stackoverflow.com/users/13237616">
           <img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
         </a>
       </td>
