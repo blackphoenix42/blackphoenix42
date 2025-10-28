@@ -23,7 +23,7 @@
         <img align="left" alt="binaryphoenix's GitHub Stats" src="https://readmemd-stats-blackphoenix42.vercel.app/api?username=blackphoenix42&show_icons=true&theme=dracula&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=300" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackphoenix42&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+        <img src="assets/auto/github-readme-streak-stats-herokuapp-com-bab970c5.svg" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
@@ -141,7 +141,7 @@
         <br><sub>Containers & Images</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-b90b922e.svg" width="48" height="48" alt="Kubernetes"/>
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/>
         <br><strong>Kubernetes</strong>
         <br><sub>Orchestration</sub>
       </td>
@@ -221,7 +221,7 @@
         <strong>Interactive algorithm visualizer with deterministic replay</strong>
         <br><br>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="assets/auto/img-shields-io-7097e3f4.svg" alt="React"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
         <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry"/>
         <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
