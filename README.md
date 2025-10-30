@@ -385,7 +385,7 @@ Docker             31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
         </a>
       </td>
       <td align="center" width="20%">
-        <a href="assets/backups/medium-com-1a82200d.md">
+        <a href="https://medium.com/@binaryphoenix01">
           <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
         </a>
       </td>
