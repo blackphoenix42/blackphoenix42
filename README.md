@@ -419,7 +419,7 @@ Docker             31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Your%20most%20unhappy%20customers%20are%20your%20greatest%20source%20of%20learning.&author=Bill%20Gates&t=1761819981" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Fix%20the%20cause%2C%20not%20the%20symptom.&author=Steve%20Maguire&t=1761821169" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
