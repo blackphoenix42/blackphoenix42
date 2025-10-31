@@ -326,8 +326,8 @@
 
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1601](undefined) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 🎉 Merged PR [#18](https://github.com/blackphoenix42/algolens-private/pull/18) in [blackphoenix42/algolens-private](https://github.com/blackphoenix42/algolens-private)
+1. ❌ Closed PR [#10](undefined) in [blackphoenix42/blackphoenix42](https://github.com/blackphoenix42/blackphoenix42)
+2. 💪 Opened PR [#1601](undefined) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
 </details>
