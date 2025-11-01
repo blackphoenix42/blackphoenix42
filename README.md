@@ -419,7 +419,7 @@ Docker             31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20are%20not%20embarrassed%20by%20the%20first%20version%20of%20your%20product%2C%20you%27ve%20launched%20too%20late.&author=Reid%20Hoffman&t=1762003638" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Given%20enough%20eyeballs%2C%20all%20bugs%20are%20shallow.&author=Eric%20S.%20Raymond&t=1762004474" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
