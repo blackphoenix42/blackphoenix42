@@ -425,7 +425,7 @@ Docker             31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20do%20developers%20mixup%20Terminals%20and%20Polygraphs%3F%20%E2%80%94%20Because%20they%20both%20can%20see%20a%20lie%20(CLI)&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=What%20is%20a%20pirate's%20favorite%20programming%20language%3F%20%E2%80%94%20You'd%20think%20it%20was%20R%2C%20but%20a%20pirate's%20first%20love%20is%20Objectively%20C.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
