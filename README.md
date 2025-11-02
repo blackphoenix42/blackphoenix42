@@ -425,7 +425,7 @@ Docker             31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20did%20the%20developer%20have%20to%20quit%20smoking%3F%20%E2%80%94%20Because%20they%20couldn't%20afford%20to%20pay%20the%20new%20syntax.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20do%20Front-End%20Developers%20eat%20lunch%20alone%3F%20%E2%80%94%20Because%2C%20they%20don't%20know%20how%20to%20join%20tables.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
