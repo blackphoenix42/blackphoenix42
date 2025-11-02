@@ -419,7 +419,7 @@ Docker             31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27m%20not%20a%20great%20programmer%3B%20I%27m%20just%20a%20good%20programmer%20with%20great%20habits.&author=Kent%20Beck&t=1762115029" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Walking%20on%20water%20and%20developing%20software%20from%20a%20specification%20are%20easy%20if%20both%20are%20frozen.&author=Edward%20V.%20Berard&t=1762116021" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
