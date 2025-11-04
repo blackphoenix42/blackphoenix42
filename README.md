@@ -425,7 +425,7 @@ Docker             31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20can't%20SQL%20and%20NoSQL%20Developers%20date%20one%20other%3F%20%E2%80%94%20Because%20they%20don't%20agree%20on%20relationships.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=What%20is%20the%20biggest%20lie%20you%20have%20heard%20from%20a%20programmer%3F%20%E2%80%94%20It%20should%20work%20now.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
