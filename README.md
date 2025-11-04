@@ -419,7 +419,7 @@ Docker             31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20do%20not%20work%20on%20an%20important%20problem%2C%20it%27s%20unlikely%20you%27ll%20do%20important%20work.&author=Richard%20Hamming&t=1762226035" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20programs%20are%20written%20so%20that%20computing%20machines%20can%20perform%20them%20quickly%20and%20so%20that%20human%20beings%20can%20understand%20them%20clearly.&author=Donald%20Knuth&t=1762228490" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
