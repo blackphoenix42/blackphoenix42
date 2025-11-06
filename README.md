@@ -419,7 +419,7 @@ Docker             31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=He%20is%20a%20wise%20man%20who%20does%20not%20grieve%20for%20the%20things%20which%20he%20has%20not%2C%20but%20rejoices%20for%20those%20which%20he%20has.&author=Epictetus&t=1762401564" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler&t=1762403754" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
