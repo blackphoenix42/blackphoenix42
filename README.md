@@ -419,7 +419,7 @@ Docker             31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Measuring%20programming%20progress%20by%20lines%20of%20code%20is%20like%20measuring%20aircraft%20building%20progress%20by%20weight.&author=Bill%20Gates&t=1762399110" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=He%20is%20a%20wise%20man%20who%20does%20not%20grieve%20for%20the%20things%20which%20he%20has%20not%2C%20but%20rejoices%20for%20those%20which%20he%20has.&author=Epictetus&t=1762401564" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
