@@ -4,4 +4,4 @@
 
 **Original**: <https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111>
 
-_Last refreshed: 2025-11-05T03:49:58.141316+00:00Z_
+_Last refreshed: 2025-11-06T03:53:19.738532+00:00Z_
