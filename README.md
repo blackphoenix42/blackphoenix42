@@ -425,7 +425,7 @@ Docker             31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=What%20kind%20of%20computer%20can%20hold%20a%20musical%20note%3F%20%E2%80%94%20A%20Dell.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20couldn't%20the%20developer%20pull%20the%20weeds%20from%20the%20garden%3F%20%E2%80%94%20They%20didn't%20have%20root%20access.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
