@@ -425,7 +425,7 @@ Docker             31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=What%20advice%20do%20you%20give%20to%20a%20JS%20developer%20who%20has%20never%20played%20baseball%3F%20%E2%80%94%20Try%20catch.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20was%20the%20developer's%20family%20upset%20with%20them%20at%20dinner%3F%20%E2%80%94%20They%20forgot%20to%20git%20squash%20before%20going%20home&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
