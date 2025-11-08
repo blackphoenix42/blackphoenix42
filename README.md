@@ -419,7 +419,7 @@ Docker             31 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20are%20only%20two%20hard%20things%20in%20Computer%20Science%3A%20cache%20invalidation%20and%20naming%20things.&author=Phil%20Karlton&t=1762573835" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House&t=1762576035" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
