@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/auto/capsule-render-vercel-app-56ab8237.svg" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Competitive%20Programmer%20|%20Systems%20Designer&descAlignY=55&descAlign=50" alt="Header"/>
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img align="left" alt="binaryphoenix's GitHub Stats" src="assets/auto/readmemd-stats-blackphoenix42-vercel-app-c89b8dca.svg" />
+        <img align="left" alt="binaryphoenix's GitHub Stats" src="https://readmemd-stats-blackphoenix42.vercel.app/api?username=blackphoenix42&show_icons=true&theme=dracula&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=300" />
       </td>
       <td align="center" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackphoenix42&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
@@ -30,11 +30,11 @@
 </div>
 
 <div align="center">
-  <img src="assets/auto/github-readme-stats-vercel-app-4a0bbc2e.svg" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackphoenix42&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1&v=2" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="assets/auto/github-profile-trophy-vercel-app-1d48909a.svg" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=blackphoenix42&row=1&theme=discord" alt="Trophies"/>
 </div>
 
 <br>
@@ -265,7 +265,7 @@
 ## 📊 Development Activity
 
 <div align="center">
-  <img src="assets/auto/github-readme-activity-graph-vercel-app-c310536a.svg" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackphoenix42&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph"/>
 </div>
 
 <br>
@@ -417,17 +417,17 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <br>
 
-<!-- QUOTE:START_DISABLED -->
+<!-- QUOTE:START -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20function%20of%20good%20software%20is%20to%20make%20the%20complex%20appear%20to%20be%20simple.&author=Grady%20Booch&t=1762806533" alt="Quote"/>
 </div>
-<!-- QUOTE:END_DISABLED -->
+<!-- QUOTE:END -->
 
-<!-- FOOTER_START_DISABLED -->
+<!-- FOOTER_START -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=What%20did%20the%20Network%20Administrator%20say%20when%20they%20caught%20a%20nasty%20virus%3F%20%E2%80%94%20It%20hurts%20when%20IP&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
-<!-- FOOTER_END_DISABLED -->
+<!-- FOOTER_END -->
 
 <div align="center">
   <sub>
