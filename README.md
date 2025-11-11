@@ -278,11 +278,11 @@
     <span style="font-weight:600; margin:0 8px;">Latest Blog Posts</span>
   </summary>
 
-  <!-- BLOG-POST-LIST:START_DISABLED -->
+  <!-- BLOG-POST-LIST:START -->
  1. ✍️ [Google I/O 2021 Punch Card Puzzle](assets/backups/binaryphoenix01-medium-com-2b50d85b.md) 
 
- 2. 📝 [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2) 
-<!-- BLOG-POST-LIST:END_DISABLED -->
+ 2. 📝 [Three Ways to Solve the Two Number Sum Problem](assets/backups/binaryphoenix01-medium-com-b81920a4.md) 
+<!-- BLOG-POST-LIST:END -->
 
 </details>
 
