@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%27re%20not%20failing%20every%20now%20and%20again%2C%20it%27s%20a%20sign%20you%27re%20not%20doing%20anything%20very%20innovative.&author=Woody%20Allen&t=1762882999" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20important%20property%20of%20a%20program%20is%20whether%20it%20accomplishes%20the%20intention%20of%20its%20user.&author=C.A.R.%20Hoare&t=1762886080" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
