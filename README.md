@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Software%20is%20a%20gas%3B%20it%20expands%20to%20fill%20its%20container.&author=Nathan%20Myhrvold&t=1762856883" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Observe%20things%20as%20they%20are%20and%20don%27t%20pay%20attention%20to%20other%20people.&author=Huang%20Po&t=1762858098" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
