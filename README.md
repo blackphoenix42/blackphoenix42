@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry.&author=Steve%20McConnell&t=1762881739" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%27re%20not%20failing%20every%20now%20and%20again%2C%20it%27s%20a%20sign%20you%27re%20not%20doing%20anything%20very%20innovative.&author=Woody%20Allen&t=1762882999" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
