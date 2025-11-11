@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20important%20property%20of%20a%20program%20is%20whether%20it%20accomplishes%20the%20intention%20of%20its%20user.&author=C.A.R.%20Hoare&t=1762875927" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20do%20not%20work%20on%20an%20important%20problem%2C%20it%27s%20unlikely%20you%27ll%20do%20important%20work.&author=Richard%20Hamming&t=1762878710" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
