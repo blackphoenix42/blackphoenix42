@@ -279,7 +279,7 @@
   </summary>
 
   <!-- BLOG-POST-LIST:START -->
- 1. ✍️ [Google I/O 2021 Punch Card Puzzle](assets/backups/binaryphoenix01-medium-com-2b50d85b.md) 
+ 1. ✍️ [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2) 
 
  2. 📝 [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2) 
 <!-- BLOG-POST-LIST:END -->
