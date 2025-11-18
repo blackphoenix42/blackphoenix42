@@ -385,7 +385,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
         </a>
       </td>
       <td align="center" width="20%">
-        <a href="assets/backups/medium-com-1a82200d.md">
+        <a href="https://medium.com/@binaryphoenix01">
           <img src="assets/auto/img-shields-io-e6083cef.svg" alt="Medium"/>
         </a>
       </td>
