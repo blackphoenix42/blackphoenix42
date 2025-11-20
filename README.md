@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Good%20entrepreneurs%20don%27t%20fail%20because%20they%20stay%20at%20it.&author=Naval%20Ravikant&t=1763663778" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Debugging%20is%20twice%20as%20hard%20as%20writing%20the%20code%20in%20the%20first%20place.&author=Brian%20Kernighan&t=1763666404" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
