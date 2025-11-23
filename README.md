@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Measuring%20programming%20progress%20by%20lines%20of%20code%20is%20like%20measuring%20aircraft%20building%20progress%20by%20weight.&author=Bill%20Gates&t=1763863756" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Fix%20the%20cause%2C%20not%20the%20symptom.&author=Steve%20Maguire&t=1763869563" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
