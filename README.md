@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=What%20are%20computers'%20favorite%20snacks%3F%20%E2%80%94%20Microchips%2C%20phish%20sticks%2C%20and%20cookies.%20But%20just%20a%20few%20bytes%20of%20each.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20did%20Gargamel%20shut%20down%20the%20internet%3F%20%E2%80%94%20Because%20he%20didn't%20want%20people%20**SMURFING**%20the%20web!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
