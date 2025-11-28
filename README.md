@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20are%20only%20two%20hard%20things%20in%20Computer%20Science%3A%20cache%20invalidation%20and%20naming%20things.&author=Phil%20Karlton&t=1764302182" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20way%20to%20get%20started%20is%20to%20quit%20talking%20and%20begin%20doing.&author=Walt%20Disney&t=1764304355" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
