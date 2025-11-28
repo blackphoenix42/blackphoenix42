@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackphoenix42&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1&v=2" alt="Top Languages"/>
+  <img src="assets/auto/github-readme-stats-vercel-app-4a0bbc2e.svg" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -279,9 +279,9 @@
   </summary>
 
   <!-- BLOG-POST-LIST:START -->
- 1. ✍️ [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2) 
+ 1. ✍️ [Google I/O 2021 Punch Card Puzzle](assets/backups/binaryphoenix01-medium-com-2b50d85b.md) 
 
- 2. 📝 [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2) 
+ 2. 📝 [Three Ways to Solve the Two Number Sum Problem](assets/backups/binaryphoenix01-medium-com-b81920a4.md) 
 <!-- BLOG-POST-LIST:END -->
 
 </details>
