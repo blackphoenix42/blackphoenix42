@@ -23,7 +23,7 @@
         <img align="left" alt="binaryphoenix's GitHub Stats" src="https://readmemd-stats-blackphoenix42.vercel.app/api?username=blackphoenix42&show_icons=true&theme=dracula&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=300" />
       </td>
       <td align="center" width="50%">
-        <img src="assets/auto/github-readme-streak-stats-herokuapp-com-bab970c5.svg" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackphoenix42&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
@@ -279,9 +279,9 @@
   </summary>
 
   <!-- BLOG-POST-LIST:START -->
- 1. ✍️ [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2) 
+ 1. ✍️ [Google I/O 2021 Punch Card Puzzle](assets/backups/binaryphoenix01-medium-com-2b50d85b.md) 
 
- 2. 📝 [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2) 
+ 2. 📝 [Three Ways to Solve the Two Number Sum Problem](assets/backups/binaryphoenix01-medium-com-b81920a4.md) 
 <!-- BLOG-POST-LIST:END -->
 
 </details>
@@ -392,7 +392,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     </tr>
     <tr>
       <td align="center" width="20%">
-        <a href="https://www.instagram.com/binary.phoenix/">
+        <a href="assets/backups/www-instagram-com-e45e3c03.md">
           <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
         </a>
       </td>
