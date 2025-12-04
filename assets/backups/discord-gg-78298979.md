@@ -4,4 +4,4 @@
 
 **Original**: <https://discord.gg/mRUZEhD>
 
-_Last refreshed: 2025-12-03T03:56:25.735387+00:00Z_
+_Last refreshed: 2025-12-04T03:58:19.842550+00:00Z_
