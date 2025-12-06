@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Quality%20means%20doing%20it%20right%20when%20no%20one%20is%20looking.&author=Henry%20Ford&t=1765041605" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20dangerous%20phrase%20in%20the%20language%20is%3A%20%22We%27ve%20always%20done%20it%20this%20way.%22&author=Grace%20Hopper&t=1765042856" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
