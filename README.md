@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programming%20is%20not%20about%20typing%2C%20it%27s%20about%20thinking.&author=Rich%20Hickey&t=1765117307" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower.&author=Steve%20Jobs&t=1765118524" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
