@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programming%20is%20not%20about%20typing%2C%20it%27s%20about%20thinking.&author=Rich%20Hickey&t=1765132372" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Experience%20is%20the%20name%20everyone%20gives%20to%20their%20mistakes.&author=Oscar%20Wilde&t=1765135148" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
