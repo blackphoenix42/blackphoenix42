@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Learning%20to%20write%20programs%20stretches%20your%20mind%2C%20and%20helps%20you%20think%20better%2C%20creates%20a%20way%20of%20thinking%20about%20things%20that%20I%20think%20is%20helpful%20in%20all%20domains.&author=Bill%20Gates&t=1765179954" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler&t=1765183062" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
