@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20get%20a%20project%20done%20faster%20is%20to%20start%20sooner.&author=Jim%20Highsmith&t=1765214699" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Software%20and%20cathedrals%20are%20much%20the%20same%20%E2%80%94%20first%20we%20build%20them%2C%20then%20we%20pray.&author=Sam%20Redwine&t=1765215911" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
