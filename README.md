@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Make%20it%20work%2C%20make%20it%20right%2C%20make%20it%20fast.&author=Kent%20Beck&t=1765250673" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You%20know%20the%20more%20one%20does%20the%20more%20one%20can%20do.&author=Amelia%20Earhart&t=1765252981" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
