@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20never%20lies%2C%20comments%20sometimes%20do.&author=Ron%20Jeffries&t=1765273726" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Measuring%20programming%20progress%20by%20lines%20of%20code%20is%20like%20measuring%20aircraft%20building%20progress%20by%20weight.&author=Bill%20Gates&t=1765276231" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
