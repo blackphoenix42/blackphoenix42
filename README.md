@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20get%20a%20project%20done%20faster%20is%20to%20start%20sooner.&author=Jim%20Highsmith&t=1765307928" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Today%20is%20plenty%3B%20right%20now%20is%20enough.%20Tomorrow%20will%20come%20in%20good%20time.%20Until%20it%20does%2C%20live%20the%20depth%20of%20now.&author=Ralph%20Marston&t=1765309224" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
