@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Most%20good%20programmers%20do%20programming%20not%20because%20they%20expect%20to%20get%20paid%20or%20get%20adulation%20by%20the%20public%2C%20but%20because%20it%20is%20fun%20to%20program.&author=Linus%20Torvalds&t=1765362626" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Experience%20is%20the%20name%20everyone%20gives%20to%20their%20mistakes.&author=Oscar%20Wilde&t=1765365840" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
