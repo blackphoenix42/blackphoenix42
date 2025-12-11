@@ -326,8 +326,8 @@
 
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#11](undefined) in [blackphoenix42/blackphoenix42](assets/backups/github-com-9b91d9c4.md)
-2. ❌ Closed PR [#10](undefined) in [blackphoenix42/blackphoenix42](assets/backups/github-com-9b91d9c4.md)
+1. ❌ Closed PR [#11](undefined) in [blackphoenix42/blackphoenix42](https://github.com/blackphoenix42/blackphoenix42)
+2. ❌ Closed PR [#10](undefined) in [blackphoenix42/blackphoenix42](https://github.com/blackphoenix42/blackphoenix42)
 <!--END_SECTION:activity-->
 
 </details>
@@ -392,7 +392,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     </tr>
     <tr>
       <td align="center" width="20%">
-        <a href="https://www.instagram.com/binary.phoenix/">
+        <a href="assets/backups/www-instagram-com-e45e3c03.md">
           <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
         </a>
       </td>
