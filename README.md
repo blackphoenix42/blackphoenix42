@@ -279,9 +279,9 @@
   </summary>
 
   <!-- BLOG-POST-LIST:START -->
- 1. ✍️ [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2) 
+ 1. ✍️ [Google I/O 2021 Punch Card Puzzle](assets/backups/binaryphoenix01-medium-com-2b50d85b.md) 
 
- 2. 📝 [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2) 
+ 2. 📝 [Three Ways to Solve the Two Number Sum Problem](assets/backups/binaryphoenix01-medium-com-b81920a4.md) 
 <!-- BLOG-POST-LIST:END -->
 
 </details>
@@ -326,8 +326,8 @@
 
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#11](undefined) in [blackphoenix42/blackphoenix42](https://github.com/blackphoenix42/blackphoenix42)
-2. ❌ Closed PR [#10](undefined) in [blackphoenix42/blackphoenix42](https://github.com/blackphoenix42/blackphoenix42)
+1. ❌ Closed PR [#11](undefined) in [blackphoenix42/blackphoenix42](assets/backups/github-com-9b91d9c4.md)
+2. ❌ Closed PR [#10](undefined) in [blackphoenix42/blackphoenix42](assets/backups/github-com-9b91d9c4.md)
 <!--END_SECTION:activity-->
 
 </details>
