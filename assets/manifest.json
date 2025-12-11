@@ -15,7 +15,7 @@
     "sha256": "fd90575ee7a64ea265a3a98645ef2f2c70dd298e960f50663289fefa08a39746",
     "bytes": 2023,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:55.927737+00:00Z"
+    "last_checked": "2025-12-11T01:04:45.168583+00:00Z"
   },
   "https://skillicons.dev/icons?i=grafana": {
     "type": "image",
@@ -24,7 +24,7 @@
     "sha256": "5a23a7df708b44662330c5ee5697fafd1d2a2135553daf85d9aeeb2d3c6ba9cc",
     "bytes": 9248,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:50.075969+00:00Z"
+    "last_checked": "2025-12-11T01:05:05.493247+00:00Z"
   },
   "https://cdn.simpleicons.org/github/ffffff": {
     "type": "image",
@@ -42,7 +42,7 @@
     "sha256": "5e9f635cf37b1e3065d6d38a4e31a0e72eee39aba4d0b6e1288afc005172bf1a",
     "bytes": 2844,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:55.885041+00:00Z"
+    "last_checked": "2025-12-11T01:05:04.036780+00:00Z"
   },
   "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Where%20do%20developers%20drink%3F%20%E2%80%94%20The%20Foo%20bar&fontSize=16&fontColor=ffffff&animation=twinkling": {
     "type": "image",
@@ -78,7 +78,7 @@
     "sha256": "97749410baf73e1b0a30cdcaae57df44658d31def772fdd55067dad3156106d6",
     "bytes": 3648,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:56.362614+00:00Z"
+    "last_checked": "2025-12-11T01:05:04.068554+00:00Z"
   },
   "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20are%20not%20embarrassed%20by%20the%20first%20version%20of%20your%20product%2C%20you%27ve%20launched%20too%20late.&author=Reid%20Hoffman&t=1761385128": {
     "type": "image",
@@ -105,7 +105,7 @@
     "sha256": "a61096cc98d9a81e8eff6c9842076f649da37f02aa3db6f9b974edf2cfba2e3c",
     "bytes": 5210,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:52.358432+00:00Z"
+    "last_checked": "2025-12-11T01:04:48.073297+00:00Z"
   },
   "https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white": {
     "type": "image",
@@ -123,7 +123,7 @@
     "sha256": "c6463a692c02e7c494dbfbf9635202d597503bf749e87b1605b220ff1d34a53e",
     "bytes": 1210,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:56.160900+00:00Z"
+    "last_checked": "2025-12-11T01:04:49.456613+00:00Z"
   },
   "https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white": {
     "type": "image",
@@ -141,7 +141,7 @@
     "sha256": "779813116788df0d8348ef55f0dc6e728e480db2ab54bf4a1726df9382189206",
     "bytes": 2191,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:52.461255+00:00Z"
+    "last_checked": "2025-12-11T01:04:48.138687+00:00Z"
   },
   "https://skillicons.dev/icons?i=jenkins": {
     "type": "image",
@@ -150,7 +150,7 @@
     "sha256": "fb34361a3c9b3ead9cd97a44d5fc495159d0477a8df4949a5d81f516e20595c1",
     "bytes": 25610,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:51.411299+00:00Z"
+    "last_checked": "2025-12-11T01:04:49.988233+00:00Z"
   },
   "https://img.shields.io/badge/𝕏%20(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white": {
     "type": "image",
@@ -177,7 +177,7 @@
     "sha256": "f3f20b606bd382dda978157f04c55107be0030419df6520e01706b8db7590ac8",
     "bytes": 880,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:50.368222+00:00Z"
+    "last_checked": "2025-12-11T01:05:04.100236+00:00Z"
   },
   "https://skillicons.dev/icons?i=cpp": {
     "type": "image",
@@ -186,7 +186,7 @@
     "sha256": "835dd2800e9d8c41fd353e3f513cdc16d99ee106d8b7fe101d8ed440deb805e3",
     "bytes": 1098,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:56.402301+00:00Z"
+    "last_checked": "2025-12-11T01:04:48.310641+00:00Z"
   },
   "https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white": {
     "type": "image",
@@ -222,7 +222,7 @@
     "sha256": "f328f81c8b565d07b11aae44d8448499a63c3229b4c2629553bbafd069a6b322",
     "bytes": 7046,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:50.386384+00:00Z"
+    "last_checked": "2025-12-11T01:04:48.108320+00:00Z"
   },
   "https://img.shields.io/badge/🔎-AlgoLens-58A6FF?style=for-the-badge&logo=react&logoColor=white": {
     "type": "image",
@@ -267,7 +267,7 @@
     "sha256": "efc79aeb95bbffa7db3593d295875fc1c2900fced9d39bc91239bbb5ecdd2047",
     "bytes": 6072,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:52.445271+00:00Z"
+    "last_checked": "2025-12-11T01:05:03.882965+00:00Z"
   },
   "https://skillicons.dev/icons?i=graphql": {
     "type": "image",
@@ -276,7 +276,7 @@
     "sha256": "2d20fd3fc814ce5c373b5ea3d6690cba89b94f91f1f8f4af0b3030bcf3a43fe9",
     "bytes": 2633,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:57.405208+00:00Z"
+    "last_checked": "2025-12-11T01:04:48.622626+00:00Z"
   },
   "https://img.shields.io/badge/🏋️-PostureIQ%20%28AI%2FML%29-58A6FF?style=for-the-badge&logo=opencv&logoColor=white": {
     "type": "image",
@@ -321,7 +321,7 @@
     "sha256": "eacf89e6cb29ba4cc5f5cbaeb14824a658878825828c04efa69273c38e468fa2",
     "bytes": 3636,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:51.445927+00:00Z"
+    "last_checked": "2025-12-11T01:04:51.051608+00:00Z"
   },
   "https://skillicons.dev/icons?i=gcp": {
     "type": "image",
@@ -330,7 +330,7 @@
     "sha256": "869c96ed5fff369e49ae7856254d1239fabe77803c2c5843740ba165a1a52b51",
     "bytes": 1663,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:50.333132+00:00Z"
+    "last_checked": "2025-12-11T01:04:50.138214+00:00Z"
   },
   "https://skillicons.dev/icons?i=git": {
     "type": "image",
@@ -339,7 +339,7 @@
     "sha256": "6b5807a6b5ebfb262f72a2464ee039c1112006931a5bdffee9e7a7f84b407abe",
     "bytes": 2947,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:50.402920+00:00Z"
+    "last_checked": "2025-12-11T01:04:48.040559+00:00Z"
   },
   "https://img.shields.io/github/followers/blackphoenix42?label=Followers&style=flat-square&color=58A6FF&logo=github": {
     "type": "image",
@@ -402,7 +402,7 @@
     "sha256": "3626c55bcc164f875cf500df6b899a1478106f691f847a6657c3de6e22d26ebb",
     "bytes": 2399,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:57.225541+00:00Z"
+    "last_checked": "2025-12-11T01:05:04.006455+00:00Z"
   },
   "https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white": {
     "type": "image",
@@ -429,7 +429,7 @@
     "sha256": "be8b93aa3ef007c65db6f2038f8e3a0c88bf6db3083d8719daf50293dd14541d",
     "bytes": 1783,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:56.876504+00:00Z"
+    "last_checked": "2025-12-11T01:04:49.579886+00:00Z"
   },
   "https://skillicons.dev/icons?i=go": {
     "type": "image",
@@ -438,7 +438,7 @@
     "sha256": "525c35f4d7d9cd2f31355627ca386d5f57d92534c667bf8921be76aefa50ed43",
     "bytes": 2776,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:55.943308+00:00Z"
+    "last_checked": "2025-12-11T01:04:45.137431+00:00Z"
   },
   "https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white": {
     "type": "image",
@@ -474,7 +474,7 @@
     "sha256": "fc56c02bdeb8d3e019c2c96121e7f41a2b3f1b3847db7b1d99062627151e3658",
     "bytes": 3890,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:51.395186+00:00Z"
+    "last_checked": "2025-12-11T01:05:06.116676+00:00Z"
   },
   "https://github-readme-stats.vercel.app/api/top-langs/?username=blackphoenix42&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1&v=2": {
     "type": "image",
@@ -519,7 +519,7 @@
     "sha256": "2e3883815e20a555ce17e917cb922002f5c4435fa1963fadb92ac2e0484e79fa",
     "bytes": 1998,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:56.485558+00:00Z"
+    "last_checked": "2025-12-11T01:04:45.105806+00:00Z"
   },
   "https://skillicons.dev/icons?i=prometheus": {
     "type": "image",
@@ -528,7 +528,7 @@
     "sha256": "9aae163c9b51596f54e0187a2ab70ab8b72660b252c45c34b2059c1f96a97fea",
     "bytes": 1428,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:50.351209+00:00Z"
+    "last_checked": "2025-12-11T01:05:04.239723+00:00Z"
   },
   "http://img.youtube.com/vi/DK2Gi0KlwgU/maxresdefault.jpg": {
     "type": "image",
@@ -555,7 +555,7 @@
     "sha256": "66df37c9cbc95b9acd0b0c9c0fcb27f3ab6e1664ca94c77d52a722bb5b24a74a",
     "bytes": 1346,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:56.517048+00:00Z"
+    "last_checked": "2025-12-11T01:04:50.106010+00:00Z"
   },
   "https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white": {
     "type": "image",
@@ -573,7 +573,7 @@
     "sha256": "6865e5e6ab6874f9579f40b8d93c0ef141c99603b402f616b0424a7c7ce7a99e",
     "bytes": 855,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:56.344737+00:00Z"
+    "last_checked": "2025-12-11T01:04:45.199584+00:00Z"
   },
   "https://img.shields.io/badge/Location-Delhi%2C%20India-58A6FF?style=flat-square&logo=googlemaps": {
     "type": "image",
@@ -618,7 +618,7 @@
     "sha256": "90dec270f55aeab6d9104b89c64b8a6b1aeedbb60e6486e349f845cac508ac8a",
     "bytes": 8537,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:51.429274+00:00Z"
+    "last_checked": "2025-12-11T01:05:04.508352+00:00Z"
   },
   "https://skillicons.dev/icons?i=postgres": {
     "type": "image",
@@ -627,7 +627,7 @@
     "sha256": "c93c447bc03f078ba628f12a5bb87f7adf4b754a3276fa78303be52716c3611d",
     "bytes": 4016,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:55.870033+00:00Z"
+    "last_checked": "2025-12-11T01:05:04.311483+00:00Z"
   },
   "https://img.shields.io/badge/Dckr-2496ED?style=flat-square&logo=docker&logoColor=white": {
     "type": "image",
@@ -645,7 +645,7 @@
     "sha256": "f13bcb45e1a85fc26bea87de0b483d70361c99c447092dd1a5bec65d8e50dfa8",
     "bytes": 7513,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:56.502525+00:00Z"
+    "last_checked": "2025-12-11T01:05:06.150362+00:00Z"
   },
   "https://skillicons.dev/icons?i=redis": {
     "type": "image",
@@ -654,7 +654,7 @@
     "sha256": "aed2bc135fa4878ce6e83fcfba66dcb0360223c00c8a9cd057b411a76daed5e4",
     "bytes": 3842,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:51.355331+00:00Z"
+    "last_checked": "2025-12-11T01:04:48.591655+00:00Z"
   },
   "https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white": {
     "type": "image",
@@ -681,7 +681,7 @@
     "sha256": "1b237ddca76104b68726cd7fd044e12a1312205e6014d33e35226e46e08039bb",
     "bytes": 1252,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:56.419145+00:00Z"
+    "last_checked": "2025-12-11T01:04:50.172458+00:00Z"
   },
   "https://skillicons.dev/icons?i=vscode": {
     "type": "image",
@@ -690,7 +690,7 @@
     "sha256": "7e1470e1fed588e273719b394b1e182a8f20502ce64a320e6ef835355c26241c",
     "bytes": 1427,
     "last_status": "ok",
-    "last_checked": "2025-12-10T04:00:57.365515+00:00Z"
+    "last_checked": "2025-12-11T01:04:48.189716+00:00Z"
   },
   "https://github-readme-activity-graph.vercel.app/graph?username=blackphoenix42&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff": {
     "type": "image",
