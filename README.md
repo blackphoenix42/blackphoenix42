@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=How%20many%20developers%20does%20it%20take%20to%20change%20a%20light%20bulb%3F%20%E2%80%94%20None.%20It's%20a%20hardware%20issue&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20are%20the%20arrays%20that%20Chuck%20Norris%20declare%2C%20of%20infinite%20size.%20%E2%80%94%20Because%20Chuck%20Norris%20knows%20no%20bounds.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
