@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20computer%20program%20does%20what%20you%20tell%20it%20to%20do%2C%20not%20what%20you%20want%20it%20to%20do.&author=Grady%20Booch&t=1765484961" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Simplicity%20is%20the%20ultimate%20sophistication.&author=Leonardo%20da%20Vinci&t=1765485977" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
