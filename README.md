@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20is%20not%20what%20we%20get.%20But%20who%20we%20become%2C%20what%20we%20contribute...%20that%20gives%20meaning%20to%20our%20lives.&author=Tony%20Robbins&t=1765460700" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Make%20everything%20as%20simple%20as%20possible%2C%20but%20not%20simpler.&author=Albert%20Einstein&t=1765463220" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
