@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programming%20is%20not%20about%20typing%2C%20it%27s%20about%20thinking.&author=Rich%20Hickey&t=1765504951" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20computer%20program%20does%20what%20you%20tell%20it%20to%20do%2C%20not%20what%20you%20want%20it%20to%20do.&author=Grady%20Booch&t=1765511124" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
