@@ -23,7 +23,7 @@
         <img align="left" alt="binaryphoenix's GitHub Stats" src="https://readmemd-stats-blackphoenix42.vercel.app/api?username=blackphoenix42&show_icons=true&theme=dracula&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=300" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackphoenix42&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+        <img src="assets/auto/github-readme-streak-stats-herokuapp-com-bab970c5.svg" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
@@ -326,8 +326,8 @@
 
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#11](undefined) in [blackphoenix42/blackphoenix42](https://github.com/blackphoenix42/blackphoenix42)
-2. ❌ Closed PR [#10](undefined) in [blackphoenix42/blackphoenix42](https://github.com/blackphoenix42/blackphoenix42)
+1. ❌ Closed PR [#11](undefined) in [blackphoenix42/blackphoenix42](assets/backups/github-com-9b91d9c4.md)
+2. ❌ Closed PR [#10](undefined) in [blackphoenix42/blackphoenix42](assets/backups/github-com-9b91d9c4.md)
 <!--END_SECTION:activity-->
 
 </details>
@@ -359,7 +359,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/blackphoenix42/blackphoenix42/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="assets/auto/github-com-b728b1e4.svg" alt="Snake Animation" />
 </div>
 
 <br>
