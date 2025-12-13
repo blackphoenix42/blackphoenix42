@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Quality%20means%20doing%20it%20right%20when%20no%20one%20is%20looking.&author=Henry%20Ford&t=1765646475" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20important%20property%20of%20a%20program%20is%20whether%20it%20accomplishes%20the%20intention%20of%20its%20user.&author=C.A.R.%20Hoare&t=1765647662" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
