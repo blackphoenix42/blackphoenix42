@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=How%20did%20pirates%20collaborate%20before%20computers%3F%20%E2%80%94%20Pier%20to%20pier%20networking.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Don't%20add%20a%20programming%20language%20to%20your%20skills%20list%20after%20watching%20a%2015-minute%20video%20on%20it.%20%E2%80%94%20Yes%20wait%20until%20you've%20written%20hello%20world&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
