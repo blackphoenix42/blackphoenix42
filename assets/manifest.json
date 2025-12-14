@@ -6,7 +6,7 @@
     "sha256": "7e1b1b2078c53648accc9474467b7df195809daca078be2dfd91b701d74b95ad",
     "bytes": 23650,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:08.492061+00:00Z"
+    "last_checked": "2025-12-14T04:05:16.193021+00:00Z"
   },
   "https://skillicons.dev/icons?i=python": {
     "type": "image",
@@ -15,7 +15,7 @@
     "sha256": "fd90575ee7a64ea265a3a98645ef2f2c70dd298e960f50663289fefa08a39746",
     "bytes": 2023,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:06.557360+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.928012+00:00Z"
   },
   "https://skillicons.dev/icons?i=grafana": {
     "type": "image",
@@ -24,7 +24,7 @@
     "sha256": "5a23a7df708b44662330c5ee5697fafd1d2a2135553daf85d9aeeb2d3c6ba9cc",
     "bytes": 9248,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:05.030576+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.639148+00:00Z"
   },
   "https://cdn.simpleicons.org/github/ffffff": {
     "type": "image",
@@ -42,7 +42,7 @@
     "sha256": "5e9f635cf37b1e3065d6d38a4e31a0e72eee39aba4d0b6e1288afc005172bf1a",
     "bytes": 2844,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:11.603313+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.945576+00:00Z"
   },
   "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Where%20do%20developers%20drink%3F%20%E2%80%94%20The%20Foo%20bar&fontSize=16&fontColor=ffffff&animation=twinkling": {
     "type": "image",
@@ -60,7 +60,7 @@
     "sha256": "95a26a1a4ed2201c528051388a35ea0908932a9d104f01c7a7e024f4d8888b88",
     "bytes": 2600,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:05.114935+00:00Z"
+    "last_checked": "2025-12-14T04:05:19.393489+00:00Z"
   },
   "https://cdn.simpleicons.org/medium/ffffff": {
     "type": "image",
@@ -78,7 +78,7 @@
     "sha256": "97749410baf73e1b0a30cdcaae57df44658d31def772fdd55067dad3156106d6",
     "bytes": 3648,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:11.534178+00:00Z"
+    "last_checked": "2025-12-14T04:05:16.150754+00:00Z"
   },
   "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20are%20not%20embarrassed%20by%20the%20first%20version%20of%20your%20product%2C%20you%27ve%20launched%20too%20late.&author=Reid%20Hoffman&t=1761385128": {
     "type": "image",
@@ -93,10 +93,10 @@
     "type": "image",
     "slug": "github-com-b728b1e4",
     "path": "assets/auto/github-com-b728b1e4.svg",
-    "sha256": "4d3c5fd1a2166a4ac71b0b759146845957dd493e08d7c3b2c04cff9ddf40b975",
-    "bytes": 247873,
+    "sha256": "e1d23428e62690badecc3e81ef1dbd1a0d3d6a414fc1e5cbf42eb5cfb1ae69ec",
+    "bytes": 247797,
     "last_status": "ok",
-    "last_checked": "2025-12-13T07:38:00.772549+00:00Z"
+    "last_checked": "2025-12-14T04:05:16.534090+00:00Z"
   },
   "https://skillicons.dev/icons?i=jest": {
     "type": "image",
@@ -105,7 +105,7 @@
     "sha256": "a61096cc98d9a81e8eff6c9842076f649da37f02aa3db6f9b974edf2cfba2e3c",
     "bytes": 5210,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:05.005131+00:00Z"
+    "last_checked": "2025-12-14T04:05:19.380331+00:00Z"
   },
   "https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white": {
     "type": "image",
@@ -114,7 +114,7 @@
     "sha256": "3d270fa4d278cc88ed96c956b1c951c9da3000dc7b0874d1c1cd913291d4bceb",
     "bytes": 457,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:05.156312+00:00Z"
+    "last_checked": "2025-12-14T04:05:20.780217+00:00Z"
   },
   "https://skillicons.dev/icons?i=docker": {
     "type": "image",
@@ -123,7 +123,7 @@
     "sha256": "c6463a692c02e7c494dbfbf9635202d597503bf749e87b1605b220ff1d34a53e",
     "bytes": 1210,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:08.477514+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.919031+00:00Z"
   },
   "https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white": {
     "type": "image",
@@ -132,7 +132,7 @@
     "sha256": "de834b0f67393b339eac0e655e7cb505d93cba0c36752edfa52ab3b012b3c36a",
     "bytes": 1039,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.915821+00:00Z"
+    "last_checked": "2025-12-14T04:05:20.496346+00:00Z"
   },
   "https://skillicons.dev/icons?i=express": {
     "type": "image",
@@ -141,7 +141,7 @@
     "sha256": "779813116788df0d8348ef55f0dc6e728e480db2ab54bf4a1726df9382189206",
     "bytes": 2191,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.749564+00:00Z"
+    "last_checked": "2025-12-14T04:05:16.202065+00:00Z"
   },
   "https://skillicons.dev/icons?i=jenkins": {
     "type": "image",
@@ -150,7 +150,7 @@
     "sha256": "fb34361a3c9b3ead9cd97a44d5fc495159d0477a8df4949a5d81f516e20595c1",
     "bytes": 25610,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.993287+00:00Z"
+    "last_checked": "2025-12-14T04:05:16.142550+00:00Z"
   },
   "https://img.shields.io/badge/𝕏%20(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white": {
     "type": "image",
@@ -159,7 +159,7 @@
     "sha256": "4a3f43a31906fe0384ac57a468012ab47cbe930046efab8a6b55cdd94d5158cd",
     "bytes": 970,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.737508+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.527897+00:00Z"
   },
   "http://img.youtube.com/vi/P9Q8uiX5I7E/maxresdefault.jpg": {
     "type": "image",
@@ -168,7 +168,7 @@
     "sha256": "b38a108c073cd927e1a2dbdf884a3d1318f73383e77cd6c08f107537093c904c",
     "bytes": 30757,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:03.771235+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.787632+00:00Z"
   },
   "https://skillicons.dev/icons?i=nginx": {
     "type": "image",
@@ -177,7 +177,7 @@
     "sha256": "f3f20b606bd382dda978157f04c55107be0030419df6520e01706b8db7590ac8",
     "bytes": 880,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.067987+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.593729+00:00Z"
   },
   "https://skillicons.dev/icons?i=cpp": {
     "type": "image",
@@ -186,7 +186,7 @@
     "sha256": "835dd2800e9d8c41fd353e3f513cdc16d99ee106d8b7fe101d8ed440deb805e3",
     "bytes": 1098,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.964069+00:00Z"
+    "last_checked": "2025-12-14T04:05:16.134616+00:00Z"
   },
   "https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white": {
     "type": "image",
@@ -195,7 +195,7 @@
     "sha256": "d1f53a22b3eb6923a62b3c2d4ebbce016b6c481741245c5268f69f477636f789",
     "bytes": 1176,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:11.547151+00:00Z"
+    "last_checked": "2025-12-14T04:05:16.068572+00:00Z"
   },
   "https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=SDE%E2%80%912+%E2%80%A2+Systems+%26+Performance+%E2%80%94+design+%E2%86%92+build+%E2%86%92+scale;Scalable+services%2C+clean+APIs+%E2%80%A2+low+latency%2C+high+throughput;Codeforces+Master+%E2%80%A2+CodeChef+6%E2%AD%90+%E2%80%A2+LeetCode+Knight+%E2%80%A2+HackerRank+6%E2%AD%90": {
     "type": "image",
@@ -204,16 +204,16 @@
     "sha256": "bd7a426021ddddca7df31001a1f51e771aa8d103c7c3cf32a8d2f69fd30c7c69",
     "bytes": 11026,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.722275+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.459321+00:00Z"
   },
   "https://github-readme-streak-stats.herokuapp.com/?user=blackphoenix42&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF": {
     "type": "image",
     "slug": "github-readme-streak-stats-herokuapp-com-bab970c5",
     "path": "assets/auto/github-readme-streak-stats-herokuapp-com-bab970c5.svg",
-    "sha256": null,
-    "bytes": 7053,
+    "sha256": "e19f8575c37914a2bb0a4ec3f331073627cf62c03888dd0139e4841e1517e455",
+    "bytes": 7054,
     "last_status": "ok",
-    "last_checked": "2025-12-13T18:45:41.720370+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.041466+00:00Z"
   },
   "https://skillicons.dev/icons?i=kubernetes": {
     "type": "image",
@@ -222,7 +222,7 @@
     "sha256": "f328f81c8b565d07b11aae44d8448499a63c3229b4c2629553bbafd069a6b322",
     "bytes": 7046,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.928032+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.146481+00:00Z"
   },
   "https://img.shields.io/badge/🔎-AlgoLens-58A6FF?style=for-the-badge&logo=react&logoColor=white": {
     "type": "image",
@@ -231,7 +231,7 @@
     "sha256": "86addf54a53f035b57dea0fc716c109c08e2110629f28cdd01362e7b74d5201b",
     "bytes": 4608,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:06.708400+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.673877+00:00Z"
   },
   "https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white": {
     "type": "image",
@@ -240,16 +240,16 @@
     "sha256": "f2bb0c366eefc8a3bc8edbd188c60b373fbbb0cb1abde4e5cfc88eca36326434",
     "bytes": 1583,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.952703+00:00Z"
+    "last_checked": "2025-12-14T04:05:19.614663+00:00Z"
   },
   "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Competitive%20Programmer%20|%20Systems%20Designer&descAlignY=55&descAlign=50": {
     "type": "image",
     "slug": "capsule-render-vercel-app-56ab8237",
     "path": "assets/auto/capsule-render-vercel-app-56ab8237.svg",
-    "sha256": "176c35da4c523f89f8775b607053fab50a030126ecfae3088549953a496c3cff",
+    "sha256": "a930c15a8ce9c6306983e7cfe8a262029842a264a305d2632d5502dc6f2d2d26",
     "bytes": 2614,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:06.682830+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.134912+00:00Z"
   },
   "https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white": {
     "type": "image",
@@ -258,7 +258,7 @@
     "sha256": "f704631218e4295d6cdfbd5e631e20f69843c3f390f48a4d85e23dca75815ef8",
     "bytes": 1782,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:08.953441+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.877238+00:00Z"
   },
   "https://skillicons.dev/icons?i=aws": {
     "type": "image",
@@ -267,7 +267,7 @@
     "sha256": "efc79aeb95bbffa7db3593d295875fc1c2900fced9d39bc91239bbb5ecdd2047",
     "bytes": 6072,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:05.086651+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.885387+00:00Z"
   },
   "https://skillicons.dev/icons?i=graphql": {
     "type": "image",
@@ -276,7 +276,7 @@
     "sha256": "2d20fd3fc814ce5c373b5ea3d6690cba89b94f91f1f8f4af0b3030bcf3a43fe9",
     "bytes": 2633,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.762463+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.912129+00:00Z"
   },
   "https://img.shields.io/badge/🏋️-PostureIQ%20%28AI%2FML%29-58A6FF?style=for-the-badge&logo=opencv&logoColor=white": {
     "type": "image",
@@ -285,7 +285,7 @@
     "sha256": "435df3a9a72a20f5ab7e3e7f73309d742b2f389e78786ab58b46de0a041f8dae",
     "bytes": 2502,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.125023+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.586698+00:00Z"
   },
   "https://img.shields.io/badge/MPipe-00A6FF?style=flat-square": {
     "type": "image",
@@ -294,7 +294,7 @@
     "sha256": "5712c9f283366d21f74fdd0316bbbdf6c0247a5e651d1b2b9701a798dd9f9047",
     "bytes": 479,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:05.099734+00:00Z"
+    "last_checked": "2025-12-14T04:05:16.829696+00:00Z"
   },
   "https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB": {
     "type": "image",
@@ -303,7 +303,7 @@
     "sha256": "28529f8039b7b0e88ed753ee3c714d02d5c9c5aff2eed39151c39b20c47f9b3d",
     "bytes": 4477,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.154818+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.682078+00:00Z"
   },
   "https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white": {
     "type": "image",
@@ -312,7 +312,7 @@
     "sha256": "5a9d41a980bd37b82ee82b66bf4f845f87594a6f4eb0f25bd5b4ceef3d4fd582",
     "bytes": 1488,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:11.494601+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.631590+00:00Z"
   },
   "https://skillicons.dev/icons?i=nodejs": {
     "type": "image",
@@ -321,7 +321,7 @@
     "sha256": "eacf89e6cb29ba4cc5f5cbaeb14824a658878825828c04efa69273c38e468fa2",
     "bytes": 3636,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:06.694668+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.803895+00:00Z"
   },
   "https://skillicons.dev/icons?i=gcp": {
     "type": "image",
@@ -330,7 +330,7 @@
     "sha256": "869c96ed5fff369e49ae7856254d1239fabe77803c2c5843740ba165a1a52b51",
     "bytes": 1663,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:05.142441+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.993358+00:00Z"
   },
   "https://skillicons.dev/icons?i=git": {
     "type": "image",
@@ -339,7 +339,7 @@
     "sha256": "6b5807a6b5ebfb262f72a2464ee039c1112006931a5bdffee9e7a7f84b407abe",
     "bytes": 2947,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.042543+00:00Z"
+    "last_checked": "2025-12-14T04:05:16.160408+00:00Z"
   },
   "https://img.shields.io/github/followers/blackphoenix42?label=Followers&style=flat-square&color=58A6FF&logo=github": {
     "type": "image",
@@ -348,7 +348,7 @@
     "sha256": "b9d1ceb79303604293bd14359493c9d296817dfd1c5e20809c3841587e2cc3f7",
     "bytes": 1778,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.888913+00:00Z"
+    "last_checked": "2025-12-14T04:05:19.747589+00:00Z"
   },
   "https://github-profile-trophy.vercel.app/?username=blackphoenix42&row=1&theme=discord": {
     "type": "image",
@@ -372,10 +372,10 @@
     "type": "image",
     "slug": "komarev-com-b4afcf06",
     "path": "assets/auto/komarev-com-b4afcf06.svg",
-    "sha256": "8377878992da6866f8547c419a0a4f96342e216c0f7e5949cebf4b0f66177865",
+    "sha256": "c80ddbc16a8ee966b3b32869ce7bfb23c64524d38befd977325b13e3c3de85b7",
     "bytes": 912,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:06.063406+00:00Z"
+    "last_checked": "2025-12-14T04:05:20.484808+00:00Z"
   },
   "https://img.shields.io/badge/Torch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white": {
     "type": "image",
@@ -384,7 +384,7 @@
     "sha256": "6c57dd71679e784980b7734877f370d2fc60f908a89214da9725f9a49369b922",
     "bytes": 1173,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.097630+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.904432+00:00Z"
   },
   "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white": {
     "type": "image",
@@ -393,7 +393,7 @@
     "sha256": "50df79ba0824b9aaf08f02db1254ea7d8feeecbcf6623a6f235459e09ba6da72",
     "bytes": 2312,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.774830+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.833148+00:00Z"
   },
   "https://skillicons.dev/icons?i=java": {
     "type": "image",
@@ -402,7 +402,7 @@
     "sha256": "3626c55bcc164f875cf500df6b899a1478106f691f847a6657c3de6e22d26ebb",
     "bytes": 2399,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:06.535376+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.551525+00:00Z"
   },
   "https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white": {
     "type": "image",
@@ -411,7 +411,7 @@
     "sha256": "479a07167c84b2084cdb8ac809377d71d7ff02d8ed937989c36721ea498ee9be",
     "bytes": 2488,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:06.581472+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.973140+00:00Z"
   },
   "https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white": {
     "type": "image",
@@ -420,7 +420,7 @@
     "sha256": "da6d1074ac4f9c6807fb85ee5caed665c581f5f8daf3c9625d9bd7d21f42cdc6",
     "bytes": 2396,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.017490+00:00Z"
+    "last_checked": "2025-12-14T04:05:16.553510+00:00Z"
   },
   "https://skillicons.dev/icons?i=cmake": {
     "type": "image",
@@ -429,7 +429,7 @@
     "sha256": "be8b93aa3ef007c65db6f2038f8e3a0c88bf6db3083d8719daf50293dd14541d",
     "bytes": 1783,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.031110+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.953950+00:00Z"
   },
   "https://skillicons.dev/icons?i=go": {
     "type": "image",
@@ -438,7 +438,7 @@
     "sha256": "525c35f4d7d9cd2f31355627ca386d5f57d92534c667bf8921be76aefa50ed43",
     "bytes": 2776,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:03.711723+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.820330+00:00Z"
   },
   "https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white": {
     "type": "image",
@@ -447,7 +447,7 @@
     "sha256": "60e9bd3ce3fd62c23d4b457512aae8d465cc15d337a92c35ea135cf2f3eddc20",
     "bytes": 1008,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:05.129799+00:00Z"
+    "last_checked": "2025-12-14T04:05:19.623331+00:00Z"
   },
   "https://img.shields.io/badge/🔥-Perf%20Toolkit-58A6FF?style=for-the-badge&logo=c%2B%2B&logoColor=white": {
     "type": "image",
@@ -456,7 +456,7 @@
     "sha256": "eb5260010e9393a28ff0ef7779de9894b9028e056650f331e81c3f89a05f3356",
     "bytes": 1738,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:11.559638+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.894723+00:00Z"
   },
   "https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white": {
     "type": "image",
@@ -465,7 +465,7 @@
     "sha256": "378606a3d4b14da02a6f9f6bc12b60fa045fa3ef4a3df9cc3c7e3c187b91f459",
     "bytes": 1882,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:11.615729+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.850047+00:00Z"
   },
   "https://skillicons.dev/icons?i=githubactions": {
     "type": "image",
@@ -474,7 +474,7 @@
     "sha256": "fc56c02bdeb8d3e019c2c96121e7f41a2b3f1b3847db7b1d99062627151e3658",
     "bytes": 3890,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:06.546188+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.535384+00:00Z"
   },
   "https://github-readme-stats.vercel.app/api/top-langs/?username=blackphoenix42&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1&v=2": {
     "type": "image",
@@ -483,7 +483,7 @@
     "sha256": "37435f966a8c3dd12b775e8fcd123c6dd10f917ddb831c40a313a2e89d7957f8",
     "bytes": 5721,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:08.463239+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.777872+00:00Z"
   },
   "https://img.shields.io/badge/Status-Active-FF6B35?style=flat-square": {
     "type": "image",
@@ -492,7 +492,7 @@
     "sha256": "808586530ca7198476f10324aa1811b5e2a6f49709f1ad5aa9e5317a195dc574",
     "bytes": 583,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:05.019182+00:00Z"
+    "last_checked": "2025-12-14T04:05:16.543734+00:00Z"
   },
   "https://readmemd-stats-blackphoenix42.vercel.app/api?username=blackphoenix42&show_icons=true&theme=dracula&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=300": {
     "type": "image",
@@ -501,7 +501,7 @@
     "sha256": "c2416a081c97a1f673d619c066001d8397fd9e3f2f1f232fbe0999cf0094ee8e",
     "bytes": 7005,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:11.477480+00:00Z"
+    "last_checked": "2025-12-14T04:05:19.372160+00:00Z"
   },
   "https://img.shields.io/badge/Focus-Software%20Engineer-58A6FF?style=flat-square": {
     "type": "image",
@@ -510,7 +510,7 @@
     "sha256": "4707fcf792efae56e5bc271bdd4e361b3c439566b06ecd0330b252de42692cfb",
     "bytes": 616,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:06.723197+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.963848+00:00Z"
   },
   "https://skillicons.dev/icons?i=typescript": {
     "type": "image",
@@ -519,7 +519,7 @@
     "sha256": "2e3883815e20a555ce17e917cb922002f5c4435fa1963fadb92ac2e0484e79fa",
     "bytes": 1998,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:05.073786+00:00Z"
+    "last_checked": "2025-12-14T04:05:16.126629+00:00Z"
   },
   "https://skillicons.dev/icons?i=prometheus": {
     "type": "image",
@@ -528,7 +528,7 @@
     "sha256": "9aae163c9b51596f54e0187a2ab70ab8b72660b252c45c34b2059c1f96a97fea",
     "bytes": 1428,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:11.521558+00:00Z"
+    "last_checked": "2025-12-14T04:05:20.759780+00:00Z"
   },
   "http://img.youtube.com/vi/DK2Gi0KlwgU/maxresdefault.jpg": {
     "type": "image",
@@ -537,7 +537,7 @@
     "sha256": "2e1381d9594413e35e55f74631a9f07aab2922ff2f047f68bdf4f5ca6443bf48",
     "bytes": 138621,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.342674+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.613473+00:00Z"
   },
   "https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white": {
     "type": "image",
@@ -546,7 +546,7 @@
     "sha256": "72841c4cbac7ee1e6802f00fd7318ab50fb4bc9a27d9564b076776f3f8aad52f",
     "bytes": 2320,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.902690+00:00Z"
+    "last_checked": "2025-12-14T04:05:20.513316+00:00Z"
   },
   "https://skillicons.dev/icons?i=mongodb": {
     "type": "image",
@@ -555,7 +555,7 @@
     "sha256": "66df37c9cbc95b9acd0b0c9c0fcb27f3ab6e1664ca94c77d52a722bb5b24a74a",
     "bytes": 1346,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:08.503559+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.542830+00:00Z"
   },
   "https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white": {
     "type": "image",
@@ -564,7 +564,7 @@
     "sha256": "83d26aa9a0d06d08295e963df6bde01c3b0c129339ea568f461ab7b88a2bf078",
     "bytes": 7857,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.356380+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.562325+00:00Z"
   },
   "https://skillicons.dev/icons?i=terraform": {
     "type": "image",
@@ -573,7 +573,7 @@
     "sha256": "6865e5e6ab6874f9579f40b8d93c0ef141c99603b402f616b0424a7c7ce7a99e",
     "bytes": 855,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:06.088841+00:00Z"
+    "last_checked": "2025-12-14T04:05:20.503946+00:00Z"
   },
   "https://img.shields.io/badge/Location-Delhi%2C%20India-58A6FF?style=flat-square&logo=googlemaps": {
     "type": "image",
@@ -582,7 +582,7 @@
     "sha256": "15cf4639fdee64be63339f00186228f93968bbebf8767e6220a303e5324bcc3d",
     "bytes": 2074,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.979293+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.488542+00:00Z"
   },
   "https://cdn.simpleicons.org/stackoverflow/F48024": {
     "type": "image",
@@ -600,7 +600,7 @@
     "sha256": "5de24edceb5b9c16045b963419bf93c6811bc7ae4b1016ee9de54061a0b64d1e",
     "bytes": 1169,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:11.591764+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.515395+00:00Z"
   },
   "https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white": {
     "type": "image",
@@ -609,7 +609,7 @@
     "sha256": "6b6264099bf705b17d709f78ec6e3b6be7424eeb665eecffa26944d6dbc800fd",
     "bytes": 1858,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.940484+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.868300+00:00Z"
   },
   "https://skillicons.dev/icons?i=postman": {
     "type": "image",
@@ -618,7 +618,7 @@
     "sha256": "90dec270f55aeab6d9104b89c64b8a6b1aeedbb60e6486e349f845cac508ac8a",
     "bytes": 8537,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:06.076395+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.840951+00:00Z"
   },
   "https://skillicons.dev/icons?i=postgres": {
     "type": "image",
@@ -627,7 +627,7 @@
     "sha256": "c93c447bc03f078ba628f12a5bb87f7adf4b754a3276fa78303be52716c3611d",
     "bytes": 4016,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:05.167900+00:00Z"
+    "last_checked": "2025-12-14T04:05:20.772139+00:00Z"
   },
   "https://img.shields.io/badge/Dckr-2496ED?style=flat-square&logo=docker&logoColor=white": {
     "type": "image",
@@ -636,7 +636,7 @@
     "sha256": "f22557ae5e71b88556588a742836b81d4434c3d4899ea66881836c2eb3528d9a",
     "bytes": 2922,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:11.509329+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.859421+00:00Z"
   },
   "https://skillicons.dev/icons?i=linux": {
     "type": "image",
@@ -645,7 +645,7 @@
     "sha256": "f13bcb45e1a85fc26bea87de0b483d70361c99c447092dd1a5bec65d8e50dfa8",
     "bytes": 7513,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.137211+00:00Z"
+    "last_checked": "2025-12-14T04:05:16.561848+00:00Z"
   },
   "https://skillicons.dev/icons?i=redis": {
     "type": "image",
@@ -654,7 +654,7 @@
     "sha256": "aed2bc135fa4878ce6e83fcfba66dcb0360223c00c8a9cd057b411a76daed5e4",
     "bytes": 3842,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:06.568898+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.795469+00:00Z"
   },
   "https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white": {
     "type": "image",
@@ -663,7 +663,7 @@
     "sha256": "5bec95f3ae0b4831b7d8f738bd2bd1d4f398fa24874fdbd66ecf5117d939c8b6",
     "bytes": 3278,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:05.061555+00:00Z"
+    "last_checked": "2025-12-14T04:05:16.077725+00:00Z"
   },
   "https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white": {
     "type": "image",
@@ -672,7 +672,7 @@
     "sha256": "2b699f1035ebc868480d4140236131f9510c49aa96a6b8099750f044717045c9",
     "bytes": 3370,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:05.047415+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.936999+00:00Z"
   },
   "https://skillicons.dev/icons?i=rabbitmq": {
     "type": "image",
@@ -681,7 +681,7 @@
     "sha256": "1b237ddca76104b68726cd7fd044e12a1312205e6014d33e35226e46e08039bb",
     "bytes": 1252,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:08.516787+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.621082+00:00Z"
   },
   "https://skillicons.dev/icons?i=vscode": {
     "type": "image",
@@ -690,16 +690,16 @@
     "sha256": "7e1470e1fed588e273719b394b1e182a8f20502ce64a320e6ef835355c26241c",
     "bytes": 1427,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.081498+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.811502+00:00Z"
   },
   "https://github-readme-activity-graph.vercel.app/graph?username=blackphoenix42&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff": {
     "type": "image",
     "slug": "github-readme-activity-graph-vercel-app-c310536a",
     "path": "assets/auto/github-readme-activity-graph-vercel-app-c310536a.svg",
-    "sha256": "e98b85be8be38f0908a144b309acef0db1a827337404eee82ba84c723ce3c043",
+    "sha256": "58f0f183027066b00fc1aed2d6e9609af530b6dc09bdb141ae39af3b4e0fa21a",
     "bytes": 15768,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:06.373422+00:00Z"
+    "last_checked": "2025-12-14T04:05:19.605096+00:00Z"
   },
   "https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square": {
     "type": "image",
@@ -708,7 +708,7 @@
     "sha256": "c96969ea4c6fd9ec6513e32282b24d5cbe1550bef41070cbf69f319800a7b587",
     "bytes": 590,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:08.530569+00:00Z"
+    "last_checked": "2025-12-14T04:05:33.983204+00:00Z"
   },
   "https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white": {
     "type": "image",
@@ -717,14 +717,14 @@
     "sha256": "df4b1d06893357781e6c85fc85ee5efee12e3999c0be78cec31f7ebcf3a9756d",
     "bytes": 1605,
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:04.055727+00:00Z"
+    "last_checked": "2025-12-14T04:05:31.691646+00:00Z"
   },
   "https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111": {
     "type": "link",
     "slug": "stackoverflow-com-27da4c6b",
     "backup_path": "assets/backups/stackoverflow-com-27da4c6b.md",
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:14.754707+00:00Z"
+    "last_checked": "2025-12-14T04:05:36.547533+00:00Z"
   },
   "https://github.com/blackphoenix42/algolens-private": {
     "type": "link",
@@ -738,14 +738,14 @@
     "slug": "discord-gg-78298979",
     "backup_path": "assets/backups/discord-gg-78298979.md",
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:14.066389+00:00Z"
+    "last_checked": "2025-12-14T04:05:36.274375+00:00Z"
   },
   "https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089": {
     "type": "link",
     "slug": "stackoverflow-com-51c4f1ed",
     "backup_path": "assets/backups/stackoverflow-com-51c4f1ed.md",
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:14.226138+00:00Z"
+    "last_checked": "2025-12-14T04:05:36.748724+00:00Z"
   },
   "https://github.com/abhisheknaiidu/awesome-github-profile-readme": {
     "type": "link",
@@ -759,7 +759,7 @@
     "slug": "www-youtube-com-6ea4f73c",
     "backup_path": "assets/backups/www-youtube-com-6ea4f73c.md",
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:15.252803+00:00Z"
+    "last_checked": "2025-12-14T04:05:35.996788+00:00Z"
   },
   "https://www.instagram.com/binary.phoenix/": {
     "type": "link",
@@ -773,21 +773,21 @@
     "slug": "stackoverflow-com-2729a72a",
     "backup_path": "assets/backups/stackoverflow-com-2729a72a.md",
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:12.279808+00:00Z"
+    "last_checked": "2025-12-14T04:05:37.710850+00:00Z"
   },
   "https://www.youtube.com/watch?v=P9Q8uiX5I7E": {
     "type": "link",
     "slug": "www-youtube-com-1588f5f2",
     "backup_path": "assets/backups/www-youtube-com-1588f5f2.md",
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:13.259912+00:00Z"
+    "last_checked": "2025-12-14T04:05:34.740135+00:00Z"
   },
   "https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656": {
     "type": "link",
     "slug": "stackoverflow-com-d79eebdf",
     "backup_path": "assets/backups/stackoverflow-com-d79eebdf.md",
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:12.002816+00:00Z"
+    "last_checked": "2025-12-14T04:05:38.138049+00:00Z"
   },
   "https://github.com/blackphoenix42/algolens-private/pull/18": {
     "type": "link",
@@ -801,21 +801,21 @@
     "slug": "www-twitter-com-b29db3b6",
     "backup_path": "assets/backups/www-twitter-com-b29db3b6.md",
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:14.576346+00:00Z"
+    "last_checked": "2025-12-14T04:05:37.940721+00:00Z"
   },
   "https://www.youtube.com/channel/UCcINlOM-rC1_8yiRGH_iFBg?sub_confirmation=1": {
     "type": "link",
     "slug": "www-youtube-com-b82b3eb6",
     "backup_path": "assets/backups/www-youtube-com-b82b3eb6.md",
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:16.027353+00:00Z"
+    "last_checked": "2025-12-14T04:05:36.943281+00:00Z"
   },
   "https://www.youtube.com/watch?v=2DidcRgfmg8": {
     "type": "link",
     "slug": "www-youtube-com-8cfff515",
     "backup_path": "assets/backups/www-youtube-com-8cfff515.md",
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:13.736238+00:00Z"
+    "last_checked": "2025-12-14T04:05:37.483344+00:00Z"
   },
   "https://medium.com/@binaryphoenix01": {
     "type": "link",
@@ -829,14 +829,14 @@
     "slug": "binaryphoenix01-medium-com-b81920a4",
     "backup_path": "assets/backups/binaryphoenix01-medium-com-b81920a4.md",
     "last_status": "down",
-    "last_checked": "2025-12-12T04:02:35.695426+00:00Z"
+    "last_checked": "2025-12-14T04:05:36.788552+00:00Z"
   },
   "https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2": {
     "type": "link",
     "slug": "binaryphoenix01-medium-com-2b50d85b",
     "backup_path": "assets/backups/binaryphoenix01-medium-com-2b50d85b.md",
     "last_status": "down",
-    "last_checked": "2025-12-12T04:02:37.383943+00:00Z"
+    "last_checked": "2025-12-14T04:05:36.585159+00:00Z"
   },
   "https://www.linkedin.com/in/ayushyadav/": {
     "type": "link",
@@ -1003,7 +1003,7 @@
     "slug": "github-com-9b91d9c4",
     "backup_path": "assets/backups/github-com-9b91d9c4.md",
     "last_status": "ok",
-    "last_checked": "2025-12-13T03:54:15.828622+00:00Z"
+    "last_checked": "2025-12-14T04:05:35.276913+00:00Z"
   },
   "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20did%20the%20computer%20squeak%3F%20%E2%80%94%20Because%20someone%20stepped%20on%20its%20mouse!&fontSize=16&fontColor=ffffff&animation=twinkling": {
     "type": "image",
@@ -1625,5 +1625,23 @@
     "bytes": 2083,
     "last_status": "ok",
     "last_checked": "2025-12-13T03:54:04.313262+00:00Z"
+  },
+  "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20don": {
+    "type": "image",
+    "slug": "capsule-render-vercel-app-968da23c",
+    "path": "assets/auto/capsule-render-vercel-app-968da23c.svg",
+    "sha256": "6a79a8d17bcee84dc1fefd8772b5d7e2028c869caad76a66a0850872e9dcd7d8",
+    "bytes": 2472,
+    "last_status": "ok",
+    "last_checked": "2025-12-14T04:05:16.819202+00:00Z"
+  },
+  "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Experience%20is%20the%20name%20everyone%20gives%20to%20their%20mistakes.&author=Oscar%20Wilde&t=1765684094": {
+    "type": "image",
+    "slug": "quotes-github-readme-vercel-app-5966947d",
+    "path": "assets/auto/quotes-github-readme-vercel-app-5966947d.svg",
+    "sha256": "1fbef81ac51d8d361437fa4d9e6e49080cbbf911865b9122e602b9b174bb6683",
+    "bytes": 2083,
+    "last_status": "ok",
+    "last_checked": "2025-12-14T04:05:20.750533+00:00Z"
   }
 }
