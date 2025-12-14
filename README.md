@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Software%20is%20a%20gas%3B%20it%20expands%20to%20fill%20its%20container.&author=Nathan%20Myhrvold&t=1765669305" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20way%20to%20get%20started%20is%20to%20quit%20talking%20and%20begin%20doing.&author=Walt%20Disney&t=1765678154" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
