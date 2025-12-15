@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Experience%20is%20the%20name%20everyone%20gives%20to%20their%20mistakes.&author=Oscar%20Wilde&t=1765794796" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20merit%20of%20all%20things%20lies%20in%20their%20difficulty.&author=Alexandre%20Dumas&t=1765797893" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
