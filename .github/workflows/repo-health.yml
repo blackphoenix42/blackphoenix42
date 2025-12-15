@@ -113,7 +113,7 @@ jobs:
           cat health-report.md
           
       - name: Upload health report
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v6
         with:
           name: repository-health-report
           path: health-report.md
