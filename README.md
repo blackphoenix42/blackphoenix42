@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20merit%20of%20all%20things%20lies%20in%20their%20difficulty.&author=Alexandre%20Dumas&t=1765797893" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20language%20that%20doesn%27t%20affect%20the%20way%20you%20think%20about%20programming%20is%20not%20worth%20knowing.&author=Alan%20Perlis&t=1765798983" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
