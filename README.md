@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Make%20everything%20as%20simple%20as%20possible%2C%20but%20not%20simpler.&author=Albert%20Einstein&t=1766071756" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Remember%2C%20today%20is%20the%20tomorrow%20you%20worried%20about%20yesterday.&author=Dale%20Carnegie&t=1766072957" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
