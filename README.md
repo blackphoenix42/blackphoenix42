@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Make%20it%20work%2C%20make%20it%20right%2C%20make%20it%20fast.&author=Kent%20Beck&t=1766058169" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Java%20is%20to%20JavaScript%20what%20car%20is%20to%20Carpet.&author=Chris%20Heilmann&t=1766062465" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
