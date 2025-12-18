@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20never%20lies%2C%20comments%20sometimes%20do.&author=Ron%20Jeffries&t=1766057032" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Make%20it%20work%2C%20make%20it%20right%2C%20make%20it%20fast.&author=Kent%20Beck&t=1766058169" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
