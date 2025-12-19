@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Given%20enough%20eyeballs%2C%20all%20bugs%20are%20shallow.&author=Eric%20S.%20Raymond&t=1766119088" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Your%20most%20unhappy%20customers%20are%20your%20greatest%20source%20of%20learning.&author=Bill%20Gates&t=1766122072" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
