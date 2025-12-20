@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=How%20does%20a%20sysadmin%20keep%20a%20fire%20going%3F%20%E2%80%94%20They%20rotate%20the%20logs.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=What%20do%20cats%20and%20programmers%20have%20in%20common%3F%20%E2%80%94%20When%20either%20one%20is%20unusually%20happy%20and%20excited%2C%20an%20appropriate%20question%20would%20be%2C%20%22did%20you%20find%20a%20bug%22.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
