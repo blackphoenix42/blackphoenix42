@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=What%20kind%20of%20computer%20can%20hold%20a%20musical%20note%3F%20%E2%80%94%20A%20Dell.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Did%20you%20hear%20about%20the%20witch%20who%20was%20off%20by%20two%20when%20casting%20a%20hex%3F%20%E2%80%94%20They%20failed%20to%20make%20the%20target%20DEAD%20and%20made%20them%20DEAF%20instead!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
