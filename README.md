@@ -45,7 +45,7 @@
   <table>
     <tr>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/>
+        <img src="assets/auto/skillicons-dev-4a715758.svg" width="48" height="48" alt="C++"/>
         <br><strong>C++</strong>
         <br><sub>Primary Language</sub>
       </td>
@@ -99,7 +99,7 @@
     </tr>
        <tr>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+        <img src="assets/auto/skillicons-dev-6a4febc5.svg" width="48" height="48" alt="PostgreSQL"/>
         <br><strong>PostgreSQL</strong>
         <br><sub>Relational & Indexing</sub>
       </td>
@@ -248,7 +248,7 @@
         <br><br>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
         <img src="https://img.shields.io/badge/MPipe-00A6FF?style=flat-square" alt="MediaPipe"/>
-        <img src="https://img.shields.io/badge/Torch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <img src="assets/auto/img-shields-io-47d00b2b.svg" alt="PyTorch"/>
         <br/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
         <img src="https://img.shields.io/badge/Dckr-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
@@ -279,9 +279,9 @@
   </summary>
 
   <!-- BLOG-POST-LIST:START -->
- 1. ✍️ [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2) 
+ 1. ✍️ [Google I/O 2021 Punch Card Puzzle](assets/backups/binaryphoenix01-medium-com-2b50d85b.md) 
 
- 2. 📝 [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2) 
+ 2. 📝 [Three Ways to Solve the Two Number Sum Problem](assets/backups/binaryphoenix01-medium-com-b81920a4.md) 
 <!-- BLOG-POST-LIST:END -->
 
 </details>
