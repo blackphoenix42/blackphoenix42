@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=How%20did%20the%20programmer%20die%20in%20the%20shower%3F%20%E2%80%94%20He%20read%20the%20shampoo%20bottle%20instructions%3A%20Lather.%20Rinse.%20Repeat.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=What%20is%20a%20pirate's%20favorite%20programming%20language%3F%20%E2%80%94%20You'd%20think%20it%20was%20R%2C%20but%20a%20pirate's%20first%20love%20is%20Objectively%20C.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
