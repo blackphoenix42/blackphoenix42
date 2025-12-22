@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Move%20fast%20and%20break%20things.%20Unless%20you%20are%20breaking%20stuff%2C%20you%20are%20not%20moving%20fast%20enough.&author=Mark%20Zuckerberg&t=1766432432" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Always%20code%20as%20if%20the%20guy%20who%20ends%20up%20maintaining%20your%20code%20will%20be%20a%20violent%20psychopath%20who%20knows%20where%20you%20live.&author=John%20Woods&t=1766435345" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
