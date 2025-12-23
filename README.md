@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower.&author=Steve%20Jobs&t=1766474893" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20computer%20program%20does%20what%20you%20tell%20it%20to%20do%2C%20not%20what%20you%20want%20it%20to%20do.&author=Grady%20Booch&t=1766475995" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
