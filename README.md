@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20never%20lies%2C%20comments%20sometimes%20do.&author=Ron%20Jeffries&t=1766583336" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20function%20of%20good%20software%20is%20to%20make%20the%20complex%20appear%20to%20be%20simple.&author=Grady%20Booch&t=1766586319" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
