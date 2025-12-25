@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Hold%20yourself%20responsible%20for%20a%20higher%20standard%20than%20anybody%20else%20expects%20of%20you.&author=Henry%20Ward%20Beecher&t=1766648645" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Java%20is%20to%20JavaScript%20what%20car%20is%20to%20Carpet.&author=Chris%20Heilmann&t=1766651705" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
