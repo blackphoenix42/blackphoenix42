@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20giving%20of%20love%20is%20an%20education%20in%20itself.&author=Eleanor%20Roosevelt&t=1766720811" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Simplicity%20is%20a%20great%20virtue%20but%20it%20requires%20hard%20work%20to%20achieve%20it.&author=Edsger%20Dijkstra&t=1766723898" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
