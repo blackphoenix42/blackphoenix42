@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Java%20is%20to%20JavaScript%20what%20car%20is%20to%20Carpet.&author=Chris%20Heilmann&t=1766760436" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20never%20lies%2C%20comments%20sometimes%20do.&author=Ron%20Jeffries&t=1766762816" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
