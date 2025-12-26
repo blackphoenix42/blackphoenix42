@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20less%20you%20want%2C%20the%20richer%20you%20are.%20The%20more%20you%20need%20in%20order%20to%20be%20happy%2C%20the%20more%20miserable%20you%27ll%20be.&author=Yanni&t=1766766684" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20language%20that%20doesn%27t%20affect%20the%20way%20you%20think%20about%20programming%20is%20not%20worth%20knowing.&author=Alan%20Perlis&t=1766769742" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
