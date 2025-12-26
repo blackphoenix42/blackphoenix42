@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20to%20learn%20a%20new%20programming%20language%20is%20by%20writing%20programs%20in%20it.&author=Dennis%20Ritchie&t=1766774178" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20must%20be%20written%20for%20people%20to%20read%2C%20and%20only%20incidentally%20for%20machines%20to%20execute.&author=Harold%20Abelson&t=1766776814" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
