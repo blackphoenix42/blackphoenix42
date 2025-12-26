@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20computer%20was%20born%20to%20solve%20problems%20that%20did%20not%20exist%20before.&author=Bill%20Gates&t=1766741314" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Walking%20on%20water%20and%20developing%20software%20from%20a%20specification%20are%20easy%20if%20both%20are%20frozen.&author=Edward%20V.%20Berard&t=1766742397" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
