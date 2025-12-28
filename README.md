@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=How%20did%20the%20developer%20announce%20their%20engagement%3F%20%E2%80%94%20They&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=What%20does%20a%20baby%20computer%20call%20his%20father%3F%20%E2%80%94%20Data!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
