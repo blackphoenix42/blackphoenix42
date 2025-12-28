@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Given%20enough%20eyeballs%2C%20all%20bugs%20are%20shallow.&author=Eric%20S.%20Raymond&t=1766922059" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Good%20judgment%20comes%20from%20experience%2C%20and%20experience%20comes%20from%20bad%20judgment.&author=Fred%20Brooks&t=1766926296" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
