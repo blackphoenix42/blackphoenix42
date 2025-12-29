@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programming%20is%20not%20about%20typing%2C%20it%27s%20about%20thinking.&author=Rich%20Hickey&t=1767037250" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Every%20defeat%2C%20every%20heartbreak%20every%20loss%2C%20contains%20its%20own%20seed%2C%20its%20own%20lesson%20on%20how%20to%20improve%20your%20performance%20the%20next%20time.&author=Og%20Mandino&t=1767040198" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
