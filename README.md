@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Debugging%20is%20twice%20as%20hard%20as%20writing%20the%20code%20in%20the%20first%20place.&author=Brian%20Kernighan&t=1767015698" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20are%20only%20two%20hard%20things%20in%20Computer%20Science%3A%20cache%20invalidation%20and%20naming%20things.&author=Phil%20Karlton&t=1767018447" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
