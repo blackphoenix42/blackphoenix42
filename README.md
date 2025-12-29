@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House&t=1767025982" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20programs%20are%20written%20so%20that%20computing%20machines%20can%20perform%20them%20quickly%20and%20so%20that%20human%20beings%20can%20understand%20them%20clearly.&author=Donald%20Knuth&t=1767029030" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
