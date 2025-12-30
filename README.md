@@ -359,7 +359,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="assets/auto/github-com-b728b1e4.svg" alt="Snake Animation" />
+  <img src="https://github.com/blackphoenix42/blackphoenix42/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 <br>
