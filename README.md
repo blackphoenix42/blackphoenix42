@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20can%20choose%20to%20look%20at%20whatever%20we%20want.%20%20We%20can%20look%20at%20what%27s%20wrong%20in%20our%20life%20or%20we%20can%20look%20at%20what%27s%20right.&author=Sonia%20Ricotti&t=1767167182" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower.&author=Steve%20Jobs&t=1767170147" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
