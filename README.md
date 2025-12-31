@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20disastrous%20thing%20that%20you%20can%20ever%20learn%20is%20your%20first%20programming%20language.&author=Alan%20Kay&t=1767206220" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Measuring%20programming%20progress%20by%20lines%20of%20code%20is%20like%20measuring%20aircraft%20building%20progress%20by%20weight.&author=Bill%20Gates&t=1767208808" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
