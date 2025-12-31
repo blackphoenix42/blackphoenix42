@@ -375,7 +375,7 @@
     "sha256": "23b25798fb0592eaaf28fbd243a2bbc815f8c6823058532afeb92a7510d5c50e",
     "bytes": 916,
     "last_status": "ok",
-    "last_checked": "2025-12-31T04:06:12.095853+00:00Z"
+    "last_checked": "2025-12-31T21:38:12.134537+00:00Z"
   },
   "https://img.shields.io/badge/Torch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white": {
     "type": "image",
