@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20are%20not%20embarrassed%20by%20the%20first%20version%20of%20your%20product%2C%20you%27ve%20launched%20too%20late.&author=Reid%20Hoffman&t=1767166100" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20can%20choose%20to%20look%20at%20whatever%20we%20want.%20%20We%20can%20look%20at%20what%27s%20wrong%20in%20our%20life%20or%20we%20can%20look%20at%20what%27s%20right.&author=Sonia%20Ricotti&t=1767167182" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
