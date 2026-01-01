@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20way%20to%20get%20started%20is%20to%20quit%20talking%20and%20begin%20doing.&author=Walt%20Disney&t=1767299382" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20dangerous%20phrase%20in%20the%20language%20is%3A%20%22We%27ve%20always%20done%20it%20this%20way.%22&author=Grace%20Hopper&t=1767300525" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
