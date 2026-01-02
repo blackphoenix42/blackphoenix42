@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programming%20is%20not%20about%20typing%2C%20it%27s%20about%20thinking.&author=Rich%20Hickey&t=1767349678" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Move%20fast%20and%20break%20things.%20Unless%20you%20are%20breaking%20stuff%2C%20you%20are%20not%20moving%20fast%20enough.&author=Mark%20Zuckerberg&t=1767350882" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
