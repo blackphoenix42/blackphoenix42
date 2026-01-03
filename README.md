@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Always%20code%20as%20if%20the%20guy%20who%20ends%20up%20maintaining%20your%20code%20will%20be%20a%20violent%20psychopath%20who%20knows%20where%20you%20live.&author=John%20Woods&t=1767454970" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson&t=1767457883" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
