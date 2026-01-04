@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blackphoenix42&row=1&theme=discord" alt="Trophies"/>
+  <img src="assets/auto/github-profile-trophy-vercel-app-1d48909a.svg" alt="Trophies"/>
 </div>
 
 <br>
@@ -392,7 +392,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     </tr>
     <tr>
       <td align="center" width="20%">
-        <a href="assets/backups/www-instagram-com-e45e3c03.md">
+        <a href="https://www.instagram.com/binary.phoenix/">
           <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
         </a>
       </td>
