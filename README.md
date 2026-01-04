@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Competitive%20Programmer%20|%20Systems%20Designer&descAlignY=55&descAlign=50" alt="Header"/>
+  <img src="assets/auto/capsule-render-vercel-app-56ab8237.svg" alt="Header"/>
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img align="left" alt="binaryphoenix's GitHub Stats" src="https://readmemd-stats-blackphoenix42.vercel.app/api?username=blackphoenix42&show_icons=true&theme=dracula&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=300" />
+        <img align="left" alt="binaryphoenix's GitHub Stats" src="assets/auto/readmemd-stats-blackphoenix42-vercel-app-c89b8dca.svg" />
       </td>
       <td align="center" width="50%">
         <img src="assets/auto/github-readme-streak-stats-herokuapp-com-bab970c5.svg" alt="GitHub Streak"/>
@@ -265,7 +265,7 @@
 ## 📊 Development Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackphoenix42&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph"/>
+  <img src="assets/auto/github-readme-activity-graph-vercel-app-c310536a.svg" alt="Activity Graph"/>
 </div>
 
 <br>
@@ -279,9 +279,9 @@
   </summary>
 
   <!-- BLOG-POST-LIST:START -->
- 1. ✍️ [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2) 
+ 1. ✍️ [Google I/O 2021 Punch Card Puzzle](assets/backups/binaryphoenix01-medium-com-2b50d85b.md) 
 
- 2. 📝 [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2) 
+ 2. 📝 [Three Ways to Solve the Two Number Sum Problem](assets/backups/binaryphoenix01-medium-com-b81920a4.md) 
 <!-- BLOG-POST-LIST:END -->
 
 </details>
@@ -392,7 +392,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     </tr>
     <tr>
       <td align="center" width="20%">
-        <a href="https://www.instagram.com/binary.phoenix/">
+        <a href="assets/backups/www-instagram-com-e45e3c03.md">
           <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
         </a>
       </td>
@@ -417,17 +417,17 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <br>
 
-<!-- QUOTE:START -->
+<!-- QUOTE:START_DISABLED -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Learning%20to%20write%20programs%20stretches%20your%20mind%2C%20and%20helps%20you%20think%20better%2C%20creates%20a%20way%20of%20thinking%20about%20things%20that%20I%20think%20is%20helpful%20in%20all%20domains.&author=Bill%20Gates&t=1767561818" alt="Quote"/>
 </div>
-<!-- QUOTE:END -->
+<!-- QUOTE:END_DISABLED -->
 
-<!-- FOOTER_START -->
+<!-- FOOTER_START_DISABLED -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=What%20sits%20on%20a%20pirate's%20shoulder%20and%20calls%2C%20%22Pieces%20of%20seven%2C%20Pieces%20of%20seven%22%3F%20%E2%80%94%20Parroty%20error.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
-<!-- FOOTER_END -->
+<!-- FOOTER_END_DISABLED -->
 
 <div align="center">
   <sub>
