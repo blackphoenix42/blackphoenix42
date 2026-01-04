@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/auto/capsule-render-vercel-app-56ab8237.svg" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Competitive%20Programmer%20|%20Systems%20Designer&descAlignY=55&descAlign=50" alt="Header"/>
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img align="left" alt="binaryphoenix's GitHub Stats" src="assets/auto/readmemd-stats-blackphoenix42-vercel-app-c89b8dca.svg" />
+        <img align="left" alt="binaryphoenix's GitHub Stats" src="https://readmemd-stats-blackphoenix42.vercel.app/api?username=blackphoenix42&show_icons=true&theme=dracula&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=300" />
       </td>
       <td align="center" width="50%">
         <img src="assets/auto/github-readme-streak-stats-herokuapp-com-bab970c5.svg" alt="GitHub Streak"/>
@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/auto/github-profile-trophy-vercel-app-1d48909a.svg" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=blackphoenix42&row=1&theme=discord" alt="Trophies"/>
 </div>
 
 <br>
@@ -265,7 +265,7 @@
 ## 📊 Development Activity
 
 <div align="center">
-  <img src="assets/auto/github-readme-activity-graph-vercel-app-c310536a.svg" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackphoenix42&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph"/>
 </div>
 
 <br>
@@ -417,17 +417,17 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <br>
 
-<!-- QUOTE:START_DISABLED -->
+<!-- QUOTE:START -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Learning%20to%20write%20programs%20stretches%20your%20mind%2C%20and%20helps%20you%20think%20better%2C%20creates%20a%20way%20of%20thinking%20about%20things%20that%20I%20think%20is%20helpful%20in%20all%20domains.&author=Bill%20Gates&t=1767561818" alt="Quote"/>
 </div>
-<!-- QUOTE:END_DISABLED -->
+<!-- QUOTE:END -->
 
-<!-- FOOTER_START_DISABLED -->
+<!-- FOOTER_START -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=What%20sits%20on%20a%20pirate's%20shoulder%20and%20calls%2C%20%22Pieces%20of%20seven%2C%20Pieces%20of%20seven%22%3F%20%E2%80%94%20Parroty%20error.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
-<!-- FOOTER_END_DISABLED -->
+<!-- FOOTER_END -->
 
 <div align="center">
   <sub>
