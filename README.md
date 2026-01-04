@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Testing%20can%20only%20prove%20the%20presence%20of%20bugs%2C%20not%20their%20absence.&author=Edsger%20Dijkstra&t=1767551729" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20are%20meant%20to%20be%20read%20by%20humans%20and%20only%20incidentally%20for%20computers%20to%20execute.&author=Donald%20Knuth&t=1767554383" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
