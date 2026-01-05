@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Walking%20with%20a%20friend%20in%20the%20dark%20is%20better%20than%20walking%20alone%20in%20the%20light.&author=Helen%20Keller&t=1767653314" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Youth%20is%20happy%20because%20it%20has%20the%20ability%20to%20see%20beauty.%20Anyone%20who%20keeps%20the%20ability%20to%20see%20beauty%20never%20grows%20old.&author=Franz%20Kafka&t=1767655535" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
