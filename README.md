@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Youth%20is%20happy%20because%20it%20has%20the%20ability%20to%20see%20beauty.%20Anyone%20who%20keeps%20the%20ability%20to%20see%20beauty%20never%20grows%20old.&author=Franz%20Kafka&t=1767655535" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Premature%20optimization%20is%20the%20root%20of%20all%20evil.&author=Donald%20Knuth&t=1767656631" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
