@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.&author=Linus%20Torvalds&t=1767602472" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Debugging%20is%20twice%20as%20hard%20as%20writing%20the%20code%20in%20the%20first%20place.&author=Brian%20Kernighan&t=1767605916" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
