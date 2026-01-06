@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Experience%20is%20the%20name%20everyone%20gives%20to%20their%20mistakes.&author=Oscar%20Wilde&t=1767681719" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Play%20your%20part%20in%20life%2C%20but%20never%20forget%20that%20it%20is%20only%20a%20role.&author=Paramahansa%20Yogananda&t=1767684660" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
