@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Make%20it%20work%2C%20make%20it%20right%2C%20make%20it%20fast.&author=Kent%20Beck&t=1767714572" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Make%20everything%20as%20simple%20as%20possible%2C%20but%20not%20simpler.&author=Albert%20Einstein&t=1767717399" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
