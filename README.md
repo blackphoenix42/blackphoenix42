@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27m%20not%20a%20great%20programmer%3B%20I%27m%20just%20a%20good%20programmer%20with%20great%20habits.&author=Kent%20Beck&t=1767813899" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20must%20be%20written%20for%20people%20to%20read%2C%20and%20only%20incidentally%20for%20machines%20to%20execute.&author=Harold%20Abelson&t=1767814988" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
