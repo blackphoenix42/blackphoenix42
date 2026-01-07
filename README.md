@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=How%20do%20you%20tell%20HTML%20from%20HTML5%3F%20%E2%80%94%20Try%20it%20out%20in%20Internet%20Explorer%2C%20if%20it%20does%20not%20work%20then%20it's%20HTML5.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20did%20the%20functional%20programmer%20finally%20move%20out%20of%20their%20house%3F%20%E2%80%94%20For(e)%20closure&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
