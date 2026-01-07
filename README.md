@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=What%20do%20computers%20and%20air%20conditioners%20have%20in%20common%3F%20%E2%80%94%20They%20both%20become%20useless%20when%20you%20open%20windows.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20did%20the%20web%20developer%20always%20go%20to%20the%20wrong%20hotel%20room%3F%20%E2%80%94%20They%20were%20in%20room%20301.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
