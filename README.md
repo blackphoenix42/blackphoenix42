@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Experience%20is%20the%20name%20everyone%20gives%20to%20their%20mistakes.&author=Oscar%20Wilde&t=1767911202" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Debugging%20is%20twice%20as%20hard%20as%20writing%20the%20code%20in%20the%20first%20place.&author=Brian%20Kernighan&t=1767912522" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
