@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=How%20did%20pirates%20collaborate%20before%20computers%3F%20%E2%80%94%20Pier%20to%20pier%20networking.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Want%20to%20know%20the%20biggest%20lie%20in%20the%20universe%3F%20%E2%80%94%20I%20have%20read%20and%20agree%20to%20the%20Terms%20%26%20Conditions&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
