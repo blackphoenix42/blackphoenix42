@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27m%20not%20a%20great%20programmer%3B%20I%27m%20just%20a%20good%20programmer%20with%20great%20habits.&author=Kent%20Beck&t=1767944901" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Don%27t%20comment%20bad%20code%E2%80%94rewrite%20it.&author=Brian%20Kernighan&t=1767947874" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
