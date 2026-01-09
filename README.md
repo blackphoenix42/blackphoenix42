@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Show%20kindness%20but%20never%20expect%20it.%20Show%20authenticity%20but%20never%20expect%20it.%20Only%20the%20wise%20are%20indifferent%20to%20things%20they%20can%27t%20control.&author=Maxime%20Lagace&t=1767936660" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson&t=1767940907" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
