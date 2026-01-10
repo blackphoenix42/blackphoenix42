@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20must%20be%20written%20for%20people%20to%20read%2C%20and%20only%20incidentally%20for%20machines%20to%20execute.&author=Harold%20Abelson&t=1768029836" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You%20give%20but%20little%20when%20you%20give%20of%20your%20possessions.%20It%20is%20when%20you%20give%20of%20yourself%20that%20you%20truly%20give.&author=Kahlil%20Gibran&t=1768030882" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
