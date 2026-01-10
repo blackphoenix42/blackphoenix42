@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20do%20not%20work%20on%20an%20important%20problem%2C%20it%27s%20unlikely%20you%27ll%20do%20important%20work.&author=Richard%20Hamming&t=1768070150" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Premature%20optimization%20is%20the%20root%20of%20all%20evil.&author=Donald%20Knuth&t=1768072771" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
