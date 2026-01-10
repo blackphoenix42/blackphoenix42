@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20way%20to%20get%20started%20is%20to%20quit%20talking%20and%20begin%20doing.&author=Walt%20Disney&t=1768066978" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20do%20not%20work%20on%20an%20important%20problem%2C%20it%27s%20unlikely%20you%27ll%20do%20important%20work.&author=Richard%20Hamming&t=1768070150" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
