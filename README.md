@@ -229,7 +229,7 @@
         <img src="https://img.shields.io/badge/Status-Active-FF6B35?style=flat-square" alt="Active"/>
       </td>
       <td align="center" width="33%">
-        <img src="assets/auto/img-shields-io-4331db7d.svg" alt="Xcelium Perf Toolkit"/>
+        <img src="https://img.shields.io/badge/🔥-Perf%20Toolkit-58A6FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Xcelium Perf Toolkit"/>
         <br><br>
         <strong>Performance diagnosis library for large RTL simulations</strong>
         <br><br>
