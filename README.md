@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Walking%20on%20water%20and%20developing%20software%20from%20a%20specification%20are%20easy%20if%20both%20are%20frozen.&author=Edward%20V.%20Berard&t=1768083897" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Software%20and%20cathedrals%20are%20much%20the%20same%20%E2%80%94%20first%20we%20build%20them%2C%20then%20we%20pray.&author=Sam%20Redwine&t=1768085111" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
