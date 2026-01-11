@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Always%20code%20as%20if%20the%20guy%20who%20ends%20up%20maintaining%20your%20code%20will%20be%20a%20violent%20psychopath%20who%20knows%20where%20you%20live.&author=John%20Woods&t=1768159197" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20programs%20are%20written%20so%20that%20computing%20machines%20can%20perform%20them%20quickly%20and%20so%20that%20human%20beings%20can%20understand%20them%20clearly.&author=Donald%20Knuth&t=1768160418" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
