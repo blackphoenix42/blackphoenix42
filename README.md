@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20must%20be%20written%20for%20people%20to%20read%2C%20and%20only%20incidentally%20for%20machines%20to%20execute.&author=Harold%20Abelson&t=1768257908" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House&t=1768260083" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
