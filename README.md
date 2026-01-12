@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20way%20to%20get%20started%20is%20to%20quit%20talking%20and%20begin%20doing.&author=Walt%20Disney&t=1768238886" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Make%20everything%20as%20simple%20as%20possible%2C%20but%20not%20simpler.&author=Albert%20Einstein&t=1768240060" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
