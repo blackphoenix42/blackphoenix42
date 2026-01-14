@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20a%20thing%20is%20worth%20doing%2C%20it%20is%20worth%20doing%20badly.&author=Gilbert%20Chesterton&t=1768398464" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Fix%20the%20cause%2C%20not%20the%20symptom.&author=Steve%20Maguire&t=1768401059" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
