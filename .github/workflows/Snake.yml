@@ -24,7 +24,7 @@ jobs:
     
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       
       # Generates the snake  
       - uses: Platane/snk@v3
