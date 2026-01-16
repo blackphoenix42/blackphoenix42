@@ -1,7 +1,7 @@
 # Snapshot
 
-**Title**: Login • Instagram
+**Title**: Instagram
 
 **Original**: <https://www.instagram.com/binary.phoenix/>
 
-_Last refreshed: 2026-01-15T19:43:49.930100+00:00Z_
+_Last refreshed: 2026-01-16T03:13:31.390221+00:00Z_
