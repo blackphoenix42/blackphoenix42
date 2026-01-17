@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20are%20meant%20to%20be%20read%20by%20humans%20and%20only%20incidentally%20for%20computers%20to%20execute.&author=Donald%20Knuth&t=1768681685" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20danger%20of%20an%20adventure%20is%20worth%20a%20thousand%20days%20of%20ease%20and%20comfort.&author=Paulo%20Coelho&t=1768682761" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
