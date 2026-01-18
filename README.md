@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%27s%20not%20what%20you%20pay%20a%20man%2C%20but%20what%20he%20costs%20you%20that%20counts.&author=Will%20Rogers&t=1768768097" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perfect%20is%20the%20enemy%20of%20good.&author=Voltaire&t=1768769174" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
