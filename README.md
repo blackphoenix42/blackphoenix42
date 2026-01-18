@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Simplicity%20is%20a%20great%20virtue%20but%20it%20requires%20hard%20work%20to%20achieve%20it.&author=Edsger%20Dijkstra&t=1768761279" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20programs%20are%20written%20so%20that%20computing%20machines%20can%20perform%20them%20quickly%20and%20so%20that%20human%20beings%20can%20understand%20them%20clearly.&author=Donald%20Knuth&t=1768764000" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
