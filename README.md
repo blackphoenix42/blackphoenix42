@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20disastrous%20thing%20that%20you%20can%20ever%20learn%20is%20your%20first%20programming%20language.&author=Alan%20Kay&t=1768894425" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20computer%20was%20born%20to%20solve%20problems%20that%20did%20not%20exist%20before.&author=Bill%20Gates&t=1768898375" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
