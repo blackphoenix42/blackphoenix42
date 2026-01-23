@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20do%20not%20work%20on%20an%20important%20problem%2C%20it%27s%20unlikely%20you%27ll%20do%20important%20work.&author=Richard%20Hamming&t=1769173147" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%27s%20your%20outlook%20on%20life%20that%20counts.&author=Betty%20White&t=1769176198" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
