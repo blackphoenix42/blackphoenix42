@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20fact%20of%20the%20matter%20is%20that%20there%20will%20be%20nothing%20learned%20from%20any%20challenge%20in%20which%20we%20don%27t%20try%20our%20hardest.&author=Josh%20Waitzkin&t=1769167591" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Debugging%20is%20twice%20as%20hard%20as%20writing%20the%20code%20in%20the%20first%20place.&author=Brian%20Kernighan&t=1769168738" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
