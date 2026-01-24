@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=How%20does%20a%20developer%20make%20a%20cheer%3F%20%E2%80%94%20%5B%22hip%22%2C%22hip%22%5D%20%2F%2F%20(hip%20hip%20array!)&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20did%20Gargamel%20shut%20down%20the%20internet%3F%20%E2%80%94%20Because%20he%20didn't%20want%20people%20**SMURFING**%20the%20web!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
