@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Success%20is%20often%20achieved%20by%20those%20who%20don%27t%20know%20that%20failure%20is%20inevitable.&author=Coco%20Chanel&t=1769341306" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20get%20a%20project%20done%20faster%20is%20to%20start%20sooner.&author=Jim%20Highsmith&t=1769345648" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
