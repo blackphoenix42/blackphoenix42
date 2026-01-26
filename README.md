@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Software%20is%20a%20gas%3B%20it%20expands%20to%20fill%20its%20container.&author=Nathan%20Myhrvold&t=1769416817" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%27s%20only%20after%20you%27ve%20stepped%20outside%20your%20comfort%20zone%20that%20you%20begin%20to%20change%2C%20grow%2C%20and%20transform.&author=Roy%20T.%20Bennett&t=1769420396" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
