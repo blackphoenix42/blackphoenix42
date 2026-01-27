@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20did%20the%20developer%20cancel%20their%20dinner%20plans%3F%20%E2%80%94%20They%20were%20unable%20to%20fulfil%20peer%20dependencies&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=What%20did%20the%20fruit%20basket%20say%20to%20the%20developer%3F%20%E2%80%94%20I%20hope%20you're%20ready%20for%20some%20pear%20programming!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
