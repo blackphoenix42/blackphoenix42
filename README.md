@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20may%20not%20be%20able%20to%20stop%20evil%20in%20the%20world%2C%20but%20how%20we%20treat%20one%20another%20is%20entirely%20up%20to%20us.&author=Barack%20Obama&t=1769699190" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Move%20fast%20and%20break%20things.%20Unless%20you%20are%20breaking%20stuff%2C%20you%20are%20not%20moving%20fast%20enough.&author=Mark%20Zuckerberg&t=1769702595" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
