@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20are%20machine%20learning%20models%20so%20fit%3F%20%E2%80%94%20Because%20they%20do%20weight%20training.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=I..%20CAN'T%20GET..%20IT..%20OFF!!%20%E2%80%94%20DUDE%2C%20THAT'S%20BECAUSE%20YOUR%20CAPS%20LOCK%20IS%20ON&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
