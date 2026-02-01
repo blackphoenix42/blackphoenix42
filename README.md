@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20disastrous%20thing%20that%20you%20can%20ever%20learn%20is%20your%20first%20programming%20language.&author=Alan%20Kay&t=1769975288" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Move%20fast%20and%20break%20things.%20Unless%20you%20are%20breaking%20stuff%2C%20you%20are%20not%20moving%20fast%20enough.&author=Mark%20Zuckerberg&t=1769978010" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
