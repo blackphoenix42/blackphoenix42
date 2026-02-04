@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20are%20not%20embarrassed%20by%20the%20first%20version%20of%20your%20product%2C%20you%27ve%20launched%20too%20late.&author=Reid%20Hoffman&t=1770172385" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson&t=1770180269" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
