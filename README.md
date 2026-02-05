@@ -23,7 +23,7 @@
         <img align="left" alt="binaryphoenix's GitHub Stats" src="https://readmemd-stats-blackphoenix42.vercel.app/api?username=blackphoenix42&show_icons=true&theme=dracula&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=300" />
       </td>
       <td align="center" width="50%">
-        <img src="assets/auto/github-readme-streak-stats-herokuapp-com-bab970c5.svg" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackphoenix42&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
@@ -55,7 +55,7 @@
         <br><sub>Scripting & Tooling</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript"/>
+        <img src="assets/auto/skillicons-dev-d18999d1.svg" width="48" height="48" alt="TypeScript"/>
         <br><strong>TypeScript</strong>
         <br><sub>Type-safe Services</sub>
       </td>
@@ -65,14 +65,14 @@
         <br><sub>JVM & Concurrency</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go"/>
+        <img src="assets/auto/skillicons-dev-6918aca2.svg" width="48" height="48" alt="Go"/>
         <br><strong>Go</strong>
         <br><sub>Systems & Services</sub>
       </td>
     </tr>
      <tr>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
+        <img src="assets/auto/skillicons-dev-e8a50573.svg" width="48" height="48" alt="Node.js"/>
         <br><strong>Node.js</strong>
         <br><sub>Backend Runtime</sub>
       </td>
@@ -82,17 +82,17 @@
         <br><sub>REST APIs</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL"/>
+        <img src="assets/auto/skillicons-dev-13361507.svg" width="48" height="48" alt="GraphQL"/>
         <br><strong>GraphQL</strong>
         <br><sub>Contracts & Schemas</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx"/>
+        <img src="assets/auto/skillicons-dev-80ef13f1.svg" width="48" height="48" alt="Nginx"/>
         <br><strong>Nginx</strong>
         <br><sub>Gateway & Routing</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
+        <img src="assets/auto/skillicons-dev-43d0ce74.svg" width="48" height="48" alt="Postman"/>
         <br><strong>Postman</strong>
         <br><sub>API Testing</sub>
       </td>
@@ -131,7 +131,7 @@
         <br><sub>Infra & Services</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP"/>
+        <img src="assets/auto/skillicons-dev-383268cd.svg" width="48" height="48" alt="GCP"/>
         <br><strong>GCP</strong>
         <br><sub>Cloud Tooling</sub>
       </td>
@@ -141,19 +141,19 @@
         <br><sub>Containers & Images</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/>
+        <img src="assets/auto/skillicons-dev-b90b922e.svg" width="48" height="48" alt="Kubernetes"/>
         <br><strong>Kubernetes</strong>
         <br><sub>Orchestration</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform"/>
+        <img src="assets/auto/skillicons-dev-fd51168b.svg" width="48" height="48" alt="Terraform"/>
         <br><strong>Terraform</strong>
         <br><sub>IaC & Environments</sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus"/>
+        <img src="assets/auto/skillicons-dev-b9032903.svg" width="48" height="48" alt="Prometheus"/>
         <br><strong>Prometheus</strong>
         <br><sub>Metrics & Alerts</sub>
       </td>
@@ -168,12 +168,12 @@
         <br><sub>CI/CD Pipelines</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins"/>
+        <img src="assets/auto/skillicons-dev-55be8e80.svg" width="48" height="48" alt="Jenkins"/>
         <br><strong>Jenkins</strong>
         <br><sub>Build & Release</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest"/>
+        <img src="assets/auto/skillicons-dev-3fe0f43f.svg" width="48" height="48" alt="Jest"/>
         <br><strong>Jest</strong>
         <br><sub>Unit & Integration</sub>
       </td>
@@ -185,7 +185,7 @@
         <br><sub>Runtime & Toolchains</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/>
+        <img src="assets/auto/skillicons-dev-578fd04a.svg" width="48" height="48" alt="Bash"/>
         <br><strong>Bash</strong>
         <br><sub>Automation & Scripts</sub>
       </td>
@@ -200,7 +200,7 @@
         <br><sub>Version Control</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
+        <img src="assets/auto/skillicons-dev-5d12e125.svg" width="48" height="48" alt="VS Code"/>
         <br><strong>VS Code</strong>
         <br><sub>DX & Debugging</sub>
       </td>
@@ -392,7 +392,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     </tr>
     <tr>
       <td align="center" width="20%">
-        <a href="assets/backups/www-instagram-com-e45e3c03.md">
+        <a href="https://www.instagram.com/binary.phoenix/">
           <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
         </a>
       </td>
