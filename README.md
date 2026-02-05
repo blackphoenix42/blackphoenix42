@@ -45,12 +45,12 @@
   <table>
     <tr>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/>
+        <img src="assets/auto/skillicons-dev-4a715758.svg" width="48" height="48" alt="C++"/>
         <br><strong>C++</strong>
         <br><sub>Primary Language</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+        <img src="assets/auto/skillicons-dev-4971af1b.svg" width="48" height="48" alt="Python"/>
         <br><strong>Python</strong>
         <br><sub>Scripting & Tooling</sub>
       </td>
@@ -60,7 +60,7 @@
         <br><sub>Type-safe Services</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
+        <img src="assets/auto/skillicons-dev-e8359bbc.svg" width="48" height="48" alt="Java"/>
         <br><strong>Java</strong>
         <br><sub>JVM & Concurrency</sub>
       </td>
@@ -77,7 +77,7 @@
         <br><sub>Backend Runtime</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
+        <img src="assets/auto/skillicons-dev-ef690a99.svg" width="48" height="48" alt="Express"/>
         <br><strong>Express</strong>
         <br><sub>REST APIs</sub>
       </td>
@@ -99,34 +99,34 @@
     </tr>
        <tr>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+        <img src="assets/auto/skillicons-dev-6a4febc5.svg" width="48" height="48" alt="PostgreSQL"/>
         <br><strong>PostgreSQL</strong>
         <br><sub>Relational & Indexing</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/>
+        <img src="assets/auto/skillicons-dev-e3bca748.svg" width="48" height="48" alt="Redis"/>
         <br><strong>Redis</strong>
         <br><sub>Caching & Rate Limits</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
+        <img src="assets/auto/skillicons-dev-b2b49270.svg" width="48" height="48" alt="MongoDB"/>
         <br><strong>MongoDB</strong>
         <br><sub>Document Store</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka"/>
+        <img src="assets/auto/skillicons-dev-201fa5fd.svg" width="48" height="48" alt="Kafka"/>
         <br><strong>Kafka</strong>
         <br><sub>Streaming & Backpressure</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ"/>
+        <img src="assets/auto/skillicons-dev-57fda0b4.svg" width="48" height="48" alt="RabbitMQ"/>
         <br><strong>RabbitMQ</strong>
         <br><sub>Queues & Delivery</sub>
       </td>
     </tr>
      <tr>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/>
+        <img src="assets/auto/skillicons-dev-b085a90a.svg" width="48" height="48" alt="AWS"/>
         <br><strong>AWS</strong>
         <br><sub>Infra & Services</sub>
       </td>
@@ -136,7 +136,7 @@
         <br><sub>Cloud Tooling</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
+        <img src="assets/auto/skillicons-dev-f7cecd22.svg" width="48" height="48" alt="Docker"/>
         <br><strong>Docker</strong>
         <br><sub>Containers & Images</sub>
       </td>
@@ -158,12 +158,12 @@
         <br><sub>Metrics & Alerts</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana"/>
+        <img src="assets/auto/skillicons-dev-01a88082.svg" width="48" height="48" alt="Grafana"/>
         <br><strong>Grafana</strong>
         <br><sub>Dashboards</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/>
+        <img src="assets/auto/skillicons-dev-2d1b54e1.svg" width="48" height="48" alt="GitHub Actions"/>
         <br><strong>GitHub Actions</strong>
         <br><sub>CI/CD Pipelines</sub>
       </td>
@@ -180,7 +180,7 @@
     </tr>
      <tr>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
+        <img src="assets/auto/skillicons-dev-74f6aeb2.svg" width="48" height="48" alt="Linux"/>
         <br><strong>Linux</strong>
         <br><sub>Runtime & Toolchains</sub>
       </td>
@@ -190,12 +190,12 @@
         <br><sub>Automation & Scripts</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=cmake" width="48" height="48" alt="CMake"/>
+        <img src="assets/auto/skillicons-dev-891f56e7.svg" width="48" height="48" alt="CMake"/>
         <br><strong>CMake</strong>
         <br><sub>Build Systems</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+        <img src="assets/auto/skillicons-dev-c24891c2.svg" width="48" height="48" alt="Git"/>
         <br><strong>Git</strong>
         <br><sub>Version Control</sub>
       </td>
@@ -279,9 +279,9 @@
   </summary>
 
   <!-- BLOG-POST-LIST:START -->
- 1. ✍️ [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2) 
+ 1. ✍️ [Google I/O 2021 Punch Card Puzzle](assets/backups/binaryphoenix01-medium-com-2b50d85b.md) 
 
- 2. 📝 [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2) 
+ 2. 📝 [Three Ways to Solve the Two Number Sum Problem](assets/backups/binaryphoenix01-medium-com-b81920a4.md) 
 <!-- BLOG-POST-LIST:END -->
 
 </details>
