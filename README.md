@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Before%20software%20can%20be%20reusable%20it%20first%20has%20to%20be%20usable.&author=Ralph%20Johnson&t=1770390589" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Quality%20means%20doing%20it%20right%20when%20no%20one%20is%20looking.&author=Henry%20Ford&t=1770393983" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
