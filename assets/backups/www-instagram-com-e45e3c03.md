@@ -1,7 +1,7 @@
 # Snapshot
 
-**Title**: Instagram
+**Title**: Ayush Yadav (&#064;binary.phoenix) • Instagram photos and videos
 
 **Original**: <https://www.instagram.com/binary.phoenix/>
 
-_Last refreshed: 2026-02-06T23:47:35.135119+00:00Z_
+_Last refreshed: 2026-02-07T03:37:45.933832+00:00Z_
