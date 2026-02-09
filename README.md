@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programming%20isn%27t%20about%20what%20you%20know%3B%20it%27s%20about%20what%20you%20can%20figure%20out.&author=Chris%20Pine&t=1770613542" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Measuring%20programming%20progress%20by%20lines%20of%20code%20is%20like%20measuring%20aircraft%20building%20progress%20by%20weight.&author=Bill%20Gates&t=1770619389" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
