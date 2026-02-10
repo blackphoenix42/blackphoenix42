@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Software%20is%20a%20gas%3B%20it%20expands%20to%20fill%20its%20container.&author=Nathan%20Myhrvold&t=1770700124" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Don%27t%20comment%20bad%20code%E2%80%94rewrite%20it.&author=Brian%20Kernighan&t=1770705840" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
