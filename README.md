@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Measuring%20programming%20progress%20by%20lines%20of%20code%20is%20like%20measuring%20aircraft%20building%20progress%20by%20weight.&author=Bill%20Gates&t=1770739834" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20are%20only%20two%20hard%20things%20in%20Computer%20Science%3A%20cache%20invalidation%20and%20naming%20things.&author=Phil%20Karlton&t=1770744958" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
