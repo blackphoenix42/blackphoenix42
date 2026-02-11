@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Simplicity%20is%20the%20ultimate%20sophistication.&author=Leonardo%20da%20Vinci&t=1770811572" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20opportunity%20of%20defeating%20the%20enemy%20is%20provided%20by%20the%20enemy%20himself.&author=Sun%20Tzu&t=1770818139" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
