@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20opportunity%20of%20defeating%20the%20enemy%20is%20provided%20by%20the%20enemy%20himself.&author=Sun%20Tzu&t=1770818139" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20dangerous%20phrase%20in%20the%20language%20is%3A%20%22We%27ve%20always%20done%20it%20this%20way.%22&author=Grace%20Hopper&t=1770822014" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
