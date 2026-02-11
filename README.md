@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life%20has%20more%20imagination%20than%20we%20carry%20in%20our%20dreams.&author=Christopher%20Columbus&t=1770843991" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Don%27t%20comment%20bad%20code%E2%80%94rewrite%20it.&author=Brian%20Kernighan&t=1770847223" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
