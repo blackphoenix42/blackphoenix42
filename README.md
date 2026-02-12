@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry.&author=Steve%20McConnell&t=1770902461" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Silence%20is%20a%20source%20of%20great%20strength.&author=Lao%20Tzu&t=1770906795" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
