@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20disastrous%20thing%20that%20you%20can%20ever%20learn%20is%20your%20first%20programming%20language.&author=Alan%20Kay&t=1770962752" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=No%20need%20to%20hurry.%20No%20need%20to%20sparkle.%20No%20need%20to%20be%20anybody%20but%20oneself.&author=Virginia%20Woolf&t=1770967946" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
