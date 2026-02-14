@@ -359,7 +359,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/blackphoenix42/blackphoenix42/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="assets/auto/github-com-b728b1e4.svg" alt="Snake Animation" />
 </div>
 
 <br>
@@ -392,7 +392,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     </tr>
     <tr>
       <td align="center" width="20%">
-        <a href="assets/backups/www-instagram-com-e45e3c03.md">
+        <a href="https://www.instagram.com/binary.phoenix/">
           <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
         </a>
       </td>
