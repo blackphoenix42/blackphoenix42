@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Software%20is%20a%20gas%3B%20it%20expands%20to%20fill%20its%20container.&author=Nathan%20Myhrvold&t=1771183853" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Your%20most%20unhappy%20customers%20are%20your%20greatest%20source%20of%20learning.&author=Bill%20Gates&t=1771187658" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
