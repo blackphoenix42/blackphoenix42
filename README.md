@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Fix%20the%20cause%2C%20not%20the%20symptom.&author=Steve%20Maguire&t=1771191057" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Simplicity%20is%20a%20great%20virtue%20but%20it%20requires%20hard%20work%20to%20achieve%20it.&author=Edsger%20Dijkstra&t=1771194629" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
