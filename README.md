@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Most%20good%20programmers%20do%20programming%20not%20because%20they%20expect%20to%20get%20paid%20or%20get%20adulation%20by%20the%20public%2C%20but%20because%20it%20is%20fun%20to%20program.&author=Linus%20Torvalds&t=1771237739" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20are%20not%20embarrassed%20by%20the%20first%20version%20of%20your%20product%2C%20you%27ve%20launched%20too%20late.&author=Reid%20Hoffman&t=1771241018" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
