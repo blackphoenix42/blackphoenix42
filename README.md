@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20dangerous%20phrase%20in%20the%20language%20is%3A%20%22We%27ve%20always%20done%20it%20this%20way.%22&author=Grace%20Hopper&t=1771760858" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20are%20meant%20to%20be%20read%20by%20humans%20and%20only%20incidentally%20for%20computers%20to%20execute.&author=Donald%20Knuth&t=1771765321" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
