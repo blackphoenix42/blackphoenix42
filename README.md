@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20to%20learn%20a%20new%20programming%20language%20is%20by%20writing%20programs%20in%20it.&author=Dennis%20Ritchie&t=1772136105" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler&t=1772139816" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
