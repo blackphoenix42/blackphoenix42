@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20life%20spent%20making%20mistakes%20is%20not%20only%20more%20honorable%20but%20more%20useful%20than%20a%20life%20spent%20doing%20nothing.&author=George%20Bernard%20Shaw&t=1772314010" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Software%20and%20cathedrals%20are%20much%20the%20same%20%E2%80%94%20first%20we%20build%20them%2C%20then%20we%20pray.&author=Sam%20Redwine&t=1772315143" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
