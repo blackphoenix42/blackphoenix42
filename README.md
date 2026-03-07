@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Software%20is%20a%20gas%3B%20it%20expands%20to%20fill%20its%20container.&author=Nathan%20Myhrvold&t=1772893767" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Take%20responsibility%20of%20your%20own%20happiness%2C%20never%20put%20it%20in%20other%20people%27s%20hands.&author=Roy%20T.%20Bennett&t=1772895187" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
