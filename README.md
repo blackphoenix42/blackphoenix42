@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27m%20not%20a%20great%20programmer%3B%20I%27m%20just%20a%20good%20programmer%20with%20great%20habits.&author=Kent%20Beck&t=1773046394" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Move%20fast%20and%20break%20things.%20Unless%20you%20are%20breaking%20stuff%2C%20you%20are%20not%20moving%20fast%20enough.&author=Mark%20Zuckerberg&t=1773050317" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
