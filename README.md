@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Walking%20on%20water%20and%20developing%20software%20from%20a%20specification%20are%20easy%20if%20both%20are%20frozen.&author=Edward%20V.%20Berard&t=1773072181" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20want%20something%20you%27ve%20never%20had%20you%20must%20be%20willing%20to%20do%20something%20you%27ve%20never%20done.&author=Thomas%20Jefferson&t=1773077125" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
