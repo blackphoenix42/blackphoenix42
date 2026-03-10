@@ -45,162 +45,162 @@
   <table>
     <tr>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-4a715758.svg" width="48" height="48" alt="C++"/>
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/>
         <br><strong>C++</strong>
         <br><sub>Primary Language</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-4971af1b.svg" width="48" height="48" alt="Python"/>
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
         <br><strong>Python</strong>
         <br><sub>Scripting & Tooling</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-d18999d1.svg" width="48" height="48" alt="TypeScript"/>
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript"/>
         <br><strong>TypeScript</strong>
         <br><sub>Type-safe Services</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-e8359bbc.svg" width="48" height="48" alt="Java"/>
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
         <br><strong>Java</strong>
         <br><sub>JVM & Concurrency</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-6918aca2.svg" width="48" height="48" alt="Go"/>
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go"/>
         <br><strong>Go</strong>
         <br><sub>Systems & Services</sub>
       </td>
     </tr>
      <tr>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-e8a50573.svg" width="48" height="48" alt="Node.js"/>
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
         <br><strong>Node.js</strong>
         <br><sub>Backend Runtime</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-ef690a99.svg" width="48" height="48" alt="Express"/>
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
         <br><strong>Express</strong>
         <br><sub>REST APIs</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-13361507.svg" width="48" height="48" alt="GraphQL"/>
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL"/>
         <br><strong>GraphQL</strong>
         <br><sub>Contracts & Schemas</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-80ef13f1.svg" width="48" height="48" alt="Nginx"/>
+        <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx"/>
         <br><strong>Nginx</strong>
         <br><sub>Gateway & Routing</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-43d0ce74.svg" width="48" height="48" alt="Postman"/>
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
         <br><strong>Postman</strong>
         <br><sub>API Testing</sub>
       </td>
     </tr>
        <tr>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-6a4febc5.svg" width="48" height="48" alt="PostgreSQL"/>
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
         <br><strong>PostgreSQL</strong>
         <br><sub>Relational & Indexing</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-e3bca748.svg" width="48" height="48" alt="Redis"/>
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/>
         <br><strong>Redis</strong>
         <br><sub>Caching & Rate Limits</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-b2b49270.svg" width="48" height="48" alt="MongoDB"/>
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
         <br><strong>MongoDB</strong>
         <br><sub>Document Store</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-201fa5fd.svg" width="48" height="48" alt="Kafka"/>
+        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka"/>
         <br><strong>Kafka</strong>
         <br><sub>Streaming & Backpressure</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-57fda0b4.svg" width="48" height="48" alt="RabbitMQ"/>
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ"/>
         <br><strong>RabbitMQ</strong>
         <br><sub>Queues & Delivery</sub>
       </td>
     </tr>
      <tr>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-b085a90a.svg" width="48" height="48" alt="AWS"/>
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/>
         <br><strong>AWS</strong>
         <br><sub>Infra & Services</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-383268cd.svg" width="48" height="48" alt="GCP"/>
+        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP"/>
         <br><strong>GCP</strong>
         <br><sub>Cloud Tooling</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-f7cecd22.svg" width="48" height="48" alt="Docker"/>
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
         <br><strong>Docker</strong>
         <br><sub>Containers & Images</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-b90b922e.svg" width="48" height="48" alt="Kubernetes"/>
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/>
         <br><strong>Kubernetes</strong>
         <br><sub>Orchestration</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-fd51168b.svg" width="48" height="48" alt="Terraform"/>
+        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform"/>
         <br><strong>Terraform</strong>
         <br><sub>IaC & Environments</sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-b9032903.svg" width="48" height="48" alt="Prometheus"/>
+        <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus"/>
         <br><strong>Prometheus</strong>
         <br><sub>Metrics & Alerts</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-01a88082.svg" width="48" height="48" alt="Grafana"/>
+        <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana"/>
         <br><strong>Grafana</strong>
         <br><sub>Dashboards</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-2d1b54e1.svg" width="48" height="48" alt="GitHub Actions"/>
+        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/>
         <br><strong>GitHub Actions</strong>
         <br><sub>CI/CD Pipelines</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-55be8e80.svg" width="48" height="48" alt="Jenkins"/>
+        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins"/>
         <br><strong>Jenkins</strong>
         <br><sub>Build & Release</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-3fe0f43f.svg" width="48" height="48" alt="Jest"/>
+        <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest"/>
         <br><strong>Jest</strong>
         <br><sub>Unit & Integration</sub>
       </td>
     </tr>
      <tr>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-74f6aeb2.svg" width="48" height="48" alt="Linux"/>
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
         <br><strong>Linux</strong>
         <br><sub>Runtime & Toolchains</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-578fd04a.svg" width="48" height="48" alt="Bash"/>
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/>
         <br><strong>Bash</strong>
         <br><sub>Automation & Scripts</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-891f56e7.svg" width="48" height="48" alt="CMake"/>
+        <img src="https://skillicons.dev/icons?i=cmake" width="48" height="48" alt="CMake"/>
         <br><strong>CMake</strong>
         <br><sub>Build Systems</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-c24891c2.svg" width="48" height="48" alt="Git"/>
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
         <br><strong>Git</strong>
         <br><sub>Version Control</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-5d12e125.svg" width="48" height="48" alt="VS Code"/>
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
         <br><strong>VS Code</strong>
         <br><sub>DX & Debugging</sub>
       </td>
