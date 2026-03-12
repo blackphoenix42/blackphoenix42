@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20do%20not%20work%20on%20an%20important%20problem%2C%20it%27s%20unlikely%20you%27ll%20do%20important%20work.&author=Richard%20Hamming&t=1773321223" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20function%20of%20good%20software%20is%20to%20make%20the%20complex%20appear%20to%20be%20simple.&author=Grady%20Booch&t=1773325657" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
