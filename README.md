@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/auto/komarev-com-b4afcf06.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=blackphoenix42&label=Profile%20Views&color=58A6FF&style=flat-square&exclude_me=true&reset=true" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/blackphoenix42?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-Software%20Engineer-58A6FF?style=flat-square" alt="Focus"/>
   <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-58A6FF?style=flat-square&logo=googlemaps" alt="Location"/>
