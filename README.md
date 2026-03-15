@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20may%20not%20be%20responsible%20for%20the%20world%20that%20created%20our%20minds%2C%20but%20we%20can%20take%20responsibility%20for%20the%20mind%20with%20which%20we%20create%20our%20world.&author=Gabor%20Mate&t=1773551428" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Experience%20is%20the%20name%20everyone%20gives%20to%20their%20mistakes.&author=Oscar%20Wilde&t=1773556463" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
