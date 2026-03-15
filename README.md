@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Premature%20optimization%20is%20the%20root%20of%20all%20evil.&author=Donald%20Knuth&t=1773596035" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Anyone%20who%20has%20ever%20made%20anything%20of%20importance%20was%20disciplined.&author=Andrew%20Hendrixson&t=1773600544" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
