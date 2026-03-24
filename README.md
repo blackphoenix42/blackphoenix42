@@ -326,8 +326,8 @@
 
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#11](undefined) in [blackphoenix42/blackphoenix42](assets/backups/github-com-9b91d9c4.md)
-2. ❌ Closed PR [#10](undefined) in [blackphoenix42/blackphoenix42](assets/backups/github-com-9b91d9c4.md)
+1. ❌ Closed PR [#11](undefined) in [blackphoenix42/blackphoenix42](https://github.com/blackphoenix42/blackphoenix42)
+2. ❌ Closed PR [#10](undefined) in [blackphoenix42/blackphoenix42](https://github.com/blackphoenix42/blackphoenix42)
 <!--END_SECTION:activity-->
 
 </details>
