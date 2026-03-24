@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20trouble%20with%20programmers%20is%20that%20you%20can%20never%20tell%20what%20a%20programmer%20is%20doing%20until%20it%27s%20too%20late.&author=Seymour%20Cray&t=1774389713" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20want%20to%20achieve%20anything%20in%20this%20world%2C%20you%20have%20to%20get%20used%20to%20the%20idea%20that%20not%20everyone%20will%20like%20you.&author=Simon%20Sinek&t=1774393160" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
