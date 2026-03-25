@@ -168,7 +168,7 @@
         <br><sub>CI/CD Pipelines</sub>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins"/>
+        <img src="assets/auto/skillicons-dev-55be8e80.svg" width="48" height="48" alt="Jenkins"/>
         <br><strong>Jenkins</strong>
         <br><sub>Build & Release</sub>
       </td>
@@ -392,7 +392,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     </tr>
     <tr>
       <td align="center" width="20%">
-        <a href="assets/backups/www-instagram-com-e45e3c03.md">
+        <a href="https://www.instagram.com/binary.phoenix/">
           <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
         </a>
       </td>
