@@ -168,7 +168,7 @@
         <br><sub>CI/CD Pipelines</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/auto/skillicons-dev-55be8e80.svg" width="48" height="48" alt="Jenkins"/>
+        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins"/>
         <br><strong>Jenkins</strong>
         <br><sub>Build & Release</sub>
       </td>
@@ -279,9 +279,9 @@
   </summary>
 
   <!-- BLOG-POST-LIST:START -->
- 1. ✍️ [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2) 
+ 1. ✍️ [Google I/O 2021 Punch Card Puzzle](assets/backups/binaryphoenix01-medium-com-2b50d85b.md) 
 
- 2. 📝 [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2) 
+ 2. 📝 [Three Ways to Solve the Two Number Sum Problem](assets/backups/binaryphoenix01-medium-com-b81920a4.md) 
 <!-- BLOG-POST-LIST:END -->
 
 </details>
