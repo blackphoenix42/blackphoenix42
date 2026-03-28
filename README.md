@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20function%20of%20good%20software%20is%20to%20make%20the%20complex%20appear%20to%20be%20simple.&author=Grady%20Booch&t=1774692085" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Employ%20your%20time%20in%20improving%20yourself%20by%20other%20men%27s%20writings%2C%20so%20that%20you%20shall%20gain%20easily%20what%20others%20have%20labored%20hard%20for.&author=Socrates&t=1774695593" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
