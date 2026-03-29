@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=I..%20CAN'T%20GET..%20IT..%20OFF!!%20%E2%80%94%20DUDE%2C%20THAT'S%20BECAUSE%20YOUR%20CAPS%20LOCK%20IS%20ON&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20doesn't%20Chuck%20Norris%20need%20garbage%20collection.%20%E2%80%94%20Because%20he%20doesn%E2%80%99t%20call&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
