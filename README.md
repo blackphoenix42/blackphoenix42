@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=SDE%E2%80%912+%E2%80%A2+Systems+%26+Performance+%E2%80%94+design+%E2%86%92+build+%E2%86%92+scale;Scalable+services%2C+clean+APIs+%E2%80%A2+low+latency%2C+high+throughput;Codeforces+Master+%E2%80%A2+CodeChef+6%E2%AD%90+%E2%80%A2+LeetCode+Knight+%E2%80%A2+HackerRank+6%E2%AD%90" alt="Typing Animation" />
+<img src="assets/auto/readme-typing-svg-demolab-com-6f952e3e.svg" alt="Typing Animation" />
 
 </div>
 
