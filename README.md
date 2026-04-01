@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20function%20of%20good%20software%20is%20to%20make%20the%20complex%20appear%20to%20be%20simple.&author=Grady%20Booch&t=1775074052" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Testing%20can%20only%20prove%20the%20presence%20of%20bugs%2C%20not%20their%20absence.&author=Edsger%20Dijkstra&t=1775077766" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
