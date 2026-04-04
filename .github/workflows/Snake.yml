@@ -40,7 +40,7 @@ jobs:
       
       # Push the content of <build_dir> to a branch
       - name: Push snake animation to branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
