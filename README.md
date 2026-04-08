@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20try%20to%20get%20rid%20of%20fear%20and%20anger%20without%20knowing%20their%20meaning%2C%20they%20will%20grow%20stronger%20and%20return.&author=Deepak%20Chopra&t=1775606636" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Walking%20on%20water%20and%20developing%20software%20from%20a%20specification%20are%20easy%20if%20both%20are%20frozen.&author=Edward%20V.%20Berard&t=1775619612" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
