@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20function%20of%20good%20software%20is%20to%20make%20the%20complex%20appear%20to%20be%20simple.&author=Grady%20Booch&t=1775814426" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20and%20most%20beautiful%20things%20in%20the%20world%20cannot%20be%20seen%20or%20even%20touched%20-%20they%20must%20be%20felt%20with%20the%20heart.&author=Helen%20Keller&t=1775818851" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
