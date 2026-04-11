@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20must%20be%20written%20for%20people%20to%20read%2C%20and%20only%20incidentally%20for%20machines%20to%20execute.&author=Harold%20Abelson&t=1775897543" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Two%20roads%20diverged%20in%20a%20wood%2C%20and%20I%20took%20the%20one%20less%20traveled%20by%2C%20and%20that%20has%20made%20all%20the%20difference.&author=Robert%20Frost&t=1775900937" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
