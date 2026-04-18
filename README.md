@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20is%20it%20called%20the%20Dark%20Ages%3F%20%E2%80%94%20There%20were%20a%20lot%20of%20KNIGHTS!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=What%20do%20computers%20love%20to%20do%20at%20the%20beach%3F%20%E2%80%94%20Put%20on%20some%20spam%20block%20for%20protection%20so%20they%20can%20safely%20surf%20the%20net%20while%20catching%20some%20.WAVs!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
