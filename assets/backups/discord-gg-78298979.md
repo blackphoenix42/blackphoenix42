@@ -1,7 +1,7 @@
 # Snapshot
 
-**Title**: Binary Phoenix
+**Title**: Discord
 
 **Original**: <https://discord.gg/mRUZEhD>
 
-_Last refreshed: 2026-04-21T05:34:23.768782+00:00Z_
+_Last refreshed: 2026-04-22T05:32:57.295573+00:00Z_
