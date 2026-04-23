@@ -375,7 +375,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
         </a>
       </td>
       <td align="center" width="20%">
-        <a href="assets/backups/www-twitter-com-b29db3b6.md">
+        <a href="https://www.twitter.com/BinaryPhoenix/">
           <img src="https://img.shields.io/badge/𝕏%20(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
         </a>
       </td>
@@ -392,7 +392,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     </tr>
     <tr>
       <td align="center" width="20%">
-        <a href="https://www.instagram.com/binary.phoenix/">
+        <a href="assets/backups/www-instagram-com-e45e3c03.md">
           <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
         </a>
       </td>
