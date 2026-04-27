@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20is%20it%20called%20the%20Dark%20Ages%3F%20%E2%80%94%20There%20were%20a%20lot%20of%20KNIGHTS!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20did%20the%20web%20developer%20always%20go%20to%20the%20wrong%20hotel%20room%3F%20%E2%80%94%20They%20were%20in%20room%20301.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
