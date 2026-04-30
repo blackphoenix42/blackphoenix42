@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Many%20of%20life%27s%20failures%20are%20people%20who%20did%20not%20realize%20how%20close%20they%20were%20to%20success%20when%20they%20gave%20up.&author=Thomas%20Edison&t=1777573220" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20important%20property%20of%20a%20program%20is%20whether%20it%20accomplishes%20the%20intention%20of%20its%20user.&author=C.A.R.%20Hoare&t=1777579032" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
