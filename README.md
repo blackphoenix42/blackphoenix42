@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Make%20everything%20as%20simple%20as%20possible%2C%20but%20not%20simpler.&author=Albert%20Einstein&t=1777568422" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Many%20of%20life%27s%20failures%20are%20people%20who%20did%20not%20realize%20how%20close%20they%20were%20to%20success%20when%20they%20gave%20up.&author=Thomas%20Edison&t=1777573220" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
