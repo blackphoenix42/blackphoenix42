@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20man%20should%20never%20be%20ashamed%20to%20own%20that%20he%20has%20been%20in%20the%20wrong%2C%20which%20is%20but%20saying%2C%20that%20he%20is%20wiser%20today%20than%20yesterday.&author=Jonathan%20Swift&t=1777752295" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20important%20property%20of%20a%20program%20is%20whether%20it%20accomplishes%20the%20intention%20of%20its%20user.&author=C.A.R.%20Hoare&t=1777756173" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
