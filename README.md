@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Learning%20to%20write%20programs%20stretches%20your%20mind%2C%20and%20helps%20you%20think%20better%2C%20creates%20a%20way%20of%20thinking%20about%20things%20that%20I%20think%20is%20helpful%20in%20all%20domains.&author=Bill%20Gates&t=1777748920" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20man%20should%20never%20be%20ashamed%20to%20own%20that%20he%20has%20been%20in%20the%20wrong%2C%20which%20is%20but%20saying%2C%20that%20he%20is%20wiser%20today%20than%20yesterday.&author=Jonathan%20Swift&t=1777752295" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
