@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry.&author=Steve%20McConnell&t=1777759645" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Lust%2C%20anger%20and%20greed%20are%20the%20three%20gates%20to%20self-destructive%20hell.&author=Bhagavad%20Gita&t=1777763466" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
