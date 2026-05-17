@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Growth%20is%20in%20a%20series%20of%20mistakes.%20That%27s%20the%20only%20way%20you%20learn.&author=Steve%20Harvey&t=1779016559" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Java%20is%20to%20JavaScript%20what%20car%20is%20to%20Carpet.&author=Chris%20Heilmann&t=1779019934" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
