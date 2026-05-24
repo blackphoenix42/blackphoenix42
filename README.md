@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=At%20first%20dreams%20seem%20impossible%2C%20then%20improbable%2C%20then%20inevitable.&author=Christopher%20Reeve&t=1779595604" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Good%20judgment%20comes%20from%20experience%2C%20and%20experience%20comes%20from%20bad%20judgment.&author=Fred%20Brooks&t=1779608249" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
