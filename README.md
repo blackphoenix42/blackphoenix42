@@ -221,7 +221,7 @@
         <strong>Interactive algorithm visualizer with deterministic replay</strong>
         <br><br>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="assets/auto/img-shields-io-7097e3f4.svg" alt="React"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
         <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry"/>
         <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
@@ -236,7 +236,7 @@
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white" alt="Perforce"/>
-        <img src="assets/auto/img-shields-io-5b14fbd1.svg" alt="Bash"/>
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
         <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
         <br><br>
         <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
@@ -246,7 +246,7 @@
         <br><br>
         <strong>Real-time posture correction using pose estimation</strong>
         <br><br>
-        <img src="assets/auto/img-shields-io-7c737468.svg" alt="OpenCV"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
         <img src="https://img.shields.io/badge/MPipe-00A6FF?style=flat-square" alt="MediaPipe"/>
         <img src="https://img.shields.io/badge/Torch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
         <br/>
