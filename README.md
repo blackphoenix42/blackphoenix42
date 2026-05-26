@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blackphoenix42&row=1&theme=discord" alt="Trophies"/>
+  <img src="assets/auto/github-profile-trophy-vercel-app-1d48909a.svg" alt="Trophies"/>
 </div>
 
 <br>
