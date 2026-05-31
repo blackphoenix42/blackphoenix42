@@ -4,4 +4,4 @@
 
 **Original**: <https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656>
 
-_Last refreshed: 2026-05-30T06:29:19.920185+00:00Z_
+_Last refreshed: 2026-05-31T07:03:54.948250+00:00Z_
