@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=How%20does%20a%20developer%20make%20a%20cheer%3F%20%E2%80%94%20%5B%22hip%22%2C%22hip%22%5D%20%2F%2F%20(hip%20hip%20array!)&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Why%20does%20the%20Docker%20container%20fail%3F%20%E2%80%94%20So%20that%2C%20Kubernetes%20can%20start%20it%20again&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
