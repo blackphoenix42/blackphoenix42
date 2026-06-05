@@ -4,4 +4,4 @@
 
 **Original**: <https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089>
 
-_Last refreshed: 2026-06-04T07:58:40.635930+00:00Z_
+_Last refreshed: 2026-06-05T07:15:54.532340+00:00Z_
