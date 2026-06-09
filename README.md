@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/auto/github-readme-stats-vercel-app-4a0bbc2e.svg" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackphoenix42&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1&v=2" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -376,7 +376,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
       </td>
       <td align="center" width="20%">
         <a href="https://www.twitter.com/BinaryPhoenix/">
-          <img src="https://img.shields.io/badge/𝕏%20(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+          <img src="assets/auto/img-shields-io-2c9c1e0f.svg" alt="X (Twitter)"/>
         </a>
       </td>
       <td align="center" width="20%">
