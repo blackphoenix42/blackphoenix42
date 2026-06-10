@@ -384,7 +384,7 @@
     "sha256": "2613e1093903f94618c0a503300d79b0c822fe075f6be50bf77262604dc4a7c3",
     "bytes": 1161,
     "last_status": "ok",
-    "last_checked": "2026-06-10T07:15:29.980387+00:00Z"
+    "last_checked": "2026-06-10T17:41:37.689369+00:00Z"
   },
   "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white": {
     "type": "image",
@@ -672,7 +672,7 @@
     "sha256": "34b1addee6a86f094da5ed8dd42c28b6f78e7dbab8e79f16787881232247ce48",
     "bytes": 3358,
     "last_status": "ok",
-    "last_checked": "2026-06-10T07:15:26.375438+00:00Z"
+    "last_checked": "2026-06-10T17:41:30.140562+00:00Z"
   },
   "https://skillicons.dev/icons?i=rabbitmq": {
     "type": "image",

@@ -23,7 +23,7 @@
         <img align="left" alt="binaryphoenix's GitHub Stats" src="https://readmemd-stats-blackphoenix42.vercel.app/api?username=blackphoenix42&show_icons=true&theme=dracula&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=300" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackphoenix42&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+        <img src="assets/auto/github-readme-streak-stats-herokuapp-com-bab970c5.svg" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
@@ -248,7 +248,7 @@
         <br><br>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
         <img src="https://img.shields.io/badge/MPipe-00A6FF?style=flat-square" alt="MediaPipe"/>
-        <img src="assets/auto/img-shields-io-47d00b2b.svg" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/Torch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
         <br/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
         <img src="https://img.shields.io/badge/Dckr-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
@@ -393,7 +393,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <tr>
       <td align="center" width="20%">
         <a href="https://www.instagram.com/binary.phoenix/">
-          <img src="assets/auto/img-shields-io-3cdb616c.svg" alt="Instagram"/>
+          <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
         </a>
       </td>
       <td align="center" width="20%">
