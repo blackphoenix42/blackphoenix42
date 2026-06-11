@@ -1,7 +1,7 @@
 # Snapshot
 
-**Title**: https://www.twitter.com/BinaryPhoenix/
+**Title**: Ayush Yadav (@BinaryPhoenix) / X
 
 **Original**: <https://www.twitter.com/BinaryPhoenix/>
 
-_Last refreshed: 2026-06-10T07:15:46.159005+00:00Z_
+_Last refreshed: 2026-06-11T08:12:30.552752+00:00Z_
