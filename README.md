@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House&t=1781369808" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20are%20no%20constraints%20on%20the%20human%20mind%2C%20no%20walls%20around%20the%20human%20spirit%2C%20no%20barriers%20to%20our%20progress%20except%20those%20we%20ourselves%20erect.&author=Ronald%20Reagan&t=1781374648" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
