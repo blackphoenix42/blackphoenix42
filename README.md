@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20are%20no%20constraints%20on%20the%20human%20mind%2C%20no%20walls%20around%20the%20human%20spirit%2C%20no%20barriers%20to%20our%20progress%20except%20those%20we%20ourselves%20erect.&author=Ronald%20Reagan&t=1781374648" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Given%20enough%20eyeballs%2C%20all%20bugs%20are%20shallow.&author=Eric%20S.%20Raymond&t=1781380995" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
