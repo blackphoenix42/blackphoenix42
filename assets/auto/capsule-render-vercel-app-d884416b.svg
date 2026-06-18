@@ -43,7 +43,7 @@
           </animate>
         </path>
       </g>
-         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >Why was there a bug in the computer? — Because it was looking for a byte to eat?</text>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="50%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >Why was there a bug in the computer? — Because it was looking for a byte to eat?</text>
         
       </svg>
     
