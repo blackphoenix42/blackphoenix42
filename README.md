@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20is%20safer%20to%20search%20in%20the%20maze%20than%20to%20remain%20in%20a%20cheeseless%20situation.&author=Spencer%20Johnson&t=1782058578" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perfect%20is%20the%20enemy%20of%20good.&author=Voltaire&t=1782065211" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
