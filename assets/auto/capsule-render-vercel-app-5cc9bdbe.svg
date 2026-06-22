@@ -43,7 +43,7 @@
           </animate>
         </path>
       </g>
-         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="1" >How do you tell HTML from HTML5? — Try it out in Internet Explorer, if it does not work then it</text>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="50%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="1" >How do you tell HTML from HTML5? — Try it out in Internet Explorer, if it does not work then it</text>
         
       </svg>
     
