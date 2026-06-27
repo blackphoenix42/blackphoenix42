@@ -326,7 +326,7 @@
 
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#11](undefined) in [blackphoenix42/blackphoenix42](https://github.com/blackphoenix42/blackphoenix42)
+1. 🚀 Published release [v1.0.0 - Phoenix portfolio](https://github.com/blackphoenix42/my_portfolio/releases/tag/1.0.0) in [blackphoenix42/my_portfolio](https://github.com/blackphoenix42/my_portfolio)
 2. ❌ Closed PR [#10](undefined) in [blackphoenix42/blackphoenix42](https://github.com/blackphoenix42/blackphoenix42)
 <!--END_SECTION:activity-->
 
