@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Make%20everything%20as%20simple%20as%20possible%2C%20but%20not%20simpler.&author=Albert%20Einstein&t=1782783075" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life%20becomes%20easier%20and%20more%20beautiful%20when%20we%20can%20see%20the%20good%20in%20other%20people.&author=Roy%20T.%20Bennett&t=1782800242" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
