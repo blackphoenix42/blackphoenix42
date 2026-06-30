@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life%20becomes%20easier%20and%20more%20beautiful%20when%20we%20can%20see%20the%20good%20in%20other%20people.&author=Roy%20T.%20Bennett&t=1782800242" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Premature%20optimization%20is%20the%20root%20of%20all%20evil.&author=Donald%20Knuth&t=1782814262" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
