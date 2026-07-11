@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20dream%20you%20dream%20alone%20is%20only%20a%20dream.%20A%20dream%20you%20dream%20together%20is%20reality.&author=Yoko%20Ono&t=1783789356" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Good%20judgment%20comes%20from%20experience%2C%20and%20experience%20comes%20from%20bad%20judgment.&author=Fred%20Brooks&t=1783794488" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
