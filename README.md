@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson&t=1783783907" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20dream%20you%20dream%20alone%20is%20only%20a%20dream.%20A%20dream%20you%20dream%20together%20is%20reality.&author=Yoko%20Ono&t=1783789356" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
