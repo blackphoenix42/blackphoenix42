@@ -9,7 +9,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=blackphoenix42&label=Profile%20Views&color=58A6FF&style=flat-square&exclude_me=true&reset=true" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/blackphoenix42?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="GitHub Followers" />
+  <img src="assets/auto/img-shields-io-8e2deb7d.svg" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-Software%20Engineer-58A6FF?style=flat-square" alt="Focus"/>
   <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-58A6FF?style=flat-square&logo=googlemaps" alt="Location"/>
 </div>
@@ -216,42 +216,42 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🔎-AlgoLens-58A6FF?style=for-the-badge&logo=react&logoColor=white" alt="AlgoLens"/>
+        <img src="assets/auto/img-shields-io-69457731.svg" alt="AlgoLens"/>
         <br><br>
         <strong>Interactive algorithm visualizer with deterministic replay</strong>
         <br><br>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-        <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry"/>
-        <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
+        <img src="assets/auto/img-shields-io-e02e15ef.svg" alt="TypeScript"/>
+        <img src="assets/auto/img-shields-io-7097e3f4.svg" alt="React"/>
+        <img src="assets/auto/img-shields-io-c0160243.svg" alt="Vite"/>
+        <img src="assets/auto/img-shields-io-8a74304d.svg" alt="Sentry"/>
+        <img src="assets/auto/img-shields-io-b3b17477.svg" alt="Vitest"/>
         <br><br>
-        <img src="https://img.shields.io/badge/Status-Active-FF6B35?style=flat-square" alt="Active"/>
+        <img src="assets/auto/img-shields-io-911a67dd.svg" alt="Active"/>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🔥-Perf%20Toolkit-58A6FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Xcelium Perf Toolkit"/>
+        <img src="assets/auto/img-shields-io-4331db7d.svg" alt="Xcelium Perf Toolkit"/>
         <br><br>
         <strong>Performance diagnosis library for large RTL simulations</strong>
         <br><br>
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="assets/auto/img-shields-io-77858e63.svg" alt="C++"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white" alt="Perforce"/>
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
-        <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+        <img src="assets/auto/img-shields-io-7ec55156.svg" alt="Perforce"/>
+        <img src="assets/auto/img-shields-io-5b14fbd1.svg" alt="Bash"/>
+        <img src="assets/auto/img-shields-io-b3b2bb77.svg" alt="Linux"/>
         <br><br>
         <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🏋️-PostureIQ%20%28AI%2FML%29-58A6FF?style=for-the-badge&logo=opencv&logoColor=white" alt="AI/ML Posture Detection"/>
+        <img src="assets/auto/img-shields-io-21da3a12.svg" alt="AI/ML Posture Detection"/>
         <br><br>
         <strong>Real-time posture correction using pose estimation</strong>
         <br><br>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+        <img src="assets/auto/img-shields-io-7c737468.svg" alt="OpenCV"/>
         <img src="https://img.shields.io/badge/MPipe-00A6FF?style=flat-square" alt="MediaPipe"/>
-        <img src="https://img.shields.io/badge/Torch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <img src="assets/auto/img-shields-io-47d00b2b.svg" alt="PyTorch"/>
         <br/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/Dckr-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="assets/auto/img-shields-io-c94c78cc.svg" alt="FastAPI"/>
+        <img src="assets/auto/img-shields-io-02f74df8.svg" alt="Docker"/>
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
         <br><br>
         <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
@@ -371,29 +371,29 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <tr>
       <td align="center" width="20%">
         <a href="https://www.youtube.com/channel/UCcINlOM-rC1_8yiRGH_iFBg?sub_confirmation=1">
-          <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+          <img src="assets/auto/img-shields-io-95996653.svg" alt="YouTube"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="https://www.twitter.com/BinaryPhoenix/">
-          <img src="https://img.shields.io/badge/𝕏%20(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+          <img src="assets/auto/img-shields-io-2c9c1e0f.svg" alt="X (Twitter)"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="assets/backups/www-linkedin-com-90fd9c20.md">
-          <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+          <img src="assets/auto/img-shields-io-fee0b7ce.svg" alt="LinkedIn"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="https://medium.com/@binaryphoenix01">
-          <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+          <img src="assets/auto/img-shields-io-e6083cef.svg" alt="Medium"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="20%">
         <a href="https://www.instagram.com/binary.phoenix/">
-          <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+          <img src="assets/auto/img-shields-io-3cdb616c.svg" alt="Instagram"/>
         </a>
       </td>
       <td align="center" width="20%">
@@ -408,7 +408,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
       </td>
       <td align="center" width="20%">
         <a href="mailto:riseofgoldenbird@gmail.com">
-          <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+          <img src="assets/auto/img-shields-io-b5776900.svg" alt="Email"/>
         </a> 
       </td>
     </tr>
