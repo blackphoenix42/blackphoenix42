@@ -9,7 +9,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=blackphoenix42&label=Profile%20Views&color=58A6FF&style=flat-square&exclude_me=true&reset=true" alt="Profile Views" />
-  <img src="assets/auto/img-shields-io-8e2deb7d.svg" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/blackphoenix42?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-Software%20Engineer-58A6FF?style=flat-square" alt="Focus"/>
   <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-58A6FF?style=flat-square&logo=googlemaps" alt="Location"/>
 </div>
@@ -221,7 +221,7 @@
         <strong>Interactive algorithm visualizer with deterministic replay</strong>
         <br><br>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="assets/auto/img-shields-io-7097e3f4.svg" alt="React"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
         <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry"/>
         <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
@@ -246,7 +246,7 @@
         <br><br>
         <strong>Real-time posture correction using pose estimation</strong>
         <br><br>
-        <img src="assets/auto/img-shields-io-7c737468.svg" alt="OpenCV"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
         <img src="https://img.shields.io/badge/MPipe-00A6FF?style=flat-square" alt="MediaPipe"/>
         <img src="https://img.shields.io/badge/Torch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
         <br/>
