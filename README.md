@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20dangerous%20phrase%20in%20the%20language%20is%3A%20%22We%27ve%20always%20done%20it%20this%20way.%22&author=Grace%20Hopper&t=1785400508" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20it%20gets%20better%20for%20you%20is%20when%20you%20get%20better.%20Better%20is%20not%20something%20you%20wish%2C%20it%27s%20something%20you%20become.&author=Jim%20Rohn&t=1785409891" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
