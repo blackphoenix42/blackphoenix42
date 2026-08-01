@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=How%20did%20the%20mafioso%20kill%20the%20Node%20server%3F%20%E2%80%94%20Tie%20await%20to%20it%20and%20let%20it%20async.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=What%20do%20you%20do%20when%20you%20can't%20understand%20your%20husband's%20behavior%3F%20%E2%80%94%20man%20man&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
