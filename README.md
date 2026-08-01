@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Debugging%20is%20twice%20as%20hard%20as%20writing%20the%20code%20in%20the%20first%20place.&author=Brian%20Kernighan&t=1785611814" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20to%20make%20sense%20out%20of%20change%20is%20to%20plunge%20into%20it%2C%20move%20with%20it%2C%20and%20join%20the%20dance.&author=Alan%20Watts&t=1785616030" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
