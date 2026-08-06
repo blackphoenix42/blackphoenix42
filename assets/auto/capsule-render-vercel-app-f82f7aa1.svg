@@ -43,7 +43,7 @@
           </animate>
         </path>
       </g>
-         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >How do you tell an introverted computer scientist from an extroverted scientist? — An extroverted computer scientist looks at your shoes when he talks to you.</text>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="50%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >How do you tell an introverted computer scientist from an extroverted scientist? — An extroverted computer scientist looks at your shoes when he talks to you.</text>
         
       </svg>
     
