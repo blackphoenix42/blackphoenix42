@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20greatest%20weariness%20comes%20from%20work%20not%20done.&author=Eric%20Hoffer&t=1786000623" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20get%20a%20project%20done%20faster%20is%20to%20start%20sooner.&author=Jim%20Highsmith&t=1786011009" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
