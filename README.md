@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20programs%20are%20written%20so%20that%20computing%20machines%20can%20perform%20them%20quickly%20and%20so%20that%20human%20beings%20can%20understand%20them%20clearly.&author=Donald%20Knuth&t=1786241066" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Be%20kind%20whenever%20possible.%20It%20is%20always%20possible.&author=Dalai%20Lama&t=1786247969" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
