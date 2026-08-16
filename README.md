@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Growing%20up%20is%20losing%20some%20illusions%2C%20in%20order%20to%20acquire%20others.&author=Virginia%20Woolf&t=1786913494" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Fix%20the%20cause%2C%20not%20the%20symptom.&author=Steve%20Maguire&t=1786915465" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
