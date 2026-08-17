@@ -309,11 +309,11 @@
   </summary>
 
   <!-- STACKOVERFLOW:START -->
- 1. 🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089) 
+ 1. 🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](assets/backups/stackoverflow-com-51c4f1ed.md) 
 
- 2. ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111) 
+ 2. ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](assets/backups/stackoverflow-com-27da4c6b.md) 
 
- 3. 🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656) 
+ 3. 🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](assets/backups/stackoverflow-com-d79eebdf.md) 
 <!-- STACKOVERFLOW:END -->
 
 </details>
@@ -359,7 +359,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/blackphoenix42/blackphoenix42/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="assets/auto/github-com-b728b1e4.svg" alt="Snake Animation" />
 </div>
 
 <br>
