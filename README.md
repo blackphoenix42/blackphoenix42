@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Make%20it%20work%2C%20make%20it%20right%2C%20make%20it%20fast.&author=Kent%20Beck&t=1787500207" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Keep%20your%20eyes%20on%20the%20goal%2C%20and%20just%20keep%20taking%20the%20next%20step%20towards%20completing%20it.&author=John%20Carmack&t=1787502687" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
