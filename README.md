@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20are%20only%20two%20hard%20things%20in%20Computer%20Science%3A%20cache%20invalidation%20and%20naming%20things.&author=Phil%20Karlton&t=1787589762" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Intelligence%2C%20imagination%2C%20and%20knowledge%20are%20essential%20resources%2C%20but%20only%20effectiveness%20converts%20them%20into%20results.&author=Peter%20Drucker&t=1787592866" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
