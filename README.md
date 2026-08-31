@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20get%20a%20project%20done%20faster%20is%20to%20start%20sooner.&author=Jim%20Highsmith&t=1788133441" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Words%20used%20to%20attract%20the%20dull%20of%20wit%20are%20not%20to%20be%20relied%20on.&author=Huang%20Po&t=1788151755" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
