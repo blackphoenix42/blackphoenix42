@@ -425,7 +425,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- FOOTER_START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Hey%20officer!%20How%20did%20the%20hackers%20escape%3F%20%E2%80%94%20No%20idea.%20They%20just%20ransomware.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=What%20sits%20on%20a%20pirate's%20shoulder%20and%20calls%2C%20%22Pieces%20of%20seven%2C%20Pieces%20of%20seven%22%3F%20%E2%80%94%20Parroty%20error.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
 <!-- FOOTER_END -->
 
