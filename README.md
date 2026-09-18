@@ -419,7 +419,7 @@ Text               39 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You%20find%20peace%20not%20by%20rearranging%20the%20circumstances%20of%20your%20life%2C%20but%20by%20realizing%20who%20you%20are%20at%20the%20deepest%20level.&author=Eckhart%20Tolle&t=1789743169" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Fix%20the%20cause%2C%20not%20the%20symptom.&author=Steve%20Maguire&t=1789755139" alt="Quote"/>
 </div>
 <!-- QUOTE:END -->
 
