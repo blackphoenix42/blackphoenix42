@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/auto/komarev-com-b4afcf06.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=blackphoenix42&label=Profile%20Views&color=58A6FF&style=flat-square&exclude_me=true&reset=true" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/blackphoenix42?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-Software%20Engineer-58A6FF?style=flat-square" alt="Focus"/>
   <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-58A6FF?style=flat-square&logo=googlemaps" alt="Location"/>
@@ -279,9 +279,9 @@
   </summary>
 
   <!-- BLOG-POST-LIST:START -->
- 1. ✍️ [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2) 
+ 1. ✍️ [Google I/O 2021 Punch Card Puzzle](assets/backups/binaryphoenix01-medium-com-2b50d85b.md) 
 
- 2. 📝 [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2) 
+ 2. 📝 [Three Ways to Solve the Two Number Sum Problem](assets/backups/binaryphoenix01-medium-com-b81920a4.md) 
 <!-- BLOG-POST-LIST:END -->
 
 </details>
@@ -309,11 +309,11 @@
   </summary>
 
   <!-- STACKOVERFLOW:START -->
- 1. 🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089) 
+ 1. 🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](assets/backups/stackoverflow-com-51c4f1ed.md) 
 
- 2. ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111) 
+ 2. ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](assets/backups/stackoverflow-com-27da4c6b.md) 
 
- 3. 🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656) 
+ 3. 🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](assets/backups/stackoverflow-com-d79eebdf.md) 
 <!-- STACKOVERFLOW:END -->
 
 </details>
