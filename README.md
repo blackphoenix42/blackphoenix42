@@ -226,7 +226,7 @@
         <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry"/>
         <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
         <br><br>
-        <img src="assets/auto/img-shields-io-911a67dd.svg" alt="Active"/>
+        <img src="https://img.shields.io/badge/Status-Active-FF6B35?style=flat-square" alt="Active"/>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/🔥-Perf%20Toolkit-58A6FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Xcelium Perf Toolkit"/>
@@ -235,11 +235,11 @@
         <br><br>
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="assets/auto/img-shields-io-7ec55156.svg" alt="Perforce"/>
+        <img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white" alt="Perforce"/>
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
         <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
         <br><br>
-        <img src="assets/auto/img-shields-io-de421016.svg" alt="Complete"/>
+        <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/🏋️-PostureIQ%20%28AI%2FML%29-58A6FF?style=for-the-badge&logo=opencv&logoColor=white" alt="AI/ML Posture Detection"/>
@@ -251,10 +251,10 @@
         <img src="https://img.shields.io/badge/Torch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
         <br/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-        <img src="assets/auto/img-shields-io-02f74df8.svg" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Dckr-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
         <br><br>
-        <img src="assets/auto/img-shields-io-de421016.svg" alt="Complete"/>
+        <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
       </td>
     </tr>
   </table>
@@ -279,9 +279,9 @@
   </summary>
 
   <!-- BLOG-POST-LIST:START -->
- 1. ✍️ [Google I/O 2021 Punch Card Puzzle](https://binaryphoenix01.medium.com/google-i-o-2021-punch-card-puzzle-8b266724ec1d?source=rss-4009e2c77a------2) 
+ 1. ✍️ [Google I/O 2021 Punch Card Puzzle](assets/backups/binaryphoenix01-medium-com-2b50d85b.md) 
 
- 2. 📝 [Three Ways to Solve the Two Number Sum Problem](https://binaryphoenix01.medium.com/the-two-number-sum-problem-c4f36c7528f5?source=rss-4009e2c77a------2) 
+ 2. 📝 [Three Ways to Solve the Two Number Sum Problem](assets/backups/binaryphoenix01-medium-com-b81920a4.md) 
 <!-- BLOG-POST-LIST:END -->
 
 </details>
@@ -309,11 +309,11 @@
   </summary>
 
   <!-- STACKOVERFLOW:START -->
- 1. 🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](https://stackoverflow.com/questions/67886495/how-can-i-add-icon-to-react-link/67887089#67887089) 
+ 1. 🧠 [Answer by Binary Phoenix for How can i add icon to React Link?](assets/backups/stackoverflow-com-51c4f1ed.md) 
 
- 2. ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](https://stackoverflow.com/questions/67640916/list-index-out-of-range-with-a-loop/67641111#67641111) 
+ 2. ⚡ [Answer by Binary Phoenix for “list index out of range” with a loop](assets/backups/stackoverflow-com-27da4c6b.md) 
 
- 3. 🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](https://stackoverflow.com/questions/67615524/how-to-turn-this-code-into-a-one-liner-or-make-it-shorter/67615656#67615656) 
+ 3. 🧩 [Answer by Binary Phoenix for How to turn this code into a one-liner or make it shorter?](assets/backups/stackoverflow-com-d79eebdf.md) 
 <!-- STACKOVERFLOW:END -->
 
 </details>
