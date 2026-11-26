@@ -292,12 +292,12 @@
     <span style="font-weight:600; margin:0 8px;">Latest YouTube Videos</span>
   </summary>
 
-  <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DK2Gi0KlwgU"><img width="140px" src="http://img.youtube.com/vi/DK2Gi0KlwgU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DK2Gi0KlwgU">How to Move Element to the End of an Array | Coding Interview Question</a><br/>May 28, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=P9Q8uiX5I7E"><img width="140px" src="http://img.youtube.com/vi/P9Q8uiX5I7E/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=P9Q8uiX5I7E">Sort all the punch cards &lpar;Final Puzzle&rpar;| Google I/O 2021 Punchcard Puzzle 10</a><br/>May 13, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2DidcRgfmg8"><img width="140px" src="http://img.youtube.com/vi/2DidcRgfmg8/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2DidcRgfmg8">Find the Quote | Google I/O 2021 Punchcard Puzzle 9</a><br/>May 13, 2021</td></tr></table>
+  <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/xvP_k55ZQhM"><img width="140px" src="http://img.youtube.com/vi/xvP_k55ZQhM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/xvP_k55ZQhM">NASA Lost a Mars Probe Over Pounds vs Newtons 🤯</a><br/>Nov 26, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/pd4cNvMiamM"><img width="140px" src="http://img.youtube.com/vi/pd4cNvMiamM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/pd4cNvMiamM">He Told Alexander the Great to MOVE 😂 #history</a><br/>Nov 26, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/1LwuUrD1Sxw"><img width="140px" src="http://img.youtube.com/vi/1LwuUrD1Sxw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/1LwuUrD1Sxw">The Summer Strasbourg Couldn’t Stop Dancing &lpar;1518&rpar;</a><br/>Nov 26, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
   
 </details>
