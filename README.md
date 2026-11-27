@@ -292,12 +292,12 @@
     <span style="font-weight:600; margin:0 8px;">Latest YouTube Videos</span>
   </summary>
 
-  <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/xvP_k55ZQhM"><img width="140px" src="http://img.youtube.com/vi/xvP_k55ZQhM/maxresdefault.jpg"></a></td>
+  <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/IJ9B8BtPNuw"><img width="140px" src="http://img.youtube.com/vi/IJ9B8BtPNuw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/IJ9B8BtPNuw">He Was Declared DEAD… While Standing Right There 💀</a><br/>Nov 27, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/pjnjEESRQ1o"><img width="140px" src="http://img.youtube.com/vi/pjnjEESRQ1o/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/pjnjEESRQ1o">Australia Declared War on Birds… and Lost 🐦</a><br/>Nov 27, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/xvP_k55ZQhM"><img width="140px" src="http://img.youtube.com/vi/xvP_k55ZQhM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/xvP_k55ZQhM">NASA Lost a Mars Probe Over Pounds vs Newtons 🤯</a><br/>Nov 26, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/pd4cNvMiamM"><img width="140px" src="http://img.youtube.com/vi/pd4cNvMiamM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/pd4cNvMiamM">He Told Alexander the Great to MOVE 😂 #history</a><br/>Nov 26, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/1LwuUrD1Sxw"><img width="140px" src="http://img.youtube.com/vi/1LwuUrD1Sxw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/1LwuUrD1Sxw">The Summer Strasbourg Couldn’t Stop Dancing &lpar;1518&rpar;</a><br/>Nov 26, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
   
 </details>
