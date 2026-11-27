@@ -55,12 +55,21 @@ www-twitter-com-b29db3b6:
 www-youtube-com-1588f5f2:
   backup: assets/backups/www-youtube-com-1588f5f2.md
   primary: https://www.youtube.com/watch?v=P9Q8uiX5I7E
+www-youtube-com-1e2e199b:
+  backup: assets/backups/www-youtube-com-1e2e199b.md
+  primary: https://www.youtube.com/shorts/pd4cNvMiamM
+www-youtube-com-21e1c9ce:
+  backup: assets/backups/www-youtube-com-21e1c9ce.md
+  primary: https://www.youtube.com/shorts/1LwuUrD1Sxw
 www-youtube-com-6ea4f73c:
   backup: assets/backups/www-youtube-com-6ea4f73c.md
   primary: https://www.youtube.com/watch?v=DK2Gi0KlwgU
 www-youtube-com-8cfff515:
   backup: assets/backups/www-youtube-com-8cfff515.md
   primary: https://www.youtube.com/watch?v=2DidcRgfmg8
+www-youtube-com-a02c5da4:
+  backup: assets/backups/www-youtube-com-a02c5da4.md
+  primary: https://www.youtube.com/shorts/xvP_k55ZQhM
 www-youtube-com-b82b3eb6:
   backup: assets/backups/www-youtube-com-b82b3eb6.md
   primary: https://www.youtube.com/channel/UCcINlOM-rC1_8yiRGH_iFBg?sub_confirmation=1
