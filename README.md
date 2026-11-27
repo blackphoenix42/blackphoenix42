@@ -292,12 +292,12 @@
     <span style="font-weight:600; margin:0 8px;">Latest YouTube Videos</span>
   </summary>
 
-  <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/IJ9B8BtPNuw"><img width="140px" src="http://img.youtube.com/vi/IJ9B8BtPNuw/maxresdefault.jpg"></a></td>
+  <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/ufCSd8HGARY"><img width="140px" src="http://img.youtube.com/vi/ufCSd8HGARY/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/ufCSd8HGARY">He Finished the Olympic Marathon FIRST… by CAR 🚗💨</a><br/>Nov 27, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/IJ9B8BtPNuw"><img width="140px" src="http://img.youtube.com/vi/IJ9B8BtPNuw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/IJ9B8BtPNuw">He Was Declared DEAD… While Standing Right There 💀</a><br/>Nov 27, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/pjnjEESRQ1o"><img width="140px" src="http://img.youtube.com/vi/pjnjEESRQ1o/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/pjnjEESRQ1o">Australia Declared War on Birds… and Lost 🐦</a><br/>Nov 27, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/xvP_k55ZQhM"><img width="140px" src="http://img.youtube.com/vi/xvP_k55ZQhM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/xvP_k55ZQhM">NASA Lost a Mars Probe Over Pounds vs Newtons 🤯</a><br/>Nov 26, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
   
 </details>
