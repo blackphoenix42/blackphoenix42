@@ -73,3 +73,12 @@ www-youtube-com-a02c5da4:
 www-youtube-com-b82b3eb6:
   backup: assets/backups/www-youtube-com-b82b3eb6.md
   primary: https://www.youtube.com/channel/UCcINlOM-rC1_8yiRGH_iFBg?sub_confirmation=1
+www-youtube-com-df2903f7:
+  backup: assets/backups/www-youtube-com-df2903f7.md
+  primary: https://www.youtube.com/shorts/ufCSd8HGARY
+www-youtube-com-e30a23b0:
+  backup: assets/backups/www-youtube-com-e30a23b0.md
+  primary: https://www.youtube.com/shorts/pjnjEESRQ1o
+www-youtube-com-f31dc43c:
+  backup: assets/backups/www-youtube-com-f31dc43c.md
+  primary: https://www.youtube.com/shorts/IJ9B8BtPNuw
